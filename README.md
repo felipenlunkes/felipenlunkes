@@ -6,6 +6,6 @@ My name is Felipe Lunkes and I am a brazilian biologist and a free time assembly
 - 🌱 I’m currently learning bioinformatics, x86 assembly and biochemistry
 - 👯 I’m looking to collaborate on operating system projects
 - 🤔 I’m looking for help with Hexagonix/Andromeda operating system development
-- 📫 How to reach me: [@redLipes on Twitter](https://twitter.com/redLipes) or felipemiguel_nery@hotmail.com
+- 📫 How to reach me: [@felipemnlunkes on Twitter](https://twitter.com/felipemnlunkes) or felipemiguel_nery@hotmail.com
 - 😄 Pronouns: he/him
 
