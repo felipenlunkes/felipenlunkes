@@ -62,9 +62,11 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 ## 🛠 Tools I use
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-FreeBSD-informational?style=flat&logo=freebsd&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/FreeBSD-informational?style=flat&logo=freebsd&logoColor=white&color=2bbc8a)
+
 
 ## 👥️️ Stargazers
 
