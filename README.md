@@ -26,7 +26,7 @@ My name is Felipe Lunkes and I am a brazilian biologist and developer. My intere
 
 # 💎 My projects
 
-- 📍 I am currently working on the Hexagonix/Andromeda operating system project
+📍 I am currently working or practicing on these projects:
 
 ## Hexagonix/Andromeda Operating System
 
