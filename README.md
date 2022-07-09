@@ -7,8 +7,6 @@
 
 My name is Felipe Lunkes and I am a brazilian biologist and developer. My interests include operating systems design and implementation, but also bioinformatics, biochemistry and molecular biology.
 
-- 🔭 I am currently working on the Hexagonix/Andromeda operating system project
-
 <!--
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
 -->
@@ -16,6 +14,8 @@ My name is Felipe Lunkes and I am a brazilian biologist and developer. My intere
 - 😄 Pronouns: he/him
 
 ### My projects 
+
+- 🔭 I am currently working on the Hexagonix/Andromeda operating system project
 
 #### Hexagonix/Andromeda Operating System
 
