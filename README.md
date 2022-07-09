@@ -35,3 +35,7 @@ My name is Felipe Lunkes and I am a brazilian biologist and developer. My intere
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+## Stargazers
+
+[![Stargazers](https://reporoster.com/stars/felipenlunkes/felipenlunkes)](https://github.com/felipenlunkes/felipenlunkes/stargazers)
