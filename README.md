@@ -95,6 +95,7 @@ I master the following languages and tools:
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Arduino-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
 
-## Stargazers 👥️️
+## Stargazers and visits 👥️️
 
+![](https://komarev.com/ghpvc/?username=felipenlunkes)
 [![Stargazers](https://reporoster.com/stars/felipenlunkes/felipenlunkes)](https://github.com/felipenlunkes/felipenlunkes/stargazers)
