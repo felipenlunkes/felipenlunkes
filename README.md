@@ -23,13 +23,17 @@ My name is Felipe Lunkes and I am a brazilian biologist and developer. My intere
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
 </p>
 
-I currently develop the Hexagonix/Andromeda operating system on my own, available [here](https://github.com/hexagonix/hexagonix).
+I am the creator and, so far, the sole developer of Hexagonix, an operating system developed entirely from scratch in x86 Assembly that takes a lot of inspiration from Unix systems, even if I don't have any of these code. The biggest inspiration for development was to create a system similar to FreeBSD and Linux, while allowing me to learn more about how an operating system works and about hardware. Now, the complete system code, including the kernel, utilities and APIs, has been released as free software under a BSD license, allowing interested parties to participate in this project and expand it or just to study more about the organization of an operating system, Assembly or hardware.
+
+You can find the repositories and get more information about the project [here](https://github.com/hexagonix/hexagonix).
 
 #### GaiaBSD
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
 </p>
+
+GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and trying to develop a more user-friendly distribution based on the robustness of FreeBSD.
 
 ### 🤓💻 My interests
 
