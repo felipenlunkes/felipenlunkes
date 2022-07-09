@@ -19,8 +19,6 @@
 
 My name is Felipe Lunkes (he/him) and I am a Brazilian developer and biologist. My history in programming and development begins at the age of 2, when I became interested in computers, and later, at 15, the interest was reinforced by starting a technical course in computing. Since then, I started to have contact and learn a series of programming languages, either with the technical course or in a self-taught way. So far, I have experience in Pascal, C, Java, x86 Assembly, and Visual Basic, as well as shell scripting. Also, I'm studying Python, HTML/CSS, JavaScript and more about Java, looking for what I need for mobile development. I am also interested in bioinformatics and biochemistry, as well as developing tools that can be used in these areas.
 
-![](https://komarev.com/ghpvc/?username=felipenlunkes)
-
 <!--
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
 -->
@@ -73,13 +71,15 @@ Other projects can be found [here](https://github.com/felipenlunkes?tab=reposito
 - 🤔 I’m looking for help with Hexagonix/Andromeda operating system development
 
 ## GitHub Stats 📈 
- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=radical&layout=compact)](https://github.com/felipenlunkes)
 ![Felipe Lunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=radical)
 [![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=radical)](https://github.com/hexagonix/Hexagon)
 [![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=radical)](https://github.com/hexagonix/Hboot)
 [![Unix-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps&theme=radical)](https://github.com/hexagonix/unix-apps)
 [![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=radical)](https://github.com/hexagonix/fasmx)
+
+![](https://komarev.com/ghpvc/?username=felipenlunkes)
 
 ## Tools I use 🛠 
 
