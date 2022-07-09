@@ -28,7 +28,7 @@ My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
 <p align='center'>
 <a href="https://instagram.com/dev_lipe"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg"></a>&nbsp;&nbsp;
  <a href="https://twitter.com/felipeldev"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/twitter.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/felipeldev"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/devdotto.svg"></a>&nbsp;&nbsp;  
+<a href="https://dev.to/felipenlunkes"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/devdotto.svg"></a>&nbsp;&nbsp;  
 <a href="felipemiguel_nery@hotmail.com"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg"></a>&nbsp;&nbsp; 
 </p>
 
