@@ -22,18 +22,15 @@ My name is Felipe Lunkes and I am a brazilian biologist and developer. My intere
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
 I currently develop the Hexagonix/Andromeda operating system on my own, available [here](https://github.com/hexagonix/hexagonix).
-</p>
 
-
-
-## Social
+## Social and contact
 
 <p align='center'>
 <a href="https://instagram.com/dev_lipe"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg"></a>&nbsp;&nbsp;
  <a href="https://twitter.com/felipeldev"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/twitter.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/felipeldev"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/devdotto.svg"></a>&nbsp;&nbsp;  
+<a href="felipemiguel_nery@hotmail.com"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg"></a>&nbsp;&nbsp; 
 </p>
 
 ## GitHub Stats
