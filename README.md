@@ -19,6 +19,8 @@
 
 My name is Felipe Lunkes (he/him) and I am a Brazilian developer and biologist. My history in programming and development begins at the age of 2, when I became interested in computers, and later, at 15, the interest was reinforced by starting a technical course in computing. Since then, I started to have contact and learn a series of programming languages, either with the technical course or in a self-taught way. So far, I have experience in Pascal, C, Java, x86 Assembly, and Visual Basic, as well as shell scripting. Also, I'm studying Python, HTML/CSS, JavaScript and more about Java, looking for what I need for mobile development. I am also interested in bioinformatics and biochemistry, as well as developing tools that can be used in these areas.
 
+![](https://komarev.com/ghpvc/?username=felipenlunkes)
+
 <!--
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
 -->
@@ -95,7 +97,6 @@ I master the following languages and tools:
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Arduino-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
 
-## Stargazers and visits 👥️️
+## Stargazers 👥️️
 
-![](https://komarev.com/ghpvc/?username=felipenlunkes)
 [![Stargazers](https://reporoster.com/stars/felipenlunkes/felipenlunkes)](https://github.com/felipenlunkes/felipenlunkes/stargazers)
