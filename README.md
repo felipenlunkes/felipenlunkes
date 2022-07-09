@@ -9,4 +9,7 @@ My name is Felipe Lunkes and I am a brazilian biologist and developer. My intere
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
 - 😄 Pronouns: he/him
 
+# GitHub Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes)](https://github.com/felipenlunkes)
+![Felipe Lunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=radical)
