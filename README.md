@@ -13,3 +13,5 @@ My name is Felipe Lunkes and I am a brazilian biologist and developer. My intere
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes)](https://github.com/felipenlunkes)
 ![Felipe Lunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=radical)
+[![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon)](https://github.com/hexagonix/Hexagon)
+[![Unix-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps)](https://github.com/hexagonix/unix-apps)
