@@ -16,15 +16,13 @@
 
 ## About me 💁 
 
-My name is Felipe Lunkes and I am a brazilian biologist and developer. My interests include operating systems design and implementation, but also bioinformatics, biochemistry and molecular biology.
+My name is Felipe Lunkes (he/him) and I am a brazilian biologist and developer. My interests include operating systems design and implementation, but also bioinformatics, biochemistry and molecular biology.
 
 <!--
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
 -->
 
-- 😄 Pronouns: he/him
-
-## 📱Social and contact
+### Social and contact 📱📫
 
 <p align='center'>
 <a href="https://instagram.com/dev_lipe"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg"></a>&nbsp;&nbsp;
@@ -33,21 +31,21 @@ My name is Felipe Lunkes and I am a brazilian biologist and developer. My intere
 <a href="felipemiguel_nery@hotmail.com"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg"></a>&nbsp;&nbsp; 
 </p>
 
-# My projects 💎 
+## My projects 💎 
 
 📍 I am currently working or practicing on these projects:
 
-## Hexagonix/Andromeda Operating System
+### Hexagonix/Andromeda Operating System
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
 </p>
 
-I am the creator and, so far, the sole developer of Hexagonix, an operating system developed entirely from scratch in x86 Assembly that takes a lot of inspiration from Unix systems, even if I don't have any of these code. The biggest inspiration for development was to create a system similar to FreeBSD and Linux, while allowing me to learn more about how an operating system works and about hardware. Now, the complete system code, including the kernel, utilities and APIs, has been released as free software under a BSD license, allowing interested parties to participate in this project and expand it or just to study more about the organization of an operating system, Assembly or hardware.
+I am the creator and, so far, the sole developer of Hexagonix, an operating system developed entirely from scratch in x86 Assembly that takes a lot of inspiration from Unix systems, even if I don't have any of these code. The biggest inspiration for development was to create a system similar to FreeBSD and Linux, while allowing me to learn more about how an operating system works and about hardware. In the last seven years of development, I have made some advances with Hexagonix, such as developing a stable kernel with graphics, disk and FAT16B file system support, as well as porting the flat assembler to run on top of Hexagonix, making it self-hosting. I also developed an IDE that allows the development of applications on top of Hexagonix and for Hexagonix. Now, the complete system code, including the kernel, utilities and APIs, has been released as free software under a BSD license, allowing interested parties to participate in this project and expand it or just to study more about the organization of an operating system, Assembly or hardware.
 
 The project is maintained in separate repositories under a unique user. You can find the repositories and get more information about the project [here](https://github.com/hexagonix/hexagonix).
 
-## GaiaBSD
+### GaiaBSD
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
@@ -55,13 +53,13 @@ The project is maintained in separate repositories under a unique user. You can 
 
 GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and trying to develop a more user-friendly distribution based on the robustness of FreeBSD.
 
-# My interests 🤓💻 
+## My interests 🤓💻 
 
 - 🌱 I’m currently learning x86 assembly, C, Java, HTML/CSS and Python
 - 👯 I’m looking to collaborate on operating systems and open source projects
 - 🤔 I’m looking for help with Hexagonix/Andromeda operating system development
 
-# GitHub Stats 📈 
+## GitHub Stats 📈 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=radical&layout=compact)](https://github.com/felipenlunkes)
 ![Felipe Lunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=radical)
@@ -70,7 +68,7 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 [![Unix-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps&theme=radical)](https://github.com/hexagonix/unix-apps)
 [![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=radical)](https://github.com/hexagonix/fasmx)
 
-# Tools I use 🛠 
+## Tools I use 🛠 
 
 I master the following languages and tools:
 
@@ -86,6 +84,6 @@ I master the following languages and tools:
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 
-# Stargazers 👥️️
+## Stargazers 👥️️
 
 [![Stargazers](https://reporoster.com/stars/felipenlunkes/felipenlunkes)](https://github.com/felipenlunkes/felipenlunkes/stargazers)
