@@ -21,8 +21,6 @@ My name is Felipe Lunkes and I am a brazilian biologist and developer. My intere
 </p>
 
 ## GitHub Stats
-
-<p align='center'>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=radical&layout=compact)](https://github.com/felipenlunkes)
 ![Felipe Lunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=radical)
@@ -32,9 +30,7 @@ My name is Felipe Lunkes and I am a brazilian biologist and developer. My intere
 [![Andromeda-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=andromeda-apps&theme=radical)](https://github.com/hexagonix/andromda-apps)
 [![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=radical)](https://github.com/hexagonix/fasmx)
 
- </p>
- 
-## Tools
+## Tools I use
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
