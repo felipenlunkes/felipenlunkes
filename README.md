@@ -28,7 +28,7 @@ I currently develop the Hexagonix/Andromeda operating system on my own, availabl
 #### GaiaBSD
 
 <p align='center'>
-<a href="https://github.com/hexagonix"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freeBSD.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
 </p>
 
 ### 🤓💻 My interests
