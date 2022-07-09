@@ -60,6 +60,7 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 * [Everest OS](https://github.com/felipenlunkes/EverestOS) - A fork of a free and public domain operating system (Snowdrop OS), found [here](http://sebastianmihai.com/snowdrop), to study 16-bit operating systems while developing Hexagonix (32-bit)
 * [Java Power Shell (JPS)](https://github.com/felipenlunkes/Java-Power-Shell) - A portable shell developed in Java and tested on Linux, macOS and Windows
 * [PXBAS](https://github.com/felipenlunkes/PXBAS) - A BASIC interpreter for MS-DOS, FreeDOS and compatibles
+* Arduino - Arduino-based projects [here](https://github.com/felipenlunkes/Arduino-stuff) and [here](https://github.com/felipenlunkes/AxiomKernel)
 
 Other projects can be found [here](https://github.com/felipenlunkes?tab=repositories).
 
@@ -92,7 +93,7 @@ I master the following languages and tools:
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Arduino-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
 
 ## Stargazers 👥️️
 
