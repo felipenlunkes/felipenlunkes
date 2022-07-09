@@ -27,9 +27,7 @@ My name is Felipe Lunkes and I am a brazilian biologist and developer. My intere
 [![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=radical)](https://github.com/hexagonix/Hexagon)
 [![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=radical)](https://github.com/hexagonix/Hboot)
 [![Unix-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps&theme=radical)](https://github.com/hexagonix/unix-apps)
-[![Andromeda-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=andromeda-apps&theme=radical)](https://github.com/hexagonix/andromda-apps)
 [![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=radical)](https://github.com/hexagonix/fasmx)
-[![libAsm](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=lib&theme=radical)](https://github.com/hexagonix/lib)
 
 ## Tools I use
 
