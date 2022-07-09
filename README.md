@@ -1,3 +1,6 @@
+
+[![Header](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/header.png "Header")](https://twitter.com/felipeldev/)
+
 ### Hi there 👋
 
 My name is Felipe Lunkes and I am a brazilian biologist and developer. My interests include operating systems design and implementation, but also bioinformatics, biochemistry and molecular biology. I currently develop the Hexagonix/Andromeda operating system on my own, available [here](https://github.com/hexagonix/hexagonix).
