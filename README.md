@@ -25,6 +25,12 @@ My name is Felipe Lunkes and I am a brazilian biologist and developer. My intere
 
 I currently develop the Hexagonix/Andromeda operating system on my own, available [here](https://github.com/hexagonix/hexagonix).
 
+#### GaiaBSD
+
+<p align='center'>
+<a href="https://github.com/hexagonix"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freeBSD.svg"></a>&nbsp;&nbsp;
+</p>
+
 ### 🤓💻 My interests
 
 - 🌱 I’m currently learning x86 assembly, C, Java, HTML/CSS and Python
