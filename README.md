@@ -16,7 +16,7 @@
 
 ## About me 💁 
 
-My name is Felipe Lunkes (he/him) and I am a brazilian biologist and developer. My interests include operating systems design and implementation, but also bioinformatics, biochemistry and molecular biology.
+My name is Felipe Lunkes (he/him) and I am a Brazilian developer and biologist. My history in programming and development begins at the age of 2, when I became interested in computers, and later, at 15, the interest was reinforced by starting a technical course in computing. Since then, I started to have contact and learn a series of programming languages, either with the technical course or in a self-taught way. So far, I have experience in Pascal, C, Java, x86 Assembly, and Visual Basic, as well as shell scripting. Also, I'm studying Python, HTML/CSS, JavaScript and more about Java, looking for what I need for mobile development. I am also interested in bioinformatics and biochemistry, as well as developing tools that can be used in these areas.
 
 <!--
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
@@ -55,8 +55,8 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 ## My interests 🤓💻 
 
-- 🌱 I’m currently learning x86 assembly, C, Java, HTML/CSS and Python
-- 👯 I’m looking to collaborate on operating systems and open source projects
+- 🌱 I’m currently learning x86 assembly, C, Java, HTML/CSS, JavaScript and Python
+- 👯 I’m looking to collaborate on operating systems and other open source projects
 - 🤔 I’m looking for help with Hexagonix/Andromeda operating system development
 
 ## GitHub Stats 📈 
