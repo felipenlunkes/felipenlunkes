@@ -53,6 +53,15 @@ The project is maintained in separate repositories under a unique user. You can 
 
 GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and trying to develop a more user-friendly distribution based on the robustness of FreeBSD.
 
+## Other completed projects
+
+* [Bin S.O](https://github.com/felipenlunkes/Bin-S.O) - My first attempt to develop an operating system (2013) using x86 Assembly
+* [Everest OS](https://github.com/felipenlunkes/EverestOS) - A fork of a free and public domain operating system (Snowdrop OS), found [here](http://sebastianmihai.com/snowdrop), to study 16-bit operating systems while developing Hexagonix (32-bit)
+* [Java Power Shell (JPS)](https://github.com/felipenlunkes/Java-Power-Shell) - A portable shell developed in Java and tested on Linux, macOS and Windows
+* [PXBAS](https://github.com/felipenlunkes/PXBAS) - A BASIC interpreter for MS-DOS, FreeDOS and compatibles
+
+Other projects can be found [here](https://github.com/felipenlunkes?tab=repositories).
+
 ## My interests 🤓💻 
 
 - 🌱 I’m currently learning x86 assembly, C, Java, HTML/CSS, JavaScript and Python
