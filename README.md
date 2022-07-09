@@ -18,11 +18,12 @@ My name is Felipe Lunkes and I am a brazilian biologist and developer. My intere
 
 ### Hexagonix/Andromeda Operating System
 
-<p>
+<p align='center'>
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
- </p>
  
 I currently develop the Hexagonix/Andromeda operating system on my own, available [here](https://github.com/hexagonix/hexagonix).
+
+</p>
 
 ## Social
 
