@@ -32,7 +32,7 @@ My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
 <a href="felipemiguel_nery@hotmail.com"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg"></a>&nbsp;&nbsp; 
 </p>
 
-## My projects 💎 
+## My active projects 💎 
 
 📍 I am currently working or practicing on these projects:
 
