@@ -36,7 +36,7 @@ My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
 
 📍 I am currently working or practicing on these projects:
 
-### > Hexagonix/Andromeda Operating System
+### Hexagonix/Andromeda Operating System
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
@@ -46,7 +46,7 @@ I am the creator and, so far, the sole developer of Hexagonix, an operating syst
 
 The project is maintained in separate repositories under a unique user. You can find the repositories and get more information about the project [here](https://github.com/hexagonix/).
 
-### > GaiaBSD
+### GaiaBSD
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
