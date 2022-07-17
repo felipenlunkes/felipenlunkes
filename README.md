@@ -61,7 +61,8 @@ My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
 
 ### Design Tools
 
-![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![gimp](https://img.shields.io/badge/Gimp-00C4CC?style=for-the-badge&logo=gnu-gimp&logoColor=white)
 
 ## My active projects 💎 
 
