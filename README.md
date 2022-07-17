@@ -76,7 +76,7 @@ I am in career transition and looking for an opportunity as a developer.
 
 📍 I am currently working or practicing on these projects:
 
-### Hexagonix/Andromeda Operating System
+### Hexagonix/Andromeda Operating System (Hexagonix OS)
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
@@ -110,7 +110,7 @@ Other projects can be found [here](https://github.com/felipenlunkes?tab=reposito
 - 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python
 - 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and frontend)
 - 🤔 I’m looking for help with Hexagonix/Andromeda operating system development
-- ❤️
+- ❤️ I'm currently learning and practicing x86 Assembly and baremetal development and operating system implementation (Hexagonix OS)
 
 ## 📈 GitHub Stats 
 
