@@ -56,8 +56,8 @@ I am in career transition and looking for an opportunity as a developer.
 
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-470137?style=for-the-badge&logo=linux&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-8D6748?style=for-the-badge&logo=macos&logoColor=white)
-![freeBSD](https://img.shields.io/badge/freeBSD-000000?style=for-the-badge&logo=freebsd&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-F2621F?style=for-the-badge&logo=macos&logoColor=white)
+![freeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
 ![arduino](https://img.shields.io/badge/Arduino-E4405F?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### Tools
