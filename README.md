@@ -141,4 +141,4 @@ Other projects and learning repositories can be found [here](https://github.com/
 
 ## More
 
-[Versão em português](README.pt.md)
+[Versão em português](README.pt.md) (Portuguese version)
