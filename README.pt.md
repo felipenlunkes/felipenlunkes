@@ -44,33 +44,34 @@ Estou em transição de carreira e em busca de uma oportunidade como desenvolved
 
 ### Linguagens de programação
 
-![assembly](https://img.shields.io/badge/Assembly-F16822?style=for-the-badge&logo=assembly&logoColor=white)
-![c](https://img.shields.io/badge/C-CA4245?style=for-the-badge&logo=c&logoColor=white)
-![java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
-![visualbasic](https://img.shields.io/badge/VisualBasic-430098?style=for-the-badge&logo=visualbasic&logoColor=white)
-![python](https://img.shields.io/badge/Python-0077B5?style=for-the-badge&logo=python&logoColor=white)
-![bash](https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![assembly](https://img.shields.io/badge/Assembly-F57842?style=for-the-badge&logo=assembly&logoColor=white)
+![c](https://img.shields.io/badge/C-F5b342?style=for-the-badge&logo=c&logoColor=white)
+![java](https://img.shields.io/badge/Java-F54242?style=for-the-badge&logo=java&logoColor=white)
+![visualbasic](https://img.shields.io/badge/VisualBasic-5334ED?style=for-the-badge&logo=visualbasic&logoColor=white)
+![python](https://img.shields.io/badge/Python-8419D1?style=for-the-badge&logo=python&logoColor=white)
+![bash](https://img.shields.io/badge/Shell_Script-118515?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![make](https://img.shields.io/badge/Make-0077B5?style=for-the-badge&logo=cmake&logoColor=white)
 
 ### Sistemas operacionais e plataformas
 
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-470137?style=for-the-badge&logo=linux&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-8D6748?style=for-the-badge&logo=macos&logoColor=white)
-![freeBSD](https://img.shields.io/badge/freeBSD-000000?style=for-the-badge&logo=freebsd&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-F2621F?style=for-the-badge&logo=macos&logoColor=white)
+![freeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
 ![arduino](https://img.shields.io/badge/Arduino-E4405F?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### Ferramentas
 
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-470137?style=for-the-badge&logo=github&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-8117EB?style=for-the-badge&logo=github&logoColor=white)
 ![qemu](https://img.shields.io/badge/Qemu-0A0A0A?style=for-the-badge&logo=qemu&logoColor=white)
-![virtualbox](https://img.shields.io/badge/VirtualBox-0078D6?style=for-the-badge&logo=virtualbox&logoColor=white)
+![virtualbox](https://img.shields.io/badge/VirtualBox-118515?style=for-the-badge&logo=virtualbox&logoColor=white)
+
 
 ### Ferramentas de design
 
-![canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![gimp](https://img.shields.io/badge/Gimp-0A0A0A?style=for-the-badge&logo=gimp&logoColor=white)
+![canva](https://img.shields.io/badge/Canva-F28A22?style=for-the-badge&logo=canva&logoColor=white)
+![gimp](https://img.shields.io/badge/Gimp-139176?style=for-the-badge&logo=gimp&logoColor=white)
 
 ## 💎 Meus projetos ativos
 
