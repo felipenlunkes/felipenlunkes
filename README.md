@@ -24,7 +24,7 @@ My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
 -->
 
-### Social and contact 📱📫
+### 📱 Social and contact
 
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipelunkes/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/felipenlunkes)
@@ -32,7 +32,7 @@ My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_lipe/)
 [![instagram](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/felipeldev/)
 
-## Skills 🛠️
+## 🛠️ Skills
 
 ### Languages
 
@@ -64,7 +64,7 @@ My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
 ![canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![gimp](https://img.shields.io/badge/Gimp-0A0A0A?style=for-the-badge&logo=gimp&logoColor=white)
 
-## My active projects 💎 
+## 💎 My active projects  
 
 📍 I am currently working or practicing on these projects:
 
@@ -97,13 +97,13 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 Other projects can be found [here](https://github.com/felipenlunkes?tab=repositories).
 
-## My interests 🤓💻 
+## 🤓 My interests  
 
 - 🌱 I’m currently learning x86 assembly, C, Java, HTML/CSS, JavaScript and Python
 - 👯 I’m looking to collaborate on operating systems and other open source projects
 - 🤔 I’m looking for help with Hexagonix/Andromeda operating system development
 
-## GitHub Stats 📈 
+## 📈 GitHub Stats 
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=radical&layout=compact)](https://github.com/felipenlunkes)
