@@ -45,7 +45,7 @@ My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
 
 ### Operating Systems
 
-![windows](https://img.shields.io/badge/Windows NT-E4405F?style=for-the-badge&logo=windows&logoColor=white)
+![windows](https://img.shields.io/badge/Windows_NT-E4405F?style=for-the-badge&logo=windows&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-0077B5?style=for-the-badge&logo=linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-E4405F?style=for-the-badge&logo=macos&logoColor=white)
 ![freeBSD](https://img.shields.io/badge/freeBSD-0077B5?style=for-the-badge&logo=freebsd&logoColor=white)
