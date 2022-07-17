@@ -103,7 +103,7 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 * [PX-DOS](https://github.com/felipenlunkes/PX-DOS) - PX-DOS is derived from an older version of a DOS system, the [Public Domain Operating System](http://www.pdos.org/) (PDOS). PX-DOS adds new layers, abstractions and functions on top of PDOS and extends its functionality. Also added a number of new utilities (userland) to the base system
 * Arduino - Arduino-based projects [here](https://github.com/felipenlunkes/Arduino-stuff) and [here](https://github.com/felipenlunkes/AxiomKernel)
 
-Other projects can be found [here](https://github.com/felipenlunkes?tab=repositories).
+Other projects and learning repositories can be found [here](https://github.com/felipenlunkes?tab=repositories).
 
 ## 🤓 My interests  
 
