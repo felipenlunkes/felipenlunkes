@@ -18,7 +18,7 @@
 
 ## Sobre mim 💁 
 
-Oi! Meu nome é Felipe Lunkes (ele/ele) e sou um desenvolvedor e biólogo brasileiro.
+Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro.
 
 Minha vida como desenvolvedor começa aos 2 anos, quando fui apresentado a um computador. Mais tarde, aos 15 anos, decidi fazer um curso técnico em computação e programação, que fez com que eu me apaixonasse pela programação. Neste curso aprendi algumas línguas e também passei a aprender outras sozinho, de forma autodidata. Hoje, tenho experiência em C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) e Python.
 
