@@ -22,7 +22,7 @@ Hi! My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologi
 
 My life as a developer starts at the age of 2, when I was introduced to a computer. Later, at the age of 15, I decided to take a technical course in computing and programming, which made me fall in love with programming. In this course I learned some languages and also tried to learn others by myself, in a self-taught way. Today, I have experience in C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) and Python.
 
-I am a loyal open source user and all my projects were released with some free license. I have a passion for designing and implementing operating systems and I created and maintain one as a hobby, as you can see below in my active projects. 
+I am a loyal open source user and all my projects were released with some free license. I have a passion for designing and implementing operating systems and I created and maintain one as a hobby, as you can see below in my active projects. This operating system project of mine stems from my fascination with Unix systems and a desire to better understand how an operating system works and is organized.
 
 I am currently studying JavaScript, Java and Python with the aim of becoming a backend and frontend developer. I am also a biologist with an interest in developing solutions for bioinformatics.
 
@@ -110,7 +110,7 @@ Other projects can be found [here](https://github.com/felipenlunkes?tab=reposito
 - 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python
 - 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and frontend)
 - 🤔 I’m looking for help with Hexagonix/Andromeda operating system development
-- ❤️ I'm currently learning and practicing x86 Assembly, baremetal development and operating system design and implementation (Hexagonix OS)
+- ❤️ I'm currently learning and practicing x86 Assembly, baremetal development and operating system implementation (Hexagonix OS)
 
 ## 📈 GitHub Stats 
 
