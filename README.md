@@ -98,15 +98,15 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 ### Operating system design and implementation
 
-* [Bin S.O](https://github.com/felipenlunkes/Bin-S.O) - My first attempt to develop an operating system (2013) using x86 Assembly
-* [Everest OS](https://github.com/felipenlunkes/EverestOS) - A fork of a free and public domain operating system (Snowdrop OS), found [here](http://sebastianmihai.com/snowdrop), to study 16-bit operating systems while developing Hexagonix (32-bit)
-* [PX-DOS](https://github.com/felipenlunkes/PX-DOS) - PX-DOS is derived from an older version of a DOS system, the [Public Domain Operating System](http://www.pdos.org/) (PDOS). PX-DOS adds new layers, abstractions and functions on top of PDOS and extends its functionality. Also added a number of new utilities (userland) to the base system
+* [Bin S.O](https://github.com/felipenlunkes/Bin-S.O) - My first attempt to develop an operating system (2013) using x86 Assembly.
+* [Everest OS](https://github.com/felipenlunkes/EverestOS) - A fork of a free and public domain operating system (Snowdrop OS), found [here](http://sebastianmihai.com/snowdrop), to study 16-bit operating systems while developing Hexagonix (32-bit).
+* [PX-DOS](https://github.com/felipenlunkes/PX-DOS) - PX-DOS is derived from an older version of a DOS system, the [Public Domain Operating System](http://www.pdos.org/) (PDOS). PX-DOS adds new layers, abstractions and functions on top of PDOS and extends its functionality. Also added a number of new utilities (userland) to the base system.
 
 ### Tools
 
-* [Java Power Shell (JPS)](https://github.com/felipenlunkes/Java-Power-Shell) - A portable shell developed in Java and tested on Linux, macOS and Windows
-* [PXBAS](https://github.com/felipenlunkes/PXBAS) - A BASIC interpreter for MS-DOS, FreeDOS, PX-DOS, PDOS and compatibles
-* Arduino - Arduino-based projects [here](https://github.com/felipenlunkes/Arduino-stuff) and [here](https://github.com/felipenlunkes/AxiomKernel)
+* [Java Power Shell (JPS)](https://github.com/felipenlunkes/Java-Power-Shell) - A portable shell developed in Java and tested on Linux, macOS and Windows.
+* [PXBAS](https://github.com/felipenlunkes/PXBAS) - A BASIC interpreter for MS-DOS, FreeDOS, PX-DOS, PDOS and compatibles.
+* Arduino - Arduino-based projects [here](https://github.com/felipenlunkes/Arduino-stuff) and [here](https://github.com/felipenlunkes/AxiomKernel).
 
 ### More projects and learning tools
 
@@ -114,10 +114,10 @@ Other projects and learning repositories can be found [here](https://github.com/
 
 ## 🤓 My interests  
 
-- 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python
-- 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and frontend)
-- 🤔 I’m looking for help with Hexagonix/Andromeda operating system development
-- ❤️ I'm currently learning and practicing x86 Assembly, baremetal development and operating system implementation (Hexagonix OS)
+- 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python.
+- 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and frontend).
+- 🤔 I’m looking for help with Hexagonix/Andromeda operating system development.
+- ❤️ I'm currently learning and practicing x86 Assembly, baremetal development and operating system implementation (Hexagonix OS).
 
 ## 📈 GitHub Stats 
 
