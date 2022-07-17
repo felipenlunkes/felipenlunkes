@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/header.png "Header")](https://twitter.com/felipeldev/)
+[![Header](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/header.pt.png "Header")](https://twitter.com/felipeldev/)
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-FreeBSD-informational?style=flat&logo=freebsd&logoColor=white&color=2bbc8a)
@@ -14,25 +14,25 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Arduino-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
 
-# Hi there <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/wave.gif" width="30px" height="30px" />
+# Olá! <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/wave.gif" width="30px" height="30px" />
 
-## About me 💁 
+## Sobre mim 💁 
 
-Hi! My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
+Oi! Meu nome é Felipe Lunkes (ele/ele) e sou um desenvolvedor e biólogo brasileiro.
 
-My life as a developer starts at the age of 2, when I was introduced to a computer. Later, at the age of 15, I decided to take a technical course in computing and programming, which made me fall in love with programming. In this course I learned some languages and also tried to learn others by myself, in a self-taught way. Today, I have experience in C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) and Python.
+Minha vida como desenvolvedor começa aos 2 anos, quando fui apresentado a um computador. Mais tarde, aos 15 anos, decidi fazer um curso técnico em computação e programação, que fez com que eu me apaixonasse pela programação. Neste curso aprendi algumas línguas e também passei a aprender outras sozinho, de forma autodidata. Hoje, tenho experiência em C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) e Python.
 
-I am a loyal open source user and all my projects were released with some free license. I have a passion for designing and implementing operating systems and I created and maintain one as a hobby, as you can see below in my active projects. This operating system project of mine stems from my fascination with Unix systems and a desire to better understand how an operating system works and is organized.
+Sou um usuário leal de código aberto e todos os meus projetos foram lançados com alguma licença gratuita. Tenho paixão por desing e implementação de sistemas operacionais e criei e mantenho um como hobby, como você pode ver abaixo em meus projetos ativos. Este meu projeto de sistema operacional deriva do meu fascínio por sistemas Unix e um desejo de entender melhor como um sistema operacional funciona e é organizado.
 
-I am currently studying JavaScript, Java and Python with the aim of becoming a backend and frontend developer. I am also a biologist with an interest in developing solutions for bioinformatics.
+Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar um desenvolvedor backend e frontend. Também sou biólogo com interesse em desenvolver soluções para bioinformática.
 
-I am in career transition and looking for an opportunity as a developer.
+Estou em transição de carreira e em busca de uma oportunidade como desenvolvedor.
 
 <!--
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
 -->
 
-### 📱 Social and contact
+### 📱 Redes sociais e contato
 
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipelunkes/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/felipenlunkes)
@@ -40,9 +40,9 @@ I am in career transition and looking for an opportunity as a developer.
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_lipe/)
 [![instagram](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/felipeldev/)
 
-## 🛠️ Skills
+## 🛠️ Habilidades
 
-### Languages
+### Linguagens de programação
 
 ![assembly](https://img.shields.io/badge/Assembly-F16822?style=for-the-badge&logo=assembly&logoColor=white)
 ![c](https://img.shields.io/badge/C-CA4245?style=for-the-badge&logo=c&logoColor=white)
@@ -52,7 +52,7 @@ I am in career transition and looking for an opportunity as a developer.
 ![bash](https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![make](https://img.shields.io/badge/Make-0077B5?style=for-the-badge&logo=cmake&logoColor=white)
 
-### Operating Systems and plataforms
+### Sistemas operacionais e plataformas
 
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-470137?style=for-the-badge&logo=linux&logoColor=white)
@@ -60,31 +60,31 @@ I am in career transition and looking for an opportunity as a developer.
 ![freeBSD](https://img.shields.io/badge/freeBSD-000000?style=for-the-badge&logo=freebsd&logoColor=white)
 ![arduino](https://img.shields.io/badge/Arduino-E4405F?style=for-the-badge&logo=arduino&logoColor=white)
 
-### Tools
+### Ferramentas
 
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-470137?style=for-the-badge&logo=github&logoColor=white)
 ![qemu](https://img.shields.io/badge/Qemu-0A0A0A?style=for-the-badge&logo=qemu&logoColor=white)
 ![virtualbox](https://img.shields.io/badge/VirtualBox-0078D6?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-### Design Tools
+### Ferramentas de design
 
 ![canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![gimp](https://img.shields.io/badge/Gimp-0A0A0A?style=for-the-badge&logo=gimp&logoColor=white)
 
-## 💎 My active projects  
+## 💎 Meus projetos ativos
 
-📍 I am currently working on these projects:
+📍 Estou trabalhando atualmente nestes projetos pessoais:
 
-### 1️⃣ Hexagonix/Andromeda Operating System (Hexagonix OS)
+### 1️⃣ Sistema Operacional Hexagonix/Andromeda (Hexagonix OS)
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
 </p>
 
-I am the creator and, so far, the sole developer of Hexagonix, an operating system developed entirely from scratch in x86 Assembly that takes a lot of inspiration from Unix systems, even if I don't have any of these codes. The biggest inspiration for development was to create a system similar to FreeBSD and Linux, while allowing me to learn more about how an operating system works and about hardware. In the last seven years of development, I have made some advances with Hexagonix, such as developing a stable kernel with graphics, disk and FAT16B file system support, as well as porting the flat assembler to run on top of Hexagonix, making it self-hosting. I also developed an IDE that allows the development of applications on top of Hexagonix and for Hexagonix. Now, the complete system code, including the kernel, utilities and APIs, has been released as free software under a BSD license, allowing interested parties to participate in this project and expand it or just to study more about the organization of an operating system, Assembly or hardware.
+Eu sou o criador e, até agora, o único desenvolvedor do Hexagonix, um sistema operacional desenvolvido inteiramente do zero em Assembly x86 que se inspira muito nos sistemas Unix, mesmo que eu não tenha nenhum código derivado destes. A maior inspiração para o desenvolvimento foi criar um sistema semelhante ao FreeBSD e ao Linux, ao mesmo tempo em que me permitia aprender mais sobre como funciona um sistema operacional e sobre hardware. Nos últimos sete anos de desenvolvimento, fiz alguns avanços com o Hexagonix, como desenvolver um kernel estável com suporte a gráficos, disco e sistema de arquivos FAT16B, além de portar o flat assmelber para ser executado sobre o Hexagonix, tornando-o self-hosting. Também desenvolvi uma IDE que permite o desenvolvimento de aplicativos sobre do Hexagonix e para o Hexagonix. Agora, o código completo do sistema, incluindo o kernel, utilitários e APIs, foi lançado como software livre sob licença BSD, permitindo aos interessados ​​participar deste projeto e expandi-lo ou apenas estudar mais sobre a organização de um sistema operacional, Assembly ou hardware.
 
-The project is maintained in separate repositories under a unique user. You can find the repositories and get more information about the project [here](https://github.com/hexagonix/).
+O projeto é mantido em repositórios separados sob um único usuário. Você pode encontrar os repositórios e obter mais informações sobre o projeto [aqui](https://github.com/hexagonix/).
 
 ### 2️⃣ GaiaBSD
 
@@ -92,34 +92,34 @@ The project is maintained in separate repositories under a unique user. You can 
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
 </p>
 
-GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and trying to develop a more user-friendly distribution based on the robustness of FreeBSD.
+GaiaBSD é um fork do FreeBSD destinado a estudar mais sobre sistemas Unix e tentar desenvolver uma distribuição mais amigável baseada na robustez do FreeBSD.
 
-## Other completed projects
+## Outros projetos completos
 
-### Operating system design and implementation
+### Design e implementação de sistemas operacionais
 
-* [Bin S.O](https://github.com/felipenlunkes/Bin-S.O) - My first attempt to develop an operating system (2013) using x86 Assembly.
-* [Everest OS](https://github.com/felipenlunkes/EverestOS) - A fork of a free and public domain operating system (Snowdrop OS), found [here](http://sebastianmihai.com/snowdrop), to study 16-bit operating systems while developing Hexagonix (32-bit).
-* [PX-DOS](https://github.com/felipenlunkes/PX-DOS) - PX-DOS is derived from an older version of a DOS system, the [Public Domain Operating System](http://www.pdos.org/) (PDOS). PX-DOS adds new layers, abstractions and functions on top of PDOS and extends its functionality. Also added a number of new utilities (userland) to the base system.
+* [Bin S.O](https://github.com/felipenlunkes/Bin-S.O) - Minha primeira tentativa de desenvolver um sistema operacional (2013) usando Assembly x86.
+* [Everest OS](https://github.com/felipenlunkes/EverestOS) - Um fork de um sistema operacional de domínio público e gratuito (Snowdrop OS), encontrado [aqui](http://sebastianmihai.com/snowdrop), para estudar mais sobre sistemas operacionais básicos de 16 bits enquanto iniciava e continuava com o desenvolvimento do Hexagonix (32 bits).
+* [PX-DOS](https://github.com/felipenlunkes/PX-DOS) - PX-DOS é derivado de uma versão mais antiga de um sistema DOS, o [Sistema Operacional de Domínio Público](http://www.pdos.org/) (PDOS). O PX-DOS adiciona novas camadas, abstrações e funções sobre o PDOS e estende sua funcionalidade. Também foram adicionados vários novos utilitários (userland) escritos por mim ao sistema.
 
-### Tools and utilities
+### Ferramentas e utilitários
 
-* [Java Power Shell (JPS)](https://github.com/felipenlunkes/Java-Power-Shell) - A portable shell developed in Java and tested on Linux, macOS and Windows.
-* [PXBAS](https://github.com/felipenlunkes/PXBAS) - A BASIC interpreter for MS-DOS, FreeDOS, PX-DOS, PDOS and compatibles.
-* Arduino - Arduino-based projects [here](https://github.com/felipenlunkes/Arduino-stuff) and [here](https://github.com/felipenlunkes/AxiomKernel).
+* [Java Power Shell (JPS)](https://github.com/felipenlunkes/Java-Power-Shell) - Um shell portável desenvolvido em Java e testado em Linux, macOS e Windows.
+* [PXBAS](https://github.com/felipenlunkes/PXBAS) - Um interpretador BASIC para MS-DOS, FreeDOS, PX-DOS, PDOS e compatíveis.
+* Arduino - projetos baseados em Arduino [aqui](https://github.com/felipenlunkes/Arduino-stuff) e [aqui](https://github.com/felipenlunkes/AxiomKernel).
 
-### More projects and learning tools
+### Mais projetos e ferramentas de aprendizagem
 
-Other projects and learning repositories can be found [here](https://github.com/felipenlunkes?tab=repositories).
+Outros projetos e repositórios de aprendizagem podem ser encontrados [aqui](https://github.com/felipenlunkes?tab=repositories).
 
-## 🤓 My interests  
+## 🤓 Meus interesses  
 
-- 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python.
-- 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and frontend).
-- 🤔 I’m looking for help with Hexagonix/Andromeda operating system development.
-- ❤️ I'm currently learning and practicing x86 Assembly, baremetal development and operating system implementation (Hexagonix OS).
+- 🌱 Estou aprendendo mais sobre JavaScript, Java, HTML/CSS e Python.
+- 👯 Procuro colaborar em sistemas operacionais, código aberto e projetos comerciais (backend e frontend).
+- 🤔 Estou procurando ajuda com o desenvolvimento do sistema operacional Hexagonix/Andromeda.
+- ❤️ Atualmente estou aprendendo e praticando Assembly x86, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS).
 
-## 📈 GitHub Stats 
+## 📈 Estatísticas do meu GitHub 
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=radical&layout=compact)](https://github.com/felipenlunkes)
@@ -131,14 +131,10 @@ Other projects and learning repositories can be found [here](https://github.com/
 
 ![](https://komarev.com/ghpvc/?username=felipenlunkes)
 
-## 🖥️ My workspace setup
+## 🖥️ Meu setup
 
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![mx-110](https://img.shields.io/badge/NVIDIA-MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux_Ubuntu-470137?style=for-the-badge&logo=linux&logoColor=white)
 ![windows-11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-## More
-
-[Versão em português](README.pt.md)
