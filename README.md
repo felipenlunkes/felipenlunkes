@@ -74,7 +74,7 @@ I am in career transition and looking for an opportunity as a developer.
 
 ## 💎 My active projects  
 
-📍 I am currently working on these projects:
+📍 I am currently working on these personal projects:
 
 ### 1️⃣ Hexagonix/Andromeda Operating System (Hexagonix OS)
 
