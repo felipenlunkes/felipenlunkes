@@ -70,7 +70,7 @@ I am in career transition and looking for an opportunity as a developer.
 ### Design Tools
 
 ![canva](https://img.shields.io/badge/Canva-F28A22?style=for-the-badge&logo=canva&logoColor=white)
-![gimp](https://img.shields.io/badge/Gimp-0A0A0A?style=for-the-badge&logo=gimp&logoColor=white)
+![gimp](https://img.shields.io/badge/Gimp-139176?style=for-the-badge&logo=gimp&logoColor=white)
 
 ## 💎 My active projects  
 
