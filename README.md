@@ -37,22 +37,21 @@ My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
 
 ### Languages 
 
-![assembly](https://img.shields.io/badge/Assembly-3776AB?style=for-the-badge&logo=assembly&logoColor=white)
-![c](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=white)
-![python](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white)
-![python](https://img.shields.io/badge/VisualBasic-E4405F?style=for-the-badge&logo=visualbasic&logoColor=white)
+![assembly](https://img.shields.io/badge/Assembly-F16822?style=for-the-badge&logo=assembly&logoColor=white)
+![c](https://img.shields.io/badge/C-CA4245?style=for-the-badge&logo=c&logoColor=white)
+![java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
+![visualbasic](https://img.shields.io/badge/VisualBasic-430098?style=for-the-badge&logo=visualbasic&logoColor=white)
 ![python](https://img.shields.io/badge/Python-0077B5?style=for-the-badge&logo=python&logoColor=white)
 
 ### Operating Systems
 
-![windows](https://img.shields.io/badge/Windows_NT-E4405F?style=for-the-badge&logo=windows&logoColor=white)
-![linux](https://img.shields.io/badge/Linux-0077B5?style=for-the-badge&logo=linux&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-E4405F?style=for-the-badge&logo=macos&logoColor=white)
-![freeBSD](https://img.shields.io/badge/freeBSD-0077B5?style=for-the-badge&logo=freebsd&logoColor=white)
+![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-470137?style=for-the-badge&logo=linux&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-8D6748?style=for-the-badge&logo=macos&logoColor=white)
+![freeBSD](https://img.shields.io/badge/freeBSD-000000?style=for-the-badge&logo=freebsd&logoColor=white)
 
 ### Design Tools
 
-![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ## My active projects 💎 
