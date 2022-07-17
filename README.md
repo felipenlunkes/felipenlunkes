@@ -107,8 +107,8 @@ Other projects can be found [here](https://github.com/felipenlunkes?tab=reposito
 
 ## 🤓 My interests  
 
-- 🌱 I’m currently learning x86 assembly, C, Java, HTML/CSS, JavaScript and Python
-- 👯 I’m looking to collaborate on operating systems and other open source projects
+- 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python
+- 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and frontend)
 - 🤔 I’m looking for help with Hexagonix/Andromeda operating system development
 
 ## 📈 GitHub Stats 
