@@ -49,7 +49,7 @@ I am in career transition and looking for an opportunity as a developer.
 ![java](https://img.shields.io/badge/Java-F54242?style=for-the-badge&logo=java&logoColor=white)
 ![visualbasic](https://img.shields.io/badge/VisualBasic-5334ED?style=for-the-badge&logo=visualbasic&logoColor=white)
 ![python](https://img.shields.io/badge/Python-8419D1?style=for-the-badge&logo=python&logoColor=white)
-![bash](https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![bash](https://img.shields.io/badge/Shell_Script-1985A6?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![make](https://img.shields.io/badge/Make-0077B5?style=for-the-badge&logo=cmake&logoColor=white)
 
 ### Operating Systems and platforms
