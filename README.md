@@ -44,9 +44,9 @@ I am in career transition and looking for an opportunity as a developer.
 
 ### Languages
 
-![assembly](https://img.shields.io/badge/Assembly-F57842?style=for-the-badge&logo=x86-assembly&logoColor=white)
+![assembly](https://img.shields.io/badge/Assembly-F57842?style=for-the-badge&logo=assembly&logoColor=white)
 ![c](https://img.shields.io/badge/C-F5b342?style=for-the-badge&logo=c&logoColor=white)
-![java](https://img.shields.io/badge/Java-F54242?style=for-the-badge&logo=java&logoColor=white)
+![java](https://img.shields.io/badge/Java-F54242?style=for-the-badge&logo=javac&logoColor=white)
 ![visualbasic](https://img.shields.io/badge/VisualBasic-5334ED?style=for-the-badge&logo=visualbasic&logoColor=white)
 ![python](https://img.shields.io/badge/Python-8419D1?style=for-the-badge&logo=python&logoColor=white)
 ![bash](https://img.shields.io/badge/Shell_Script-118515?style=for-the-badge&logo=gnu-bash&logoColor=white)
