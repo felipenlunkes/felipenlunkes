@@ -63,9 +63,9 @@ I am in career transition and looking for an opportunity as a developer.
 ### Tools
 
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-470137?style=for-the-badge&logo=github&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-8117EB?style=for-the-badge&logo=github&logoColor=white)
 ![qemu](https://img.shields.io/badge/Qemu-0A0A0A?style=for-the-badge&logo=qemu&logoColor=white)
-![virtualbox](https://img.shields.io/badge/VirtualBox-0078D6?style=for-the-badge&logo=virtualbox&logoColor=white)
+![virtualbox](https://img.shields.io/badge/VirtualBox-118515?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ### Design Tools
 
