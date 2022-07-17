@@ -9,8 +9,10 @@
 ![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=assembly&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-VisualBasic-informational?style=flat&logo=visualbasic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-VisualBasic-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Arduino-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
 
@@ -47,10 +49,12 @@ Estou em transição de carreira e em busca de uma oportunidade como desenvolved
 ![assembly](https://img.shields.io/badge/Assembly-F57842?style=for-the-badge&logo=assembly&logoColor=white)
 ![c](https://img.shields.io/badge/C-F5b342?style=for-the-badge&logo=c&logoColor=white)
 ![java](https://img.shields.io/badge/Java-F54242?style=for-the-badge&logo=java&logoColor=white)
-![visualbasic](https://img.shields.io/badge/VisualBasic-5334ED?style=for-the-badge&logo=visualbasic&logoColor=white)
+![visualbasic](https://img.shields.io/badge/VisualBasic-5334ED?style=for-the-badge&logo=.net&logoColor=white)
 ![python](https://img.shields.io/badge/Python-8419D1?style=for-the-badge&logo=python&logoColor=white)
 ![bash](https://img.shields.io/badge/Shell_Script-118515?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![make](https://img.shields.io/badge/Make-0077B5?style=for-the-badge&logo=cmake&logoColor=white)
+![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Sistemas operacionais e plataformas
 
@@ -66,12 +70,16 @@ Estou em transição de carreira e em busca de uma oportunidade como desenvolved
 ![github](https://img.shields.io/badge/GitHub-8117EB?style=for-the-badge&logo=github&logoColor=white)
 ![qemu](https://img.shields.io/badge/Qemu-0A0A0A?style=for-the-badge&logo=qemu&logoColor=white)
 ![virtualbox](https://img.shields.io/badge/VirtualBox-118515?style=for-the-badge&logo=virtualbox&logoColor=white)
+![arduino_IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![visualstudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![windows_terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 
 ### Ferramentas de design
 
 ![canva](https://img.shields.io/badge/Canva-F28A22?style=for-the-badge&logo=canva&logoColor=white)
 ![gimp](https://img.shields.io/badge/Gimp-139176?style=for-the-badge&logo=gimp&logoColor=white)
+![creative_cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
 ## 💎 Meus projetos ativos
 
