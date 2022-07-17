@@ -5,7 +5,6 @@
 ![](https://img.shields.io/badge/OS-FreeBSD-informational?style=flat&logo=freebsd&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Unix-informational?style=flat&logo=unix&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=assembly&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
@@ -54,6 +53,9 @@ My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
 ![arduino](https://img.shields.io/badge/Arduino-E4405F?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### Tools
+
+![qemu](https://img.shields.io/badge/Qemu-0078D6?style=for-the-badge&logo=qemu&logoColor=white)
+![virtualbox](https://img.shields.io/badge/VirtualBox-0078D6?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ### Design Tools
 
@@ -114,4 +116,5 @@ Other projects can be found [here](https://github.com/felipenlunkes?tab=reposito
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![mx-110](https://img.shields.io/badge/NVIDIA-MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux_Ubuntu-470137?style=for-the-badge&logo=linux&logoColor=white)
+![windows-11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
