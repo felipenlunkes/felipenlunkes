@@ -27,12 +27,10 @@ My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
 
 ### Social and contact 📱📫
 
-<p align='center'>
-<a href="https://instagram.com/dev_lipe"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg"></a>&nbsp;&nbsp;
- <a href="https://twitter.com/felipeldev"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/twitter.svg"></a>&nbsp;&nbsp;
-<a href="https://dev.to/felipenlunkes"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/devdotto.svg"></a>&nbsp;&nbsp;  
-<a href="felipemiguel_nery@hotmail.com"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg"></a>&nbsp;&nbsp; 
-</p>
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipelunkes/)
+[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/felipenlunkes)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/felipenlunkes)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_lipe/)
 
 ## My active projects 💎 
 
@@ -101,7 +99,3 @@ I master the following languages and tools:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Arduino-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
-
-## Stargazers 👥️️
-
-[![Stargazers](https://reporoster.com/stars/felipenlunkes/felipenlunkes)](https://github.com/felipenlunkes/felipenlunkes/stargazers)
