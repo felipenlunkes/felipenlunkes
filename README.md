@@ -110,6 +110,7 @@ Other projects can be found [here](https://github.com/felipenlunkes?tab=reposito
 - 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python
 - 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and frontend)
 - 🤔 I’m looking for help with Hexagonix/Andromeda operating system development
+- ❤️
 
 ## 📈 GitHub Stats 
 
