@@ -18,7 +18,15 @@
 
 ## About me 💁 
 
-My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. My history in programming and development begins at the age of 2, when I became interested in computers. Later, at 15, the interest was reinforced by starting a technical course in computing. Since then, I started to have contact and learn a series of programming languages, either with the technical course or in a self-taught way. So far, I have experience in Pascal, C, Java, x86 Assembly, and Visual Basic, as well as shell scripting. Also, I'm studying Python, HTML/CSS, JavaScript and more about Java, looking for what I need for mobile development. I am also interested in bioinformatics and biochemistry, as well as developing tools that can be used in these areas.
+Hi! My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
+
+My life as a developer starts at the age of 2, when I was introduced to a computer. Later, at the age of 15, I decided to take a technical course in computing and programming, which made me fall in love with programming. In this course I learned some languages and also tried to learn others by myself, in a self-taught way. Today, I have experience in C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) and Python.
+
+I am a loyal open source user and all my projects were released with some free license. I have a passion for designing and implementing operating systems and I created and maintain one as a hobby, as you can see below in my active projects. 
+
+I am currently studying JavaScript, Java and Python with the aim of becoming a backend and frontend developer. I am also a biologist with an interest in developing solutions for bioinformatics.
+
+I am in career transition and looking for an opportunity as a developer.
 
 <!--
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
