@@ -139,6 +139,6 @@ Other projects and learning repositories can be found [here](https://github.com/
 ![windows-11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-## More
+## ➕️ More
 
-[Versão em português](README.pt.md) (Portuguese version)
+🇧🇷 [Versão em português](README.pt.md) (Portuguese version)
