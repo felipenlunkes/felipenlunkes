@@ -35,20 +35,25 @@ My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
 
 ## Skills 🛠️
 
-### Languages 
+### Languages
 
 ![assembly](https://img.shields.io/badge/Assembly-F16822?style=for-the-badge&logo=assembly&logoColor=white)
 ![c](https://img.shields.io/badge/C-CA4245?style=for-the-badge&logo=c&logoColor=white)
 ![java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
 ![visualbasic](https://img.shields.io/badge/VisualBasic-430098?style=for-the-badge&logo=visualbasic&logoColor=white)
 ![python](https://img.shields.io/badge/Python-0077B5?style=for-the-badge&logo=python&logoColor=white)
+![bash](https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![make](https://img.shields.io/badge/Make-0077B5?style=for-the-badge&logo=cmake&logoColor=white)
 
-### Operating Systems
+### Operating Systems and plataforms
 
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-470137?style=for-the-badge&logo=linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-8D6748?style=for-the-badge&logo=macos&logoColor=white)
 ![freeBSD](https://img.shields.io/badge/freeBSD-000000?style=for-the-badge&logo=freebsd&logoColor=white)
+![arduino](https://img.shields.io/badge/Arduino-E4405F?style=for-the-badge&logo=arduino&logoColor=white)
+
+### Tools
 
 ### Design Tools
 
