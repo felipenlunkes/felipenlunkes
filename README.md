@@ -31,6 +31,7 @@ My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/felipenlunkes)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/felipenlunkes)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_lipe/)
+[![instagram](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/felipeldev/)
 
 ## My active projects 💎 
 
