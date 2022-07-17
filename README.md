@@ -54,6 +54,8 @@ My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
 
 ### Tools
 
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-470137?style=for-the-badge&logo=github&logoColor=white)
 ![qemu](https://img.shields.io/badge/Qemu-0078D6?style=for-the-badge&logo=qemu&logoColor=white)
 ![virtualbox](https://img.shields.io/badge/VirtualBox-0078D6?style=for-the-badge&logo=virtualbox&logoColor=white)
 
