@@ -104,25 +104,7 @@ Other projects can be found [here](https://github.com/felipenlunkes?tab=reposito
 
 ![](https://komarev.com/ghpvc/?username=felipenlunkes)
 
-## Tools I use 🛠 
-
-I master the following languages and tools:
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-FreeBSD-informational?style=flat&logo=freebsd&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Unix-informational?style=flat&logo=unix&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=assembly&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-VisualBasic-informational?style=flat&logo=visualbasic&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Arduino-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
-
-## 🖥️ Current workspace Setup
+## 🖥️ My workspace setup
 
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![mx-110](https://img.shields.io/badge/NVIDIA-MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
