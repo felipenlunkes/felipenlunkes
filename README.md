@@ -140,8 +140,7 @@ Other projects and learning repositories can be found [here](https://github.com/
 [![Unix-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps&theme=radical)](https://github.com/hexagonix/unix-apps)
 [![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=radical)](https://github.com/hexagonix/fasmx)
 
-![](https://komarev.com/ghpvc/?username=elydre&color=61c265&label=GITHUB+PROFILE+VIEWS&style=for-the-badge)
-![](https://komarev.com/ghpvc/?username=felipenlunkes)
+![](https://komarev.com/ghpvc/?username=felipenlunkes&color=000000&label=GITHUB+PROFILE+VIEWS&style=for-the-badge)
 
 ## 🖥️ My workspace setup
 
