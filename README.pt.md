@@ -141,7 +141,7 @@ Outros projetos e repositórios de aprendizagem podem ser encontrados [aqui](htt
 [![Unix-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps&theme=radical)](https://github.com/hexagonix/unix-apps)
 [![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=radical)](https://github.com/hexagonix/fasmx)
 
-![](https://komarev.com/ghpvc/?username=felipenlunkes)
+![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=Visitas+ao+perfil&style=for-the-badge)
 
 ## 🖥️ Meu setup
 
