@@ -97,11 +97,11 @@ I am the creator and, so far, the sole developer of Hexagonix, an operating syst
 
 The project is maintained in separate repositories under a unique user. You can find the repositories and get more information about the project [here](https://github.com/hexagonix/).
 
-### Lunix OS
+### 2️⃣ Lunix OS
 
 Lunix is ​​a new operating system developed in C for the x86 architecture. It is in an early (very early) stage of development.
 
-### 2️⃣ GaiaBSD
+### 3️⃣ GaiaBSD
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
