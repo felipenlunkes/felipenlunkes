@@ -98,6 +98,11 @@ Eu sou o criador e, até agora, o único desenvolvedor do Hexagonix, um sistema 
 
 O projeto é mantido em repositórios separados sob um único usuário. Você pode encontrar os repositórios e obter mais informações sobre o projeto [aqui](https://github.com/hexagonix/).
 
+### Lunix OS
+
+
+Lunix é um novo sistema operacional desenvolvido em C para a arquitetura x86. Ele está em fase inicial (bem inicial) de desenvolvimento.
+
 ### 2️⃣ GaiaBSD
 
 <p align='center'>
