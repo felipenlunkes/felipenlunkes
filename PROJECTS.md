@@ -34,6 +34,8 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 [PX-DOS](https://github.com/felipenlunkes/PX-DOS) is derived from an older version of a DOS system, the [Public Domain Operating System](http://www.pdos.org/) (PDOS). PX-DOS adds new layers, abstractions and functions on top of PDOS and extends its functionality. Also added a number of new utilities (userland) to the base system.
 
+System components have been divided into repositories. [Here](https://github.com/felipenlunkes/PX-DOS) we have the repository that contains the kernel, boot loader and command interpreter, [here](https://github.com/felipenlunkes/PX-DOS-init) what contains the system init (user mode) and [here](https://github.com/felipenlunkes/PX-DOS-Apps) the system utilities. We also have the [repository](https://github.com/felipenlunkes/PX-DOS-libasm) with the Assembly development libraries and [libc](https://github.com/felipenlunkes/PX-DOS-libc).
+
 ### 5️⃣ Everest OS - not active (2015-2016)
 
 [Everest OS](https://github.com/felipenlunkes/EverestOS) is a fork of a free and public domain operating system (Snowdrop OS), found [here](http://sebastianmihai.com/snowdrop), to study 16-bit operating systems while developing Hexagonix (32-bit).
@@ -68,6 +70,7 @@ You can found my explorations on Arduino [here](https://github.com/felipenlunkes
 
 All the projects I carried out to learn programming languages, frameworks and development environments are available on my GitHub. See the repositories here:
 
+* The repository with my MIPS Assembly codes can be found [here](https://github.com/felipenlunkes/MIPS-asm).
 * The repository with my Python codes can be found [here](https://github.com/felipenlunkes/learning-Python).
 * The repository with my Java codes can be found [here](https://github.com/felipenlunkes/learning-Java).
 * The repository with my HTML/CSS codes can be found [here](https://github.com/felipenlunkes/learning-HTML-CSS).
