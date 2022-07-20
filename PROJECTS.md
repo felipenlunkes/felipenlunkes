@@ -60,7 +60,7 @@ System components have been divided into repositories. [Here](https://github.com
 
 ## Platforms
 
-### 1️⃣ Arduino - Arduino-based projects - not active (2012-2018)
+### 1️⃣ Arduino-based projects - not active (2012-2018)
 
 You can found my explorations on Arduino [here](https://github.com/felipenlunkes/Arduino-stuff) and [here](https://github.com/felipenlunkes/AxiomKernel).
 
