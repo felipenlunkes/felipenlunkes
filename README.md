@@ -106,7 +106,7 @@ The project is maintained in separate repositories under a unique user. You can 
 ### 2️⃣ Lunix OS
 
 <p align='center'>
-<a href="https://github.com/lunix"><img height="150" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
+<a href="https://github.com/felipenlunkes/lunix"><img height="150" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
 </p>
 
 [Lunix](https://github.com/felipenlunkes/Lunix) is a new operating system developed in C for the x86 architecture. It is in an early (very early) stage of development.
