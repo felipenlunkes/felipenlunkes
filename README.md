@@ -44,7 +44,7 @@ I am in career transition and looking for an opportunity as a developer.
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipenldev@gmail.com)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@felipeldev)
 
-<hr border-color="orange">
+<hr>
 
 ## 🛠️ Skills
 
@@ -85,6 +85,8 @@ I am in career transition and looking for an opportunity as a developer.
 ![gimp](https://img.shields.io/badge/Gimp-139176?style=for-the-badge&logo=gimp&logoColor=white)
 ![creative_cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
+<hr>
+
 ## 💎 My active projects  
 
 📍 I am currently working on these personal projects:
@@ -101,7 +103,11 @@ The project is maintained in separate repositories under a unique user. You can 
 
 ### 2️⃣ Lunix OS
 
-Lunix is ​​a new operating system developed in C for the x86 architecture. It is in an early (very early) stage of development.
+<p align='center'>
+<a href="https://github.com/lunix"><img height="150" src="https://github.com/lunix/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
+</p>
+
+[Lunix](https://github.com/felipenlunkes/Lunix) is a new operating system developed in C for the x86 architecture. It is in an early (very early) stage of development.
 
 ### 3️⃣ GaiaBSD
 
@@ -129,12 +135,16 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 Other projects and learning repositories can be found [here](https://github.com/felipenlunkes?tab=repositories).
 
+<hr>
+
 ## 🤓 My interests  
 
 - 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python.
 - 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and frontend).
 - 🤔 I’m looking for help with Hexagonix/Andromeda operating system development.
 - ❤️ I'm currently learning and practicing x86 Assembly, baremetal development and operating system implementation (Hexagonix OS).
+
+<hr>
 
 ## 📈 GitHub Stats 
 
@@ -148,6 +158,8 @@ Other projects and learning repositories can be found [here](https://github.com/
 
 ![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=GitHub+profile+views&style=for-the-badge)
 
+<hr>
+
 ## 🖥️ My workspace setup
 
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
@@ -155,6 +167,8 @@ Other projects and learning repositories can be found [here](https://github.com/
 ![linux](https://img.shields.io/badge/Linux_Ubuntu-470137?style=for-the-badge&logo=linux&logoColor=white)
 ![windows-11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+<hr>
 
 ## ➕️ More
 
