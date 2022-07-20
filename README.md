@@ -135,7 +135,7 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 ### More projects and learning tools
 
-Other projects and learning repositories can be found [here](https://github.com/felipenlunkes?tab=repositories).
+Other projects and learning repositories can be found [here](PROJECTS.md) or in my [repositories](https://github.com/felipenlunkes?tab=repositories).
 
 <hr>
 
