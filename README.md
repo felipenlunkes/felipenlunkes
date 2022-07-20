@@ -44,7 +44,7 @@ I am in career transition and looking for an opportunity as a developer.
 - 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python.
 - 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and frontend).
 - 🤔 I’m looking for help with Hexagonix/Andromeda operating system development.
-- ❤️ I'm currently learning and practicing x86 Assembly and C, baremetal development and operating system implementation (Hexagonix OS).
+- ❤️ I'm currently learning more and practicing x86 Assembly and C, baremetal development and operating system implementation (Hexagonix OS).
 
 <!--
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
