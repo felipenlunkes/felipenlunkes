@@ -35,7 +35,7 @@ Estou em transição de carreira e em busca de uma oportunidade como desenvolved
 ### 🚀 Curiosidades sobre mim
 
 * 💻 Assembly x86 é minha linguagem favorita e pratico muito no meu tempo livre
-* 🧬 Sou biólogo com ênfase em Biotecnologia e Saúde pela UFMG com experiência em biologia Molecular
+* 🧬 Sou biólogo com ênfase em Biotecnologia e Saúde (UFMG) com experiência em Biologia Molecular
 * 📕 Me interesso muito pela história da computação
 * 📀 Tenho uma coleção virtual de sistemas operacionais (mídias de instalação)
 
