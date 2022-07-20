@@ -18,6 +18,8 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/wave.gif" width="30px" height="30px" />
 
+<hr>
+
 ## About me 💁 
 
 Hi! My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
