@@ -32,6 +32,20 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 
 I am in career transition and looking for an opportunity as a developer.
 
+### 🚀 Fun facts about me
+
+* 💻 x86 Assembly is my favorite language and I practice a lot in my free time 
+* 🧬 I am a biologist with experience in molecular biology
+* 📕 I am very interested in the history of computing
+* 📀 I have a virtual collection of operating systems (installation media)
+
+### 🤓 My interests  
+
+- 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python.
+- 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and frontend).
+- 🤔 I’m looking for help with Hexagonix/Andromeda operating system development.
+- ❤️ I'm currently learning and practicing x86 Assembly and C, baremetal development and operating system implementation (Hexagonix OS).
+
 <!--
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
 -->
@@ -45,13 +59,6 @@ I am in career transition and looking for an opportunity as a developer.
 [![instagram](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/felipeldev/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipenldev@gmail.com)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@felipeldev)
-
-### 🤓 My interests  
-
-- 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python.
-- 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and frontend).
-- 🤔 I’m looking for help with Hexagonix/Andromeda operating system development.
-- ❤️ I'm currently learning and practicing x86 Assembly, baremetal development and operating system implementation (Hexagonix OS).
 
 <hr>
 
