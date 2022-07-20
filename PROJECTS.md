@@ -38,7 +38,7 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 [Everest OS](https://github.com/felipenlunkes/EverestOS) is a fork of a free and public domain operating system (Snowdrop OS), found [here](http://sebastianmihai.com/snowdrop), to study 16-bit operating systems while developing Hexagonix (32-bit).
 
-### Bin Operating System (Bin S.O) - not active (2013)
+### 6️⃣ Bin Operating System (Bin S.O) - not active (2013)
 
 [Bin S.O](https://github.com/felipenlunkes/Bin-S.O) i my first attempt to develop an operating system (2013) using x86 Assembly.
 
@@ -61,3 +61,8 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 ## 1️⃣ Arduino - Arduino-based projects - not active (2012-2018)
 
 You can found my explorations on Arduino [here](https://github.com/felipenlunkes/Arduino-stuff) and [here](https://github.com/felipenlunkes/AxiomKernel).
+
+<hr>
+
+# Learning tools
+
