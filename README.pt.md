@@ -30,7 +30,7 @@ Sou um usuário leal de código aberto e todos os meus projetos foram lançados 
 
 Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar um desenvolvedor backend e frontend. Também sou biólogo com interesse em desenvolver soluções para bioinformática.
 
-Estou em transição de carreira e em busca de uma oportunidade como desenvolvedor.
+**Estou em transição de carreira e em busca de uma oportunidade como desenvolvedor.**
 
 ### 🚀 Curiosidades sobre mim
 
