@@ -174,5 +174,5 @@ Outros projetos e repositórios de aprendizagem podem ser encontrados [aqui](htt
 
 ## ➕️ Mais
 
-🇧🇷 [Versão em inglês](README.md)
+🇬🇧 [Versão em inglês](README.md)
 
