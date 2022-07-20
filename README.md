@@ -44,7 +44,7 @@ I am in career transition and looking for an opportunity as a developer.
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipenldev@gmail.com)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@felipeldev)
 
-<hr>
+<hr color="orange">
 
 ## 🛠️ Skills
 
