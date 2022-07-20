@@ -46,6 +46,13 @@ I am in career transition and looking for an opportunity as a developer.
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipenldev@gmail.com)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@felipeldev)
 
+### 🤓 My interests  
+
+- 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python.
+- 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and frontend).
+- 🤔 I’m looking for help with Hexagonix/Andromeda operating system development.
+- ❤️ I'm currently learning and practicing x86 Assembly, baremetal development and operating system implementation (Hexagonix OS).
+
 <hr>
 
 ## 🛠️ Skills
@@ -136,15 +143,6 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 ### More projects and learning tools
 
 Other projects and learning repositories can be found [here](PROJECTS.md) or in my [repositories](https://github.com/felipenlunkes?tab=repositories).
-
-<hr>
-
-## 🤓 My interests  
-
-- 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python.
-- 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and frontend).
-- 🤔 I’m looking for help with Hexagonix/Andromeda operating system development.
-- ❤️ I'm currently learning and practicing x86 Assembly, baremetal development and operating system implementation (Hexagonix OS).
 
 <hr>
 
