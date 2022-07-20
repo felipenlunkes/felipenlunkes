@@ -40,7 +40,7 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 ### 6️⃣ Bin Operating System (Bin S.O) - not active (2013)
 
-[Bin S.O](https://github.com/felipenlunkes/Bin-S.O) i my first attempt to develop an operating system (2013) using x86 Assembly.
+[Bin S.O](https://github.com/felipenlunkes/Bin-S.O) is my first attempt to develop an operating system (2013) using x86 Assembly.
 
 <hr>
 
