@@ -32,6 +32,20 @@ Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar
 
 Estou em transição de carreira e em busca de uma oportunidade como desenvolvedor.
 
+### 🚀 Curiosidades sobre mim
+
+* 💻 Assembly x86 é minha linguagem favorita e pratico muito no meu tempo livre
+* 🧬 Sou biólogo com ênfase em Biotecnologia e Saúde pela UFMG com experiência em biologia Molecular
+* 📕 Me interesso muito pela história da computação
+* 📀 Tenho uma coleção virtual de sistemas operacionais (mídias de instalação)
+
+### 🤓 Meus interesses  
+
+- 🌱 Estou aprendendo mais sobre JavaScript, Java, HTML/CSS e Python.
+- 👯 Procuro colaborar em sistemas operacionais, código aberto e projetos comerciais (backend e frontend).
+- 🤔 Estou procurando ajuda com o desenvolvimento do sistema operacional Hexagonix/Andromeda.
+- ❤️ Atualmente estou aprendendo e praticando Assembly x86, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS).
+
 <!--
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
 -->
@@ -136,15 +150,6 @@ GaiaBSD é um fork do FreeBSD destinado a estudar mais sobre sistemas Unix e ten
 ### Mais projetos e ferramentas de aprendizagem
 
 Outros projetos e repositórios de aprendizagem podem ser encontrados [aqui](https://github.com/felipenlunkes?tab=repositories).
-
-<hr>
-
-## 🤓 Meus interesses  
-
-- 🌱 Estou aprendendo mais sobre JavaScript, Java, HTML/CSS e Python.
-- 👯 Procuro colaborar em sistemas operacionais, código aberto e projetos comerciais (backend e frontend).
-- 🤔 Estou procurando ajuda com o desenvolvimento do sistema operacional Hexagonix/Andromeda.
-- ❤️ Atualmente estou aprendendo e praticando Assembly x86, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS).
 
 <hr>
 
