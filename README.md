@@ -16,9 +16,9 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Arduino-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
 
-# Hi there <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/wave.gif" width="30px" height="30px" />
-
 <hr>
+
+# Hi there <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/wave.gif" width="30px" height="30px" />
 
 ## About me 💁 
 
