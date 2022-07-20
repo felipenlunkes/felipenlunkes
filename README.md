@@ -30,7 +30,7 @@ I am a loyal open source user and all my projects were released with some free l
 
 I am currently studying JavaScript, Java and Python with the aim of becoming a backend and frontend developer. I am also a biologist with an interest in developing solutions for bioinformatics.
 
-**I am in career transition and looking for an opportunity as a developer.**
+#### **I am in career transition and looking for an opportunity as a developer.**
 
 ### 🚀 Fun facts about me
 
