@@ -66,3 +66,4 @@ You can found my explorations on Arduino [here](https://github.com/felipenlunkes
 
 # Learning tools
 
+All the projects I carried out to learn programming languages, frameworks and development environments are available on my GitHub. See the repositories here:
