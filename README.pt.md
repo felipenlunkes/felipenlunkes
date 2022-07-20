@@ -16,6 +16,8 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Arduino-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
 
+<hr>
+
 # Olá! <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/wave.gif" width="30px" height="30px" />
 
 ## Sobre mim 💁 
@@ -43,6 +45,8 @@ Estou em transição de carreira e em busca de uma oportunidade como desenvolved
 [![instagram](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/felipeldev/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipenldev@gmail.com)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@felipeldev)
+
+<hr>
 
 ## 🛠️ Habilidades
 
@@ -77,12 +81,13 @@ Estou em transição de carreira e em busca de uma oportunidade como desenvolved
 ![gnu_bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![windows_terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-
 ### Ferramentas de design
 
 ![canva](https://img.shields.io/badge/Canva-F28A22?style=for-the-badge&logo=canva&logoColor=white)
 ![gimp](https://img.shields.io/badge/Gimp-139176?style=for-the-badge&logo=gimp&logoColor=white)
 ![creative_cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+
+<hr>
 
 ## 💎 Meus projetos ativos
 
@@ -100,8 +105,11 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 
 ### 2️⃣ Lunix OS
 
+<p align='center'>
+<a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
+</p>
 
-Lunix é um novo sistema operacional desenvolvido em C para a arquitetura x86. Ele está em fase inicial (bem inicial) de desenvolvimento.
+[Lunix](http://github.com/felipenlunkes/lunix) é um novo sistema operacional desenvolvido em C para a arquitetura x86. Ele está em fase inicial (bem inicial) de desenvolvimento.
 
 ### 3️⃣ GaiaBSD
 
@@ -129,12 +137,16 @@ GaiaBSD é um fork do FreeBSD destinado a estudar mais sobre sistemas Unix e ten
 
 Outros projetos e repositórios de aprendizagem podem ser encontrados [aqui](https://github.com/felipenlunkes?tab=repositories).
 
+<hr>
+
 ## 🤓 Meus interesses  
 
 - 🌱 Estou aprendendo mais sobre JavaScript, Java, HTML/CSS e Python.
 - 👯 Procuro colaborar em sistemas operacionais, código aberto e projetos comerciais (backend e frontend).
 - 🤔 Estou procurando ajuda com o desenvolvimento do sistema operacional Hexagonix/Andromeda.
 - ❤️ Atualmente estou aprendendo e praticando Assembly x86, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS).
+
+<hr>
 
 ## 📈 Estatísticas do meu GitHub 
 
@@ -148,6 +160,8 @@ Outros projetos e repositórios de aprendizagem podem ser encontrados [aqui](htt
 
 ![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=Visitas+ao+perfil&style=for-the-badge)
 
+<hr>
+
 ## 🖥️ Meu setup
 
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
@@ -155,3 +169,10 @@ Outros projetos e repositórios de aprendizagem podem ser encontrados [aqui](htt
 ![linux](https://img.shields.io/badge/Linux_Ubuntu-470137?style=for-the-badge&logo=linux&logoColor=white)
 ![windows-11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+<hr>
+
+## ➕️ Mais
+
+🇧🇷 [Versão em inglês](README.md)
+
