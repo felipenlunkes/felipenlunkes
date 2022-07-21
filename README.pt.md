@@ -179,5 +179,5 @@ Outros projetos e repositórios de aprendizagem podem ser encontrados [aqui](PRO
 
 ## ➕️ Mais
 
-🇬🇧 [Versão em inglês](README.md)
+🇬🇧 [English version](README.md) (Versão em inglês)
 
