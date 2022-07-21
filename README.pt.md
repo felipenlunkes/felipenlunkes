@@ -43,8 +43,8 @@ Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar
 
 - 🌱 Estou aprendendo mais sobre JavaScript, Java, HTML/CSS e Python.
 - 👯 Procuro colaborar em sistemas operacionais, código aberto e projetos comerciais (backend e frontend).
-- 🤔 Estou procurando ajuda com o desenvolvimento do sistema operacional Hexagonix/Andromeda.
-- ❤️ Atualmente estou aprendendo mais e praticando Assembly x86 e C, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS).
+- 🤔 Estou procurando ajuda com o desenvolvimento dos sistemas operacionais Hexagonix/Andromeda e Lunix OS.
+- ❤️ Atualmente estou aprendendo mais e praticando Assembly x86 e C, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS e Lunix OS).
 
 <!--
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
