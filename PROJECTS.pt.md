@@ -90,6 +90,9 @@ Os componentes do sistema foram divididos em repositórios. [Aqui](https://githu
 
 Você pode encontrar minhas explorações no Arduino [aqui](https://github.com/felipenlunkes/Arduino-stuff) e [aqui](https://github.com/felipenlunkes/AxiomKernel).
 
+[![Stuff](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=Arduino-stuff&theme=dark)](https://github.com/felipenlunkes/Arduino-stuff)
+[![Axiom-kernel](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=AxiomKernel&theme=dark)](https://github.com/felipenlunkes/AxiomKernel)
+
 <hr>
 
 ## Tutoriais
