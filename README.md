@@ -107,11 +107,11 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 
 [Here](PROJECTS.md) you have access to a list of all my projects.
 
-## 📍 My active projects
+### 📍 My active projects
 
 > I am currently working on these personal projects:
 
-### 1️⃣ Hexagonix/Andromeda Operating System (Hexagonix OS)
+#### 1️⃣ Hexagonix/Andromeda Operating System (Hexagonix OS)
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
@@ -121,7 +121,7 @@ I am the creator and, so far, the sole developer of Hexagonix, an operating syst
 
 The project is maintained in separate repositories under a unique user. You can find the repositories and get more information about the project [here](https://github.com/hexagonix/).
 
-### 2️⃣ Lunix OS
+#### 2️⃣ Lunix OS
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/lunix"><img height="100" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
