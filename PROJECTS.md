@@ -14,12 +14,12 @@ I am the creator and, so far, the sole developer of Hexagonix, an operating syst
 
 The project is maintained in separate repositories under a unique user. You can find the repositories and get more information about the project [here](https://github.com/hexagonix/).
 
-[![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=radical)](https://github.com/hexagonix/Hexagon)
-[![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=radical)](https://github.com/hexagonix/Hboot)
-[![Unix-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps&theme=radical)](https://github.com/hexagonix/unix-apps)
-[![Andromeda-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=andromeda-apps&theme=radical)](https://github.com/hexagonix/andromeda-apps)
-[![lib](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=lib&theme=radical)](https://github.com/hexagonix/lib)
-[![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=radical)](https://github.com/hexagonix/fasmx)
+[![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=dark)](https://github.com/hexagonix/Hexagon)
+[![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=dark)](https://github.com/hexagonix/Hboot)
+[![Unix-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps&theme=dark)](https://github.com/hexagonix/unix-apps)
+[![Andromeda-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=andromeda-apps&theme=dark)](https://github.com/hexagonix/andromeda-apps)
+[![lib](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=lib&theme=dark)](https://github.com/hexagonix/lib)
+[![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=dark)](https://github.com/hexagonix/fasmx)
 
 ### 2️⃣ Lunix OS - work in progress (2022-present)
 
@@ -29,7 +29,7 @@ The project is maintained in separate repositories under a unique user. You can 
 
 [Lunix](https://github.com/felipenlunkes/Lunix) is a new operating system developed in C for the x86 architecture. It is in an early (very early) stage of development.
 
-[![Lunix](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=lunix&theme=radical)](https://github.com/felipenlunkes/lunix)
+[![Lunix](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=lunix&theme=dark)](https://github.com/felipenlunkes/lunix)
 
 ### 3️⃣ GaiaBSD - work in progress (2022-present)
 
@@ -39,7 +39,7 @@ The project is maintained in separate repositories under a unique user. You can 
 
 GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and trying to develop a more user-friendly distribution based on the robustness of FreeBSD.
 
-[![GaiaBSD](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=GaiaBSD&theme=radical)](https://github.com/felipenlunkes/GaiaBSD)
+[![GaiaBSD](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=GaiaBSD&theme=dark)](https://github.com/felipenlunkes/GaiaBSD)
 
 ### 4️⃣ PX-DOS - not active (2013-2015)
 
@@ -47,12 +47,12 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 System components have been divided into repositories. [Here](https://github.com/felipenlunkes/PX-DOS) we have the repository that contains the kernel, boot loader and command interpreter, [here](https://github.com/felipenlunkes/PX-DOS-init) what contains the system init (user mode) and [here](https://github.com/felipenlunkes/PX-DOS-Apps) the system utilities. We also have the [repository](https://github.com/felipenlunkes/PX-DOS-libasm) with the Assembly development libraries and [libc](https://github.com/felipenlunkes/PX-DOS-libc).
 
-[![PX-DOS Kernel](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS&theme=radical)](https://github.com/felipenlunkes/PX-DOS)
-[![PX-DOS Init](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-init&theme=radical)](https://github.com/felipenlunkes/PX-DOS-init)
-[![PX-DOS libc](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-libc&theme=radical)](https://github.com/felipenlunkes/PX-DOS-libc)
-[![PX-DOS Apps](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-Apps&theme=radical)](https://github.com/felipenlunkes/PX-DOS-Apps)
-[![PX-DOS Drivers](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-Drivers&theme=radical)](https://github.com/felipenlunkes/PX-DOS-Drivers)
-[![PX-DOS libasm](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-libasm&theme=radical)](https://github.com/felipenlunkes/PX-DOS-libasm)
+[![PX-DOS Kernel](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS&theme=dark)](https://github.com/felipenlunkes/PX-DOS)
+[![PX-DOS Init](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-init&theme=dark)](https://github.com/felipenlunkes/PX-DOS-init)
+[![PX-DOS libc](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-libc&theme=dark)](https://github.com/felipenlunkes/PX-DOS-libc)
+[![PX-DOS Apps](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-Apps&theme=dark)](https://github.com/felipenlunkes/PX-DOS-Apps)
+[![PX-DOS Drivers](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-Drivers&theme=dark)](https://github.com/felipenlunkes/PX-DOS-Drivers)
+[![PX-DOS libasm](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-libasm&theme=dark)](https://github.com/felipenlunkes/PX-DOS-libasm)
 
 ### 5️⃣ Everest OS - not active (2015-2016)
 
