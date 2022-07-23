@@ -2,6 +2,16 @@
 
 <hr>
 
+My projects have been divided into categories. A summary to facilitate the search:
+
+* [Operating system projects](PROJECTS.md#operating-system-projects)
+* [Tools and utilities]()
+* [Platforms]()
+* [Tutorials]()
+* [Learning tools]()
+
+<hr>
+
 ## Operating system projects
 
 ### 1️⃣ Hexagonix Operating System (Hexagonix OS) - work in progress (2015-present)
