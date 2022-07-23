@@ -74,9 +74,13 @@ Os componentes do sistema foram divididos em repositórios. [Aqui](https://githu
 
 [Java Power Shell (JPS)](https://github.com/felipenlunkes/Java-Power-Shell) é um shell portável desenvolvido em Java e testado em Linux, macOS e Windows.
 
+[![Java Power Shell](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=Java-Power-Shell&theme=dark)](https://github.com/felipenlunkes/Java-Power-Shell)
+
 ### 2️⃣ PX BASIC (PXBAS) - não ativo (2013-2014)
 
 [PXBAS](https://github.com/felipenlunkes/PXBAS) é um simples interpretador BASIC para MS-DOS, FreeDOS, PX-DOS, PDOS e compatíveis. Pode funcionar em versões de 32 bits do Windows.
+
+[![PXBAS](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PXBAS&theme=dark)](https://github.com/felipenlunkes/PXBAS)
 
 <hr>
 
