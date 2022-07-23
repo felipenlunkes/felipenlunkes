@@ -4,7 +4,7 @@
 
 ## Projetos de dsistemas operacionais
 
-### 1️⃣ Sistema operacional Hexagonix/Andromeda(Hexagonix OS) - em desenvolvimento (2015-presente)
+### 1️⃣ Sistema operacional Hexagonix (Hexagonix OS) - em desenvolvimento (2015-presente)
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;

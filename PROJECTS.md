@@ -4,7 +4,7 @@
 
 ## Operating system projects
 
-### 1️⃣ Hexagonix/Andromeda Operating System (Hexagonix OS) - work in progress (2015-present)
+### 1️⃣ Hexagonix Operating System (Hexagonix OS) - work in progress (2015-present)
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;

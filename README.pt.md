@@ -111,7 +111,7 @@ Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar
 
 Estou trabalhando atualmente nestes projetos pessoais:
 
-#### 1️⃣ Sistema Operacional Hexagonix/Andromeda (Hexagonix OS)
+#### 1️⃣ Sistema Operacional Hexagonix (Hexagonix OS)
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
@@ -137,23 +137,9 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 
 GaiaBSD é um fork do FreeBSD destinado a estudar mais sobre sistemas Unix e tentar desenvolver uma distribuição mais amigável baseada na robustez do FreeBSD.
 
-### Outros projetos completos
-
-#### Design e implementação de sistemas operacionais
-
-* [Bin S.O](https://github.com/felipenlunkes/Bin-S.O) - Minha primeira tentativa de desenvolver um sistema operacional (2013) usando Assembly x86.
-* [Everest OS](https://github.com/felipenlunkes/EverestOS) - Um fork de um sistema operacional de domínio público e gratuito (Snowdrop OS), encontrado [aqui](http://sebastianmihai.com/snowdrop), para estudar mais sobre sistemas operacionais básicos de 16 bits enquanto iniciava e continuava com o desenvolvimento do Hexagonix (32 bits).
-* [PX-DOS](https://github.com/felipenlunkes/PX-DOS) - PX-DOS é derivado de uma versão mais antiga de um sistema DOS, o [Sistema Operacional de Domínio Público](http://www.pdos.org/) (PDOS). O PX-DOS adiciona novas camadas, abstrações e funções sobre o PDOS e estende sua funcionalidade. Também foram adicionados vários novos utilitários (userland) escritos por mim ao sistema.
-
-#### Ferramentas e utilitários
-
-* [Java Power Shell (JPS)](https://github.com/felipenlunkes/Java-Power-Shell) - Um shell portável desenvolvido em Java e testado em Linux, macOS e Windows.
-* [PXBAS](https://github.com/felipenlunkes/PXBAS) - Um interpretador BASIC para MS-DOS, FreeDOS, PX-DOS, PDOS e compatíveis.
-* Arduino - projetos baseados em Arduino [aqui](https://github.com/felipenlunkes/Arduino-stuff) e [aqui](https://github.com/felipenlunkes/AxiomKernel).
-
 #### Mais projetos e ferramentas de aprendizagem
 
-Outros projetos e repositórios de aprendizagem podem ser encontrados [aqui](PROJECTS.pt.md) ou nos meus [repositórios](https://github.com/felipenlunkes?tab=repositories).
+Uma lista com todos os meus projetos ativos, não ativos e completos pode ser encontrada [aqui](PROJECTS.pt.md), bem como todos os meus [repositórios](https://github.com/felipenlunkes?tab=repositories) públicos.
 
 <hr>
 
