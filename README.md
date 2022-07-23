@@ -129,7 +129,7 @@ The project is maintained in separate repositories under a unique user. You can 
 
 [Lunix](https://github.com/felipenlunkes/Lunix) is a new operating system developed in C for the x86 architecture. It is in an early (very early) stage of development.
 
-### 3️⃣ GaiaBSD
+#### 3️⃣ GaiaBSD
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
