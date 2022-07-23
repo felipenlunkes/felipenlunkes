@@ -90,7 +90,7 @@ You can found my explorations on Arduino [here](https://github.com/felipenlunkes
 
 ## Tutorials
 
-[OSDevbr](https://github.com/felipenlunkes/osdevbr) is a set of tutorials and references in Portuguese for beginners to be able to create their first simple operating system for the x86 architecture
+[OSDevbr](https://github.com/felipenlunkes/osdevbr) is a set of tutorials and references in Portuguese for beginners to be able to create their first simple operating system for the x86 architecture.
 
 [![OSDevbr](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=osdevbr&theme=dark)](https://github.com/felipenlunkes/osdevbr)
 
