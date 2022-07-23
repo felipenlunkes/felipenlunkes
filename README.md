@@ -107,9 +107,9 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 
 [Here](PROJECTS.md) you have access to a list of all my projects.
 
-## My active projects
+## 📍 My active projects
 
-📍 I am currently working on these personal projects:
+> I am currently working on these personal projects:
 
 ### 1️⃣ Hexagonix/Andromeda Operating System (Hexagonix OS)
 
