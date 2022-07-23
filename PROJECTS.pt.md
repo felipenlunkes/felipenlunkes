@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/projects.pt.png "Header")](https://github.com/felipenlunkes)
+[![Header](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/projects.pt.png "Header")](https://github.com/felipenlunkes)
 
 <hr>
 
