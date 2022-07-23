@@ -48,10 +48,10 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 System components have been divided into repositories. [Here](https://github.com/felipenlunkes/PX-DOS) we have the repository that contains the kernel, boot loader and command interpreter, [here](https://github.com/felipenlunkes/PX-DOS-init) what contains the system init (user mode) and [here](https://github.com/felipenlunkes/PX-DOS-Apps) the system utilities. We also have the [repository](https://github.com/felipenlunkes/PX-DOS-libasm) with the Assembly development libraries and [libc](https://github.com/felipenlunkes/PX-DOS-libc).
 
 [![PX-DOS Kernel](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS&theme=dark)](https://github.com/felipenlunkes/PX-DOS)
+[![PX-DOS Drivers](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-Drivers&theme=dark)](https://github.com/felipenlunkes/PX-DOS-Drivers)
 [![PX-DOS Init](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-init&theme=dark)](https://github.com/felipenlunkes/PX-DOS-init)
 [![PX-DOS libc](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-libc&theme=dark)](https://github.com/felipenlunkes/PX-DOS-libc)
 [![PX-DOS Apps](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-Apps&theme=dark)](https://github.com/felipenlunkes/PX-DOS-Apps)
-[![PX-DOS Drivers](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-Drivers&theme=dark)](https://github.com/felipenlunkes/PX-DOS-Drivers)
 [![PX-DOS libasm](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-libasm&theme=dark)](https://github.com/felipenlunkes/PX-DOS-libasm)
 
 ### 5️⃣ Everest OS - not active (2015-2016)

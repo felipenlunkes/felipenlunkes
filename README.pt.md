@@ -105,9 +105,13 @@ Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar
 
 ## 💎 Meus projetos ativos
 
-📍 Estou trabalhando atualmente nestes projetos pessoais:
+[Aqui](PROJECTS.pt.md) você pode ter acesso a todos os meu projetos.
 
-### 1️⃣ Sistema Operacional Hexagonix/Andromeda (Hexagonix OS)
+### 📍 Meus projetos ativos
+
+Estou trabalhando atualmente nestes projetos pessoais:
+
+#### 1️⃣ Sistema Operacional Hexagonix/Andromeda (Hexagonix OS)
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
@@ -117,7 +121,7 @@ Eu sou o criador e, até agora, o único desenvolvedor do Hexagonix, um sistema 
 
 O projeto é mantido em repositórios separados sob um único usuário. Você pode encontrar os repositórios e obter mais informações sobre o projeto [aqui](https://github.com/hexagonix/).
 
-### 2️⃣ Lunix OS
+#### 2️⃣ Lunix OS
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/lunix"><img height="100" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
@@ -125,7 +129,7 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 
 [Lunix](http://github.com/felipenlunkes/lunix) é um novo sistema operacional desenvolvido em C para a arquitetura x86. Ele está em fase inicial (bem inicial) de desenvolvimento.
 
-### 3️⃣ GaiaBSD
+#### 3️⃣ GaiaBSD
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
@@ -133,21 +137,21 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 
 GaiaBSD é um fork do FreeBSD destinado a estudar mais sobre sistemas Unix e tentar desenvolver uma distribuição mais amigável baseada na robustez do FreeBSD.
 
-## Outros projetos completos
+### Outros projetos completos
 
-### Design e implementação de sistemas operacionais
+#### Design e implementação de sistemas operacionais
 
 * [Bin S.O](https://github.com/felipenlunkes/Bin-S.O) - Minha primeira tentativa de desenvolver um sistema operacional (2013) usando Assembly x86.
 * [Everest OS](https://github.com/felipenlunkes/EverestOS) - Um fork de um sistema operacional de domínio público e gratuito (Snowdrop OS), encontrado [aqui](http://sebastianmihai.com/snowdrop), para estudar mais sobre sistemas operacionais básicos de 16 bits enquanto iniciava e continuava com o desenvolvimento do Hexagonix (32 bits).
 * [PX-DOS](https://github.com/felipenlunkes/PX-DOS) - PX-DOS é derivado de uma versão mais antiga de um sistema DOS, o [Sistema Operacional de Domínio Público](http://www.pdos.org/) (PDOS). O PX-DOS adiciona novas camadas, abstrações e funções sobre o PDOS e estende sua funcionalidade. Também foram adicionados vários novos utilitários (userland) escritos por mim ao sistema.
 
-### Ferramentas e utilitários
+#### Ferramentas e utilitários
 
 * [Java Power Shell (JPS)](https://github.com/felipenlunkes/Java-Power-Shell) - Um shell portável desenvolvido em Java e testado em Linux, macOS e Windows.
 * [PXBAS](https://github.com/felipenlunkes/PXBAS) - Um interpretador BASIC para MS-DOS, FreeDOS, PX-DOS, PDOS e compatíveis.
 * Arduino - projetos baseados em Arduino [aqui](https://github.com/felipenlunkes/Arduino-stuff) e [aqui](https://github.com/felipenlunkes/AxiomKernel).
 
-### Mais projetos e ferramentas de aprendizagem
+#### Mais projetos e ferramentas de aprendizagem
 
 Outros projetos e repositórios de aprendizagem podem ser encontrados [aqui](PROJECTS.pt.md) ou nos meus [repositórios](https://github.com/felipenlunkes?tab=repositories).
 
