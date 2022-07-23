@@ -58,9 +58,13 @@ System components have been divided into repositories. [Here](https://github.com
 
 [Everest OS](https://github.com/felipenlunkes/EverestOS) is a fork of a free and public domain operating system (Snowdrop OS), found [here](http://sebastianmihai.com/snowdrop), to study 16-bit operating systems while developing Hexagonix (32-bit).
 
+[![EverestOS](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=EverestOS&theme=dark)](https://github.com/felipenlunkes/EverestOS)
+
 ### 6️⃣ Bin Operating System (Bin S.O) - not active (2013)
 
 [Bin S.O](https://github.com/felipenlunkes/Bin-S.O) is my first attempt to develop an operating system (2013) using x86 Assembly.
+
+[![Bin S.O](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=Bin-S.O&theme=dark)](https://github.com/felipenlunkes/Bin-S.O)
 
 <hr>
 
