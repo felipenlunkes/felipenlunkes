@@ -109,7 +109,7 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 
 ### 📍 My active projects
 
-> I am currently working on these personal projects:
+I am currently working on these personal projects:
 
 #### 1️⃣ Hexagonix/Andromeda Operating System (Hexagonix OS)
 
@@ -137,21 +137,21 @@ The project is maintained in separate repositories under a unique user. You can 
 
 GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and trying to develop a more user-friendly distribution based on the robustness of FreeBSD.
 
-## Other completed projects
+### Other completed projects
 
-### Operating system design and implementation
+#### Operating system design and implementation
 
 * [Bin S.O](https://github.com/felipenlunkes/Bin-S.O) - My first attempt to develop an operating system (2013) using x86 Assembly.
 * [Everest OS](https://github.com/felipenlunkes/EverestOS) - A fork of a free and public domain operating system (Snowdrop OS), found [here](http://sebastianmihai.com/snowdrop), to study 16-bit operating systems while developing Hexagonix (32-bit).
 * [PX-DOS](https://github.com/felipenlunkes/PX-DOS) - PX-DOS is derived from an older version of a DOS system, the [Public Domain Operating System](http://www.pdos.org/) (PDOS). PX-DOS adds new layers, abstractions and functions on top of PDOS and extends its functionality. Also added a number of new utilities (userland) to the base system.
 
-### Tools and utilities
+#### Tools and utilities
 
 * [Java Power Shell (JPS)](https://github.com/felipenlunkes/Java-Power-Shell) - A portable shell developed in Java and tested on Linux, macOS and Windows.
 * [PXBAS](https://github.com/felipenlunkes/PXBAS) - A BASIC interpreter for MS-DOS, FreeDOS, PX-DOS, PDOS and compatibles.
 * Arduino - Arduino-based projects [here](https://github.com/felipenlunkes/Arduino-stuff) and [here](https://github.com/felipenlunkes/AxiomKernel).
 
-### More projects and learning tools
+#### More projects and learning tools
 
 Other projects and learning repositories can be found [here](PROJECTS.md) or in my [repositories](https://github.com/felipenlunkes?tab=repositories).
 
