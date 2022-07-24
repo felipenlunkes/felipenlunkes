@@ -2,7 +2,19 @@
 
 <hr>
 
-## Projetos de dsistemas operacionais
+# Meus projetos
+
+Meus projetos foram divididos em categorias. Aqui vai um sumário para facilitar a busca:
+
+* [Projetos de sistemas operacionais](#projetos-de-sistemas-operacionais)
+* [Ferramentas e utilitários](#ferramentas-e-utilitários)
+* [Plataformas](#plataformas)
+* [Tutoriais](#tutoriais)
+* [Ferramentas de aprendizagem](#ferramentas-de-aprendizagem)
+
+<hr>
+
+## Projetos de sistemas operacionais
 
 ### 1️⃣ Sistema operacional Hexagonix (Hexagonix OS) - em desenvolvimento (2015-presente)
 

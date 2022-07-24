@@ -8,9 +8,9 @@ My projects have been divided into categories. A summary to facilitate the searc
 
 * [Operating system projects](#operating-system-projects)
 * [Tools and utilities](#tools-and-utilities)
-* [Platforms]()
-* [Tutorials]()
-* [Learning tools]()
+* [Platforms](#platforms)
+* [Tutorials](#tutorials)
+* [Learning tools](#learning-tools)
 
 <hr>
 
