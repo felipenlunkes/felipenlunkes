@@ -30,9 +30,9 @@ Sou um usuário leal de código aberto e todos os meus projetos foram lançados 
 
 Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar um desenvolvedor backend e frontend. Também sou biólogo com interesse em desenvolver soluções para bioinformática.
 
-> <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/lightning.gif" width="30px" height="30px" /> **Estou em transição de carreira e em busca de uma oportunidade como desenvolvedor.** 
+> <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/lightning.gif" width="20px" height="20px" /> **Estou em transição de carreira e em busca de uma oportunidade como desenvolvedor.** 
 
-### <img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="20px" height="20px" /> Curiosidades sobre mim
+### <img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="30px" height="30px" /> Curiosidades sobre mim
 
 * 💻 Assembly x86 é minha linguagem favorita e pratico muito no meu tempo livre
 * 🧬 Sou biólogo com ênfase em Biotecnologia e Saúde (UFMG) com experiência em Biologia Molecular
