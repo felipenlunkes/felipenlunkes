@@ -50,7 +50,7 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
 -->
 
-### <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/letterbox.gif" width="30px" height="30px" /> Social and contact
+### <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/message.gif" width="30px" height="30px" /> Social and contact
 
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipelunkes/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/felipenlunkes)
