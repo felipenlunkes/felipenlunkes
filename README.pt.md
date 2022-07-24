@@ -30,7 +30,7 @@ Sou um usuário leal de código aberto e todos os meus projetos foram lançados 
 
 Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar um desenvolvedor backend e frontend. Também sou biólogo com interesse em desenvolver soluções para bioinformática.
 
-> <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/lightning.gif" width="20px" height="20px" /> **Estou em transição de carreira e em busca de uma oportunidade como desenvolvedor.** 
+> **Estou em transição de carreira e em busca de uma oportunidade como desenvolvedor.** 
 
 ### <img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="30px" height="30px" /> Curiosidades sobre mim
 
@@ -50,7 +50,7 @@ Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
 -->
 
-### 📱 Redes sociais e contato
+### <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/letterbox.gif" width="30px" height="30px" /> Redes sociais e contato
 
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipelunkes/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/felipenlunkes)
