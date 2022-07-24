@@ -6,8 +6,8 @@
 
 My projects have been divided into categories. A summary to facilitate the search:
 
-* [Operating system projects](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md#operating-system-projects)
-* [Tools and utilities]()
+* [Operating system projects](#operating-system-projects)
+* [Tools and utilities](#tools-and-utilities)
 * [Platforms]()
 * [Tutorials]()
 * [Learning tools]()
