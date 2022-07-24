@@ -109,7 +109,7 @@ Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar
 
 ### 📍 Meus 3 principais projetos pessoais atuais
 
-Esses são 3 dos projetos pessoais que estou trabalhando atualmente:
+Esses são 3 dos projetos pessoais em que estou trabalhando atualmente:
 
 #### 1️⃣ Sistema Operacional Hexagonix (Hexagonix OS)
 
