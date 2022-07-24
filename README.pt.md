@@ -20,7 +20,7 @@
 
 # Olá! <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/wave.gif" width="30px" height="30px" />
 
-## Sobre mim 💁 
+## Sobre mim 💁 <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/Developer.gif" width="20px" height="20px" /> 
 
 Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro.
 
@@ -32,7 +32,7 @@ Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar
 
 > **Estou em transição de carreira e em busca de uma oportunidade como desenvolvedor.**
 
-### 🚀 Curiosidades sobre mim
+### <img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="20px" height="20px" /> Curiosidades sobre mim
 
 * 💻 Assembly x86 é minha linguagem favorita e pratico muito no meu tempo livre
 * 🧬 Sou biólogo com ênfase em Biotecnologia e Saúde (UFMG) com experiência em Biologia Molecular
