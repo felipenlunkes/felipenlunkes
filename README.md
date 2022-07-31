@@ -151,7 +151,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 ![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=GitHub+profile+views&style=for-the-badge)
 
-### Repositories maintained by me on another account
+### Some of the repositories maintained by me on another account
 
 [![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=dark)](https://github.com/hexagonix/Hexagon)
 [![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=dark)](https://github.com/hexagonix/Hboot)
