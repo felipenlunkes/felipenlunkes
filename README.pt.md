@@ -148,12 +148,15 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 [![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=dark&layout=compact)](https://github.com/felipenlunkes)
 ![Felipe Lunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=dark)
+
+![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=Visitas+ao+perfil&style=for-the-badge)
+
+### Repositórios mantidos por mim hospedados em outra conta
+
 [![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=dark)](https://github.com/hexagonix/Hexagon)
 [![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=dark)](https://github.com/hexagonix/Hboot)
 [![Unix-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps&theme=dark)](https://github.com/hexagonix/unix-apps)
 [![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=dark)](https://github.com/hexagonix/fasmx)
-
-![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=Visitas+ao+perfil&style=for-the-badge)
 
 <hr>
 
