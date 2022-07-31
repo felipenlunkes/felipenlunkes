@@ -151,7 +151,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 ![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=Visitas+ao+perfil&style=for-the-badge)
 
-### Alguns dos repositórios mantidos e por mim hospedados em outra conta
+### Alguns dos repositórios mantidos por mim e hospedados em outra conta
 
 [![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=dark)](https://github.com/hexagonix/Hexagon)
 [![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=dark)](https://github.com/hexagonix/Hboot)
