@@ -39,7 +39,7 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 * 📕 I am very interested in the history of computing
 * 📀 I have a virtual collection of operating systems (installation media)
 
-### <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/hey.gif" width="30px" height="20px" /> My interests  
+### 🤓 My interests  
 
 - 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python.
 - 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and frontend).
@@ -169,4 +169,4 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 ## ➕️ More
 
-🇧🇷 [Versão em português](README.pt.md) (Portuguese version)
+<img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/Brasil.gif" width="30px" height="30px" /> [Versão em português](README.pt.md) (Portuguese version)
