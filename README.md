@@ -169,4 +169,4 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 ## ➕️ More
 
-<img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/Brasil.gif" width="30px" height="30px" /> [Versão em português](README.pt.md) (Portuguese version)
+<img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/Brasil.gif" width="20px" height="10px" /> [Versão em português](README.pt.md) (Portuguese version)
