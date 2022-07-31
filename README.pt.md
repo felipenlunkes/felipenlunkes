@@ -169,5 +169,5 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 ## ➕️ Mais
 
-<img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/UK.gif" width="30px" height="30px" /> [English version](README.md) (versão em inglês)
+<img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/UK.gif" width="25px" height="15px" /> [English version](README.md) (versão em inglês)
 
