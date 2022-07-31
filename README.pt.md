@@ -103,11 +103,11 @@ Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar
 
 <hr>
 
-## 💎 Meus projetos ativos
+## 💡 Meus projetos ativos
 
 [Aqui](PROJECTS.pt.md) você pode ter acesso a todos os meu projetos.
 
-### 📍 Meus 3 principais projetos pessoais atuais
+### 💎 Meus 3 principais projetos pessoais atuais
 
 Esses são 3 dos projetos pessoais em que estou trabalhando atualmente:
 
@@ -151,7 +151,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 ![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=Visitas+ao+perfil&style=for-the-badge)
 
-### Alguns dos repositórios mantidos por mim e hospedados em outra conta
+### ✨️ Alguns dos repositórios mantidos por mim e hospedados em outra conta
 
 > Os repositórios abaixo foram criados e são mantidos por mim, hospedados em outras contas de projetos específicos:
 
