@@ -103,11 +103,11 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 
 <hr>
 
-## 💎 My projects  
+## 💡 My projects  
 
 [Here](PROJECTS.md) you have access to a list of all my projects.
 
-### 📍 My top 3 current personal projects
+### 💎 My top 3 current personal projects
 
 These are 3 of the personal projects I'm currently working on:
 
@@ -151,7 +151,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 ![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=GitHub+profile+views&style=for-the-badge)
 
-### Some of the repositories maintained by me on another account
+### ✨️ Some of the repositories maintained by me on another account
 
 > The repositories below were created and maintained by me, hosted in other specific project accounts:
 
