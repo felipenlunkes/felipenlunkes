@@ -174,9 +174,9 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 -->
 
-<details title="2️⃣ Lunix OS" align='left'>
+<details title="3️⃣ GaiaBSD" align='left'>
     <br>
-    <summary align='left'><strong>2️⃣ Lunix OS</strong></summary>
+    <summary align='left'><strong>3️⃣ GaiaBSD</strong></summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;

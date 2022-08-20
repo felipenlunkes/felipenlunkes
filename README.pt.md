@@ -111,6 +111,8 @@ Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar
 
 Esses são 3 dos projetos pessoais em que estou trabalhando atualmente:
 
+<!--
+
 #### 1️⃣ Sistema Operacional Hexagonix (Hexagonix OS)
 
 <p align='center'>
@@ -121,6 +123,24 @@ Eu sou o criador e, até agora, o único desenvolvedor do Hexagonix, um sistema 
 
 O projeto é mantido em repositórios separados sob um único usuário. Você pode encontrar os repositórios e obter mais informações sobre o projeto [aqui](https://github.com/hexagonix/).
 
+-->
+
+<details title="1️⃣ Sistema Operacional Hexagonix (Hexagonix OS)" align='left'>
+    <br>
+    <summary align='left'><strong>1️⃣ Sistema Operacional Hexagonix (Hexagonix OS)</strong></summary>
+
+<p align='center'>
+<a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
+</p>
+
+Eu sou o criador e, até agora, o único desenvolvedor do Hexagonix, um sistema operacional desenvolvido inteiramente do zero em Assembly x86 que se inspira muito nos sistemas Unix, mesmo que eu não tenha nenhum código derivado destes. A maior inspiração para o desenvolvimento foi criar um sistema semelhante ao FreeBSD e ao Linux, ao mesmo tempo em que me permitia aprender mais sobre como funciona um sistema operacional e sobre hardware. Nos últimos sete anos de desenvolvimento, fiz alguns avanços com o Hexagonix, como desenvolver um kernel estável com suporte a gráficos, disco e sistema de arquivos FAT16B, além de portar o flat assmelber para ser executado sobre o Hexagonix, tornando-o self-hosting. Também desenvolvi uma IDE que permite o desenvolvimento de aplicativos sobre do Hexagonix e para o Hexagonix. Agora, o código completo do sistema, incluindo o kernel, utilitários e APIs, foi lançado como software livre sob licença BSD, permitindo aos interessados ​​participar deste projeto e expandi-lo ou apenas estudar mais sobre a organização de um sistema operacional, Assembly ou hardware.
+
+O projeto é mantido em repositórios separados sob um único usuário. Você pode encontrar os repositórios e obter mais informações sobre o projeto [aqui](https://github.com/hexagonix/).
+
+</details>
+
+<!--
+
 #### 2️⃣ Lunix OS
 
 <p align='center'>
@@ -129,6 +149,22 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 
 [Lunix](http://github.com/felipenlunkes/lunix) é um novo sistema operacional desenvolvido em C para a arquitetura x86. Ele está em fase inicial (bem inicial) de desenvolvimento.
 
+-->
+
+<details title="2️⃣ Lunix OS" align='left'>
+    <br>
+    <summary align='left'><strong>2️⃣ Lunix OS</strong></summary>
+
+<p align='center'>
+<a href="https://github.com/felipenlunkes/lunix"><img height="100" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
+</p>
+
+[Lunix](http://github.com/felipenlunkes/lunix) é um novo sistema operacional desenvolvido em C para a arquitetura x86. Ele está em fase inicial (bem inicial) de desenvolvimento.
+
+</details>
+
+<!--
+
 #### 3️⃣ GaiaBSD
 
 <p align='center'>
@@ -136,6 +172,20 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 </p>
 
 GaiaBSD é um fork do FreeBSD destinado a estudar mais sobre sistemas Unix e tentar desenvolver uma distribuição mais amigável baseada na robustez do FreeBSD.
+
+-->
+
+<details title="2️⃣ Lunix OS" align='left'>
+    <br>
+    <summary align='left'><strong>2️⃣ Lunix OS</strong></summary>
+
+<p align='center'>
+<a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
+</p>
+
+GaiaBSD é um fork do FreeBSD destinado a estudar mais sobre sistemas Unix e tentar desenvolver uma distribuição mais amigável baseada na robustez do FreeBSD.
+
+</details>
 
 #### Mais projetos e ferramentas de aprendizagem
 
