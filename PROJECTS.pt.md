@@ -24,10 +24,11 @@ Meus projetos foram divididos em categorias. Aqui vai um sumário para facilitar
 <br>
 <summary align='left'><strong>1️⃣ Sistema operacional Hexagonix (Hexagonix OS) - em desenvolvimento (2015-presente)</strong></summary>
 
+<p align='center'>
+<a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
+</p>
+
 <div align="justify">
-
-
-<a align="right" href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>
 
 Eu sou o criador e, até agora, o único desenvolvedor do Hexagonix, um sistema operacional desenvolvido inteiramente do zero em Assembly x86 que se inspira muito nos sistemas Unix, mesmo que eu não tenha nenhum código derivado destes. A maior inspiração para o desenvolvimento foi criar um sistema semelhante ao FreeBSD e ao Linux, ao mesmo tempo em que me permitia aprender mais sobre como funciona um sistema operacional e sobre hardware. Nos últimos sete anos de desenvolvimento, fiz alguns avanços com o Hexagonix, como desenvolver um kernel estável com suporte a gráficos, disco e sistema de arquivos FAT16B, além de portar o flat assmelber para ser executado sobre o Hexagonix, tornando-o self-hosting. Também desenvolvi uma IDE que permite o desenvolvimento de aplicativos sobre do Hexagonix e para o Hexagonix. Agora, o código completo do sistema, incluindo o kernel, utilitários e APIs, foi lançado como software livre sob licença BSD, permitindo aos interessados ​​participar deste projeto e expandi-lo ou apenas estudar mais sobre a organização de um sistema operacional, Assembly ou hardware.
 
