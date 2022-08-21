@@ -26,9 +26,9 @@
 
 Hi! My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist.
 
-I am a loyal open source user and all my projects were released with some free license. I have a passion for designing and implementing operating systems and I created and maintain one as a hobby, as you can see below in my [projects](PROJECTS.md). This operating system project of mine stems from my fascination with Unix systems and a desire to better understand how an operating system works and is organized.
+I am a loyal open source user and all my projects were released with some free license. I have a passion for designing and implementing operating systems and I created and maintain one as a hobby, as you can see below in my [`projects`](PROJECTS.md). This operating system project of mine stems from my fascination with Unix systems and a desire to better understand how an operating system works and is organized.
 
-I am currently studying JavaScript, Java and Python with the aim of becoming a backend and frontend developer.
+I am currently studying `C`, `JavaScript`, `Java` and `Python` with the aim of becoming a backend developer.
 
 </div>
 
@@ -52,7 +52,7 @@ I am also a biologist with an interest in developing solutions for bioinformatic
 
 <div align="justify">
 
-* 💻 x86 Assembly is my favorite language and I practice a lot in my free time 
+* 💻 x86 Assembly is my favorite language and I practice a lot in my free time
 * 🧬 I am a biologist with experience in molecular biology
 * 📕 I am very interested in the history of computing
 * 📀 I have a virtual collection of operating systems (installation media)
@@ -161,9 +161,9 @@ These are 3 of the personal projects I'm currently working on:
 
 <div align="justify">
 
-I am the creator and, so far, the sole developer of Hexagonix, an operating system developed entirely from scratch in x86 Assembly that takes a lot of inspiration from Unix systems, even if I don't have any of these codes. The biggest inspiration for development was to create a system similar to FreeBSD and Linux, while allowing me to learn more about how an operating system works and about hardware. In the last seven years of development, I have made some advances with Hexagonix, such as developing a stable kernel with graphics, disk and FAT16B file system support, as well as porting the flat assembler to run on top of Hexagonix, making it self-hosting. I also developed an IDE that allows the development of applications on top of Hexagonix and for Hexagonix. Now, the complete system code, including the kernel, utilities and APIs, has been released as free software under a BSD license, allowing interested parties to participate in this project and expand it or just to study more about the organization of an operating system, Assembly or hardware.
+I am the creator and, so far, the sole developer of `Hexagonix`, an operating system developed entirely from scratch in `x86 Assembly` that takes a lot of inspiration from Unix systems, even if I don't have any of these codes. The biggest inspiration for development was to create a system similar to FreeBSD and Linux, while allowing me to learn more about how an operating system works and about hardware. In the last seven years of development, I have made some advances with Hexagonix, such as developing a stable kernel with graphics, disk and FAT16B file system support, as well as porting the `flat assembler` to run on top of Hexagonix, making it `self-hosting`. I also developed an IDE that allows the development of applications on top of Hexagonix and for Hexagonix. Now, the complete system code, including the `kernel`, `utilities` and `APIs`, has been released as free software under a `BSD license`, allowing interested parties to participate in this project and expand it or just to study more about the organization of an operating system, Assembly or hardware.
 
-The project is maintained in separate repositories under a unique user. You can find the repositories and get more information about the project [here](https://github.com/hexagonix/).
+The project is maintained in separate repositories under a unique user. You can find the repositories and get more information about the project [`here`](https://github.com/hexagonix/).
 
 </div>
 
@@ -179,7 +179,7 @@ The project is maintained in separate repositories under a unique user. You can 
 
 <div align="justify">
 
-[Lunix](https://github.com/felipenlunkes/Lunix) is a new operating system developed in C for the x86 architecture. It is in an early (very early) stage of development.
+[`Lunix`](https://github.com/felipenlunkes/Lunix) is a new operating system developed in `C` for the x86 architecture. It is in an early (very early) stage of development.
 
 </div>
 
@@ -195,7 +195,7 @@ The project is maintained in separate repositories under a unique user. You can 
 
 <div align="justify">
 
-GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and trying to develop a more user-friendly distribution based on the robustness of FreeBSD.
+`GaiaBSD` is a fork of FreeBSD aimed at studying more about Unix systems and trying to develop a more user-friendly distribution based on the robustness of FreeBSD.
 
 </div>
 
@@ -205,13 +205,13 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 <div align="justify">
 
-A list of all my active, non-active and complete projects can be found [here](PROJECTS.md), as well as my [repositories](https://github.com/felipenlunkes?tab=repositories).
+A list of all my `active`, `non-active` and `complete` projects can be found [here](PROJECTS.md), as well as my [`repositories`](https://github.com/felipenlunkes?tab=repositories).
 
 </div>
 
 <hr>
 
-## 📈 GitHub Stats 
+## 📈 GitHub Stats
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact)](https://github.com/felipenlunkes)
@@ -228,7 +228,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <div align="justify">
 
-> The repositories below were created and maintained by me, hosted in other specific project or organization accounts (like [HexagonixOS](https://github.com/hexagonix), for example):
+> The repositories below were created and maintained by me, hosted in other specific project or `organization` accounts (like [Hexagonix](https://github.com/hexagonix), for example):
 
 </div>
 
