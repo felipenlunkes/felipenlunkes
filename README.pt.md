@@ -26,9 +26,9 @@
 
 Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro.
 
-Sou um usuário leal de código aberto e todos os meus projetos foram lançados com alguma licença gratuita. Tenho paixão por desing e implementação de sistemas operacionais e criei e mantenho um como hobby, como você pode ver abaixo em meus [`projetos`](PROJECTS.pt.md). Este meu projeto de sistema operacional deriva do meu fascínio por sistemas Unix e um desejo de entender melhor como um sistema operacional funciona e é organizado.
+Sou um usuário leal de código aberto e todos os meus projetos foram lançados com alguma licença gratuita. Tenho paixão por desing e implementação de sistemas operacionais e criei e mantenho um como hobby, como você pode ver abaixo em meus [projetos](PROJECTS.pt.md). Este meu projeto de sistema operacional deriva do meu fascínio por sistemas Unix e um desejo de entender melhor como um sistema operacional funciona e é organizado.
 
-Atualmente estou estudando `C`, `JavaScript`, `Java` e `Python` com o objetivo de me tornar um desenvolvedor backend e frontend.
+Atualmente estou estudando C, JavaScript, Java e Python com o objetivo de me tornar um desenvolvedor backend e frontend.
 
 </div>
 
@@ -163,7 +163,7 @@ Esses são 3 dos projetos pessoais em que estou trabalhando atualmente:
 
 Eu sou o criador e, até agora, o único desenvolvedor do `Hexagonix`, um sistema operacional desenvolvido inteiramente do zero em `Assembly x86` que se inspira muito nos sistemas Unix, mesmo que eu não tenha nenhum código derivado destes. A maior inspiração para o desenvolvimento foi criar um sistema semelhante ao FreeBSD e ao Linux, ao mesmo tempo em que me permitia aprender mais sobre como funciona um sistema operacional e sobre hardware. Nos últimos sete anos de desenvolvimento, fiz alguns avanços com o Hexagonix, como desenvolver um kernel estável com suporte a gráficos, disco e sistema de arquivos FAT16B, além de portar o `flat assembler` para ser executado sobre o Hexagonix, tornando-o `self-hosting`. Também desenvolvi uma IDE que permite o desenvolvimento de aplicativos sobre do Hexagonix e para o Hexagonix. Agora, o código completo do sistema, incluindo o `kernel`, `utilitários` e `APIs`, foi lançado como software livre sob `licença BSD`, permitindo aos interessados ​​participar deste projeto e expandi-lo ou apenas estudar mais sobre a organização de um sistema operacional, Assembly ou hardware.
 
-O projeto é mantido em repositórios separados sob um único usuário. Você pode encontrar os repositórios e obter mais informações sobre o projeto [`aqui`](https://github.com/hexagonix/).
+O projeto é mantido em repositórios separados sob um único usuário. Você pode encontrar os repositórios e obter mais informações sobre o projeto [aqui](https://github.com/hexagonix/).
 
 </div>
 
@@ -179,7 +179,7 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 
 <div align="justify">
 
-[`Lunix`](http://github.com/felipenlunkes/lunix) é um novo sistema operacional desenvolvido em `C` para a arquitetura x86. Ele está em fase inicial (bem inicial) de desenvolvimento.
+[Lunix](http://github.com/felipenlunkes/lunix) é um novo sistema operacional desenvolvido em C para a arquitetura x86. Ele está em fase inicial (bem inicial) de desenvolvimento.
 
 </div>
 
