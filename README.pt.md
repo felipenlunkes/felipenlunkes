@@ -22,11 +22,15 @@
 
 ## Sobre mim 💁 
 
+<div align="justify">
+
 Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro.
 
 Sou um usuário leal de código aberto e todos os meus projetos foram lançados com alguma licença gratuita. Tenho paixão por desing e implementação de sistemas operacionais e criei e mantenho um como hobby, como você pode ver abaixo em meus [projetos](PROJECTS.pt.md). Este meu projeto de sistema operacional deriva do meu fascínio por sistemas Unix e um desejo de entender melhor como um sistema operacional funciona e é organizado.
 
 Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar um desenvolvedor backend e frontend.
+
+</div>
 
 > **Estou em transição de carreira e em busca de uma oportunidade como desenvolvedor.** 
 
@@ -34,25 +38,37 @@ Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar
 <br>
 <summary align='left'><strong>Mais sobre mim</strong></summary>
 
+<div align="justify">
+
 Minha vida como desenvolvedor começa aos 2 anos, quando fui apresentado a um computador. Mais tarde, aos 15 anos, decidi fazer um curso técnico em computação e programação, que fez com que eu me apaixonasse pela programação. Neste curso aprendi algumas línguas e também passei a aprender outras sozinho, de forma autodidata. Hoje, tenho experiência em C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) e Python.
 
 Também sou biólogo com interesse em desenvolver soluções para bioinformática.
 
+</div>
+
 </details>
 
 ### <img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="30px" height="30px" /> Curiosidades sobre mim
+
+<div align="justify">
 
 * 💻 Assembly x86 é minha linguagem favorita e pratico muito no meu tempo livre
 * 🧬 Sou biólogo com ênfase em Biotecnologia e Saúde (UFMG) com experiência em Biologia Molecular
 * 📕 Me interesso muito pela história da computação
 * 📀 Tenho uma coleção virtual de sistemas operacionais (mídias de instalação)
 
+</div>
+
 ### 🤓 Meus interesses  
+
+<div align="justify">
 
 - 🌱 Estou aprendendo mais sobre JavaScript, Java, HTML/CSS e Python.
 - 👯 Procuro colaborar em sistemas operacionais, código aberto e projetos comerciais (backend e frontend).
 - 🤔 Estou procurando ajuda com o desenvolvimento dos sistemas operacionais Hexagonix/Andromeda e Lunix OS.
 - ❤️ Atualmente, também estou aprendendo mais e praticando Assembly x86 e C, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS e Lunix OS). Sim, esse é o meu hobby! No meu tempo livre, me procure e me achará fazendo isso!
+
+</div>
 
 <!--
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
@@ -143,9 +159,13 @@ Esses são 3 dos projetos pessoais em que estou trabalhando atualmente:
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
 </p>
 
+<div align="justify">
+
 Eu sou o criador e, até agora, o único desenvolvedor do Hexagonix, um sistema operacional desenvolvido inteiramente do zero em Assembly x86 que se inspira muito nos sistemas Unix, mesmo que eu não tenha nenhum código derivado destes. A maior inspiração para o desenvolvimento foi criar um sistema semelhante ao FreeBSD e ao Linux, ao mesmo tempo em que me permitia aprender mais sobre como funciona um sistema operacional e sobre hardware. Nos últimos sete anos de desenvolvimento, fiz alguns avanços com o Hexagonix, como desenvolver um kernel estável com suporte a gráficos, disco e sistema de arquivos FAT16B, além de portar o flat assmelber para ser executado sobre o Hexagonix, tornando-o self-hosting. Também desenvolvi uma IDE que permite o desenvolvimento de aplicativos sobre do Hexagonix e para o Hexagonix. Agora, o código completo do sistema, incluindo o kernel, utilitários e APIs, foi lançado como software livre sob licença BSD, permitindo aos interessados ​​participar deste projeto e expandi-lo ou apenas estudar mais sobre a organização de um sistema operacional, Assembly ou hardware.
 
 O projeto é mantido em repositórios separados sob um único usuário. Você pode encontrar os repositórios e obter mais informações sobre o projeto [aqui](https://github.com/hexagonix/).
+
+</div>
 
 </details>
 
@@ -157,7 +177,11 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 <a href="https://github.com/felipenlunkes/lunix"><img height="100" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
 </p>
 
+<div align="justify">
+
 [Lunix](http://github.com/felipenlunkes/lunix) é um novo sistema operacional desenvolvido em C para a arquitetura x86. Ele está em fase inicial (bem inicial) de desenvolvimento.
+
+</div>
 
 </details>
 
@@ -169,13 +193,21 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
 </p>
 
+<div align="justify">
+
 GaiaBSD é um fork do FreeBSD destinado a estudar mais sobre sistemas Unix e tentar desenvolver uma distribuição mais amigável baseada na robustez do FreeBSD.
+
+</div>
 
 </details>
 
 #### Mais projetos e ferramentas de aprendizagem
 
+<div align="justify">
+
 Uma lista com todos os meus projetos ativos, não ativos e completos pode ser encontrada [aqui](PROJECTS.pt.md), bem como todos os meus [repositórios](https://github.com/felipenlunkes?tab=repositories) públicos.
+
+</div>
 
 <hr>
 
@@ -194,7 +226,11 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 <br>
 <summary align='left'><strong>✨️ Alguns dos repositórios mantidos por mim e hospedados em outra conta</strong></summary>
 
+<div align="justify">
+
 > Os repositórios abaixo foram criados e são mantidos por mim, hospedados em outras contas de projetos específicos ou de organização (como [HexagonixOS](https://github.com/hexagonix), por exemplo):
+
+</div>
 
 [![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=dark)](https://github.com/hexagonix/Hexagon)
 [![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=dark)](https://github.com/hexagonix/Hboot)

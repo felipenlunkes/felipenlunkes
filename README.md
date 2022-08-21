@@ -22,11 +22,15 @@
 
 ## About me 💁 
 
+<div align="justify">
+
 Hi! My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist.
 
 I am a loyal open source user and all my projects were released with some free license. I have a passion for designing and implementing operating systems and I created and maintain one as a hobby, as you can see below in my [projects](PROJECTS.md). This operating system project of mine stems from my fascination with Unix systems and a desire to better understand how an operating system works and is organized.
 
 I am currently studying JavaScript, Java and Python with the aim of becoming a backend and frontend developer.
+
+</div>
 
 > **I am in career transition and looking for an opportunity as a developer.**
 
@@ -34,25 +38,37 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 <br>
 <summary align='left'><strong>More about me</strong></summary>
 
+<div align="justify">
+
 My life as a developer starts at the age of 2, when I was introduced to a computer. Later, at the age of 15, I decided to take a technical course in computing and programming, which made me fall in love with programming. In this course I learned some languages and also tried to learn others by myself, in a self-taught way. Today, I have experience in C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) and Python.
 
 I am also a biologist with an interest in developing solutions for bioinformatics.
 
+</div>
+
 </details>
 
 ### <img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="30px" height="30px" /> Fun facts about me
+
+<div align="justify">
 
 * 💻 x86 Assembly is my favorite language and I practice a lot in my free time 
 * 🧬 I am a biologist with experience in molecular biology
 * 📕 I am very interested in the history of computing
 * 📀 I have a virtual collection of operating systems (installation media)
 
+</div>
+
 ### 🤓 My interests  
+
+<div align="justify">
 
 - 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python.
 - 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and frontend).
 - 🤔 I’m looking for help with Hexagonix/Andromeda and Lunix OS operating system development.
 - ❤️ I'm currently learning more and practicing x86 Assembly and C, baremetal development and operating system implementation (Hexagonix OS and Lunix OS). Yes, that's my hobby! In my free time, look for me and you will find me doing this!
+
+</div>
 
 <!--
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
@@ -143,9 +159,13 @@ These are 3 of the personal projects I'm currently working on:
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
 </p>
 
+<div align="justify">
+
 I am the creator and, so far, the sole developer of Hexagonix, an operating system developed entirely from scratch in x86 Assembly that takes a lot of inspiration from Unix systems, even if I don't have any of these codes. The biggest inspiration for development was to create a system similar to FreeBSD and Linux, while allowing me to learn more about how an operating system works and about hardware. In the last seven years of development, I have made some advances with Hexagonix, such as developing a stable kernel with graphics, disk and FAT16B file system support, as well as porting the flat assembler to run on top of Hexagonix, making it self-hosting. I also developed an IDE that allows the development of applications on top of Hexagonix and for Hexagonix. Now, the complete system code, including the kernel, utilities and APIs, has been released as free software under a BSD license, allowing interested parties to participate in this project and expand it or just to study more about the organization of an operating system, Assembly or hardware.
 
 The project is maintained in separate repositories under a unique user. You can find the repositories and get more information about the project [here](https://github.com/hexagonix/).
+
+</div>
 
 </details>
 
@@ -157,7 +177,11 @@ The project is maintained in separate repositories under a unique user. You can 
 <a href="https://github.com/felipenlunkes/lunix"><img height="100" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
 </p>
 
+<div align="justify">
+
 [Lunix](https://github.com/felipenlunkes/Lunix) is a new operating system developed in C for the x86 architecture. It is in an early (very early) stage of development.
+
+</div>
 
 </details>
 
@@ -169,13 +193,21 @@ The project is maintained in separate repositories under a unique user. You can 
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
 </p>
 
+<div align="justify">
+
 GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and trying to develop a more user-friendly distribution based on the robustness of FreeBSD.
+
+</div>
 
 </details>
 
 #### More projects and learning tools
 
+<div align="justify">
+
 A list of all my active, non-active and complete projects can be found [here](PROJECTS.md), as well as my [repositories](https://github.com/felipenlunkes?tab=repositories).
+
+</div>
 
 <hr>
 
@@ -194,7 +226,11 @@ A list of all my active, non-active and complete projects can be found [here](PR
 <br>
 <summary align='left'><strong>✨️ Some of the repositories maintained by me on another account</strong></summary>
 
+<div align="justify">
+
 > The repositories below were created and maintained by me, hosted in other specific project or organization accounts (like [HexagonixOS](https://github.com/hexagonix), for example):
+
+</div>
 
 [![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=dark)](https://github.com/hexagonix/Hexagon)
 [![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=dark)](https://github.com/hexagonix/Hboot)
