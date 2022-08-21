@@ -24,9 +24,9 @@
 
 Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro.
 
-Sou um usuário leal de código aberto e todos os meus projetos foram lançados com alguma licença gratuita. Tenho paixão por desing e implementação de sistemas operacionais e criei e mantenho um como hobby, como você pode ver abaixo em meus projetos ativos. Este meu projeto de sistema operacional deriva do meu fascínio por sistemas Unix e um desejo de entender melhor como um sistema operacional funciona e é organizado.
+Sou um usuário leal de código aberto e todos os meus projetos foram lançados com alguma licença gratuita. Tenho paixão por desing e implementação de sistemas operacionais e criei e mantenho um como hobby, como você pode ver abaixo em meus [projetos](PROJECTS.pt.md). Este meu projeto de sistema operacional deriva do meu fascínio por sistemas Unix e um desejo de entender melhor como um sistema operacional funciona e é organizado.
 
-Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar um desenvolvedor backend e frontend. Também sou biólogo com interesse em desenvolver soluções para bioinformática.
+Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar um desenvolvedor backend e frontend.
 
 > **Estou em transição de carreira e em busca de uma oportunidade como desenvolvedor.** 
 
@@ -35,6 +35,8 @@ Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar
 <summary align='left'><strong>Mais sobre mim</strong></summary>
 
 Minha vida como desenvolvedor começa aos 2 anos, quando fui apresentado a um computador. Mais tarde, aos 15 anos, decidi fazer um curso técnico em computação e programação, que fez com que eu me apaixonasse pela programação. Neste curso aprendi algumas línguas e também passei a aprender outras sozinho, de forma autodidata. Hoje, tenho experiência em C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) e Python.
+
+Também sou biólogo com interesse em desenvolver soluções para bioinformática.
 
 </details>
 
@@ -134,8 +136,8 @@ Minha vida como desenvolvedor começa aos 2 anos, quando fui apresentado a um co
 Esses são 3 dos projetos pessoais em que estou trabalhando atualmente:
 
 <details title="1️⃣ Sistema Operacional Hexagonix (Hexagonix OS)" align='left'>
-    <br>
-    <summary align='left'><strong>1️⃣ Sistema Operacional Hexagonix (Hexagonix OS)</strong></summary>
+<br>
+<summary align='left'><strong>1️⃣ Sistema Operacional Hexagonix (Hexagonix OS)</strong></summary>
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
@@ -148,8 +150,8 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 </details>
 
 <details title="2️⃣ Lunix OS" align='left'>
-    <br>
-    <summary align='left'><strong>2️⃣ Lunix OS</strong></summary>
+<br>
+<summary align='left'><strong>2️⃣ Lunix OS</strong></summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/lunix"><img height="100" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
@@ -160,8 +162,8 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 </details>
 
 <details title="3️⃣ GaiaBSD" align='left'>
-    <br>
-    <summary align='left'><strong>3️⃣ GaiaBSD</strong></summary>
+<br>
+<summary align='left'><strong>3️⃣ GaiaBSD</strong></summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
@@ -216,4 +218,3 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 ## ➕️ Mais
 
 <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/UK.gif" width="25px" height="15px" /> [English version](README.md) (versão em inglês)
-

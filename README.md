@@ -22,11 +22,11 @@
 
 ## About me 💁 
 
-Hi! My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
+Hi! My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist.
 
-I am a loyal open source user and all my projects were released with some free license. I have a passion for designing and implementing operating systems and I created and maintain one as a hobby, as you can see below in my active projects. This operating system project of mine stems from my fascination with Unix systems and a desire to better understand how an operating system works and is organized.
+I am a loyal open source user and all my projects were released with some free license. I have a passion for designing and implementing operating systems and I created and maintain one as a hobby, as you can see below in my [projects](PROJECTS.md). This operating system project of mine stems from my fascination with Unix systems and a desire to better understand how an operating system works and is organized.
 
-I am currently studying JavaScript, Java and Python with the aim of becoming a backend and frontend developer. I am also a biologist with an interest in developing solutions for bioinformatics.
+I am currently studying JavaScript, Java and Python with the aim of becoming a backend and frontend developer.
 
 > **I am in career transition and looking for an opportunity as a developer.**
 
@@ -35,6 +35,8 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 <summary align='left'><strong>More about me</strong></summary>
 
 My life as a developer starts at the age of 2, when I was introduced to a computer. Later, at the age of 15, I decided to take a technical course in computing and programming, which made me fall in love with programming. In this course I learned some languages and also tried to learn others by myself, in a self-taught way. Today, I have experience in C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) and Python.
+
+I am also a biologist with an interest in developing solutions for bioinformatics.
 
 </details>
 
@@ -134,8 +136,8 @@ My life as a developer starts at the age of 2, when I was introduced to a comput
 These are 3 of the personal projects I'm currently working on:
 
 <details title="1️⃣ Hexagonix Operating System (Hexagonix OS)" align='left'>
-    <br>
-    <summary align='left'><strong>1️⃣ Hexagonix Operating System (Hexagonix OS)</strong></summary>
+<br>
+<summary align='left'><strong>1️⃣ Hexagonix Operating System (Hexagonix OS)</strong></summary>
     
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
@@ -148,8 +150,8 @@ The project is maintained in separate repositories under a unique user. You can 
 </details>
 
 <details title="2️⃣ Lunix OS" align='left'>
-    <br>
-    <summary align='left'><strong>2️⃣ Lunix OS</strong></summary>
+<br>
+<summary align='left'><strong>2️⃣ Lunix OS</strong></summary>
     
 <p align='center'>
 <a href="https://github.com/felipenlunkes/lunix"><img height="100" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
@@ -160,8 +162,8 @@ The project is maintained in separate repositories under a unique user. You can 
 </details>
 
 <details title="3️⃣ GaiaBSD" align='left'>
-    <br>
-    <summary align='left'><strong>3️⃣ GaiaBSD</strong></summary>
+<br>
+<summary align='left'><strong>3️⃣ GaiaBSD</strong></summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
