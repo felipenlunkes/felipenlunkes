@@ -112,7 +112,7 @@ Também sou biólogo com interesse em desenvolver soluções para bioinformátic
 <br>
 <summary align='left'><strong>Sistemas Operacionais e plataformas</strong></summary>
 
-<div align="center">
+<div align="justify">
 
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -282,6 +282,10 @@ Uma lista com todos os meus projetos `ativos`, `não ativos` e `completos` pode 
 ![mx-110](https://img.shields.io/badge/NVIDIA-MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![windows-11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+![AMD E1](https://img.shields.io/badge/AMD-E1-0071C5?style=for-the-badge&logo=amd&logoColor=white)
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 <hr>
