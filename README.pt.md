@@ -205,13 +205,13 @@ GaiaBSD é um fork do FreeBSD destinado a estudar mais sobre sistemas Unix e ten
 
 <div align="justify">
 
-Uma lista com todos os meus projetos `ativos`, `não ativos` e `completos` pode ser encontrada [aqui](PROJECTS.pt.md), bem como todos os meus [`repositórios`](https://github.com/felipenlunkes?tab=repositories) públicos.
+Uma lista com todos os meus projetos `ativos`, `não ativos` e `completos` pode ser encontrada [aqui](PROJECTS.pt.md), bem como todos os meus [repositórios](https://github.com/felipenlunkes?tab=repositories) públicos.
 
 </div>
 
 <hr>
 
-## 📈 Estatísticas do meu GitHub 
+## 📈 Estatísticas do meu GitHub
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact)](https://github.com/felipenlunkes)
