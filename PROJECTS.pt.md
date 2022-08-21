@@ -16,7 +16,9 @@ Meus projetos foram divididos em categorias. Aqui vai um sumário para facilitar
 
 ## Projetos de sistemas operacionais
 
-### 1️⃣ Sistema operacional Hexagonix (Hexagonix OS) - em desenvolvimento (2015-presente)
+<details title="Sistema operacional Hexagonix (Hexagonix OS) - em desenvolvimento (2015-presente)" align='left'>
+<br>
+<summary align='left'><strong>1️⃣ Sistema operacional Hexagonix (Hexagonix OS) - em desenvolvimento (2015-presente)</strong></summary>
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
@@ -33,7 +35,11 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 [![lib](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=lib&theme=dark)](https://github.com/hexagonix/lib)
 [![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=dark)](https://github.com/hexagonix/fasmx)
 
-### 2️⃣ Lunix OS - em desenvolvimento (2022-presente)
+</details>
+
+<details title="Lunix OS - em desenvolvimento (2022-presente)" align='left'>
+<br>
+<summary align='left'><strong>2️⃣ Lunix OS - em desenvolvimento (2022-presente)</strong></summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/lunix"><img height="100" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
@@ -43,7 +49,11 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 
 [![Lunix](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=lunix&theme=dark)](https://github.com/felipenlunkes/lunix)
 
-### 3️⃣ GaiaBSD - em desenvolvimento (2022-presente)
+</details>
+
+<details title="GaiaBSD - em desenvolvimento (2022-presente)" align='left'>
+<br>
+<summary align='left'><strong>3️⃣ GaiaBSD - em desenvolvimento (2022-presente)</strong></summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
@@ -53,7 +63,11 @@ GaiaBSD é um fork do FreeBSD destinado a estudar mais sobre sistemas Unix e ten
 
 [![GaiaBSD](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=GaiaBSD&theme=dark)](https://github.com/felipenlunkes/GaiaBSD)
 
-### 4️⃣ PX-DOS - não ativo (2013-2015)
+</details>
+
+<details title="PX-DOS - não ativo (2013-2015)" align='left'>
+<br>
+<summary align='left'><strong>4️⃣ PX-DOS - não ativo (2013-2015)</strong></summary>
 
 [PX-DOS](https://github.com/felipenlunkes/PX-DOS) é derivado de uma versão mais antiga de um sistema DOS, o [Public Domain Operating System](http://www.pdos.org/) (PDOS). O PX-DOS adiciona novas camadas, abstrações e funções sobre o PDOS e estende sua funcionalidade. Também foram adicionados vários novos utilitários (userland) ao sistema básico.
 
@@ -66,44 +80,67 @@ Os componentes do sistema foram divididos em repositórios. [Aqui](https://githu
 [![PX-DOS Apps](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-Apps&theme=dark)](https://github.com/felipenlunkes/PX-DOS-Apps)
 [![PX-DOS libasm](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-libasm&theme=dark)](https://github.com/felipenlunkes/PX-DOS-libasm)
 
-### 5️⃣ Everest OS - não ativo (2015-2016)
+</details>
+
+<details title="Everest OS - não ativo (2015-2016)" align='left'>
+<br>
+<summary align='left'><strong>5️⃣ Everest OS - não ativo (2015-2016)</strong></summary>
 
 [Everest OS](https://github.com/felipenlunkes/EverestOS) é um fork de um sistema operacional de domínio público e gratuito (Snowdrop OS), encontrado [aqui](http://sebastianmihai.com/snowdrop), para estudar sistemas operacionais de 16 bits enquanto desenvolvia as primeiras versões do Hexagonix (32 bits).
 
 [![EverestOS](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=EverestOS&theme=dark)](https://github.com/felipenlunkes/EverestOS)
 
-### 6️⃣ Sistema Operacional Bin (Bin S.O) - não ativo (2013)
+</details>
+
+<details title="Sistema Operacional Bin (Bin S.O) - não ativo (2013)" align='left'>
+<br>
+<summary align='left'><strong>6️⃣ Sistema Operacional Bin (Bin S.O) - não ativo (2013)</strong></summary>
 
 [Bin S.O](https://github.com/felipenlunkes/Bin-S.O) é minha primeira tentativa de desenvolver um sistema operacional (2013) usando x86 Assembly.
 
 [![Bin S.O](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=Bin-S.O&theme=dark)](https://github.com/felipenlunkes/Bin-S.O)
 
+</details>
+
 <hr>
 
 ## Ferramentas e utilitários
 
-### 1️⃣ Java Power Shell (JPS) - não ativo (2013)
+<details title="Java Power Shell (JPS) - não ativo (2013)" align='left'>
+<br>
+<summary align='left'><strong>1️⃣ Java Power Shell (JPS) - não ativo (2013)</strong></summary>
 
 [Java Power Shell (JPS)](https://github.com/felipenlunkes/Java-Power-Shell) é um shell portável desenvolvido em Java e testado em Linux, macOS e Windows.
 
 [![Java Power Shell](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=Java-Power-Shell&theme=dark)](https://github.com/felipenlunkes/Java-Power-Shell)
 
-### 2️⃣ PX BASIC (PXBAS) - não ativo (2013-2014)
+</details>
+
+<details title="PX BASIC (PXBAS) - não ativo (2013-2014)" align='left'>
+<br>
+<summary align='left'><strong>2️⃣ PX BASIC (PXBAS) - não ativo (2013-2014)</strong></summary>
+
 
 [PXBAS](https://github.com/felipenlunkes/PXBAS) é um simples interpretador BASIC para MS-DOS, FreeDOS, PX-DOS, PDOS e compatíveis. Pode funcionar em versões de 32 bits do Windows.
 
 [![PXBAS](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PXBAS&theme=dark)](https://github.com/felipenlunkes/PXBAS)
 
+</details>
+
 <hr>
 
 ## Plataformas
 
-### 1️⃣ Projetos em Arduino - não ativo (2012-2018)
+<details title="Projetos em Arduino - não ativo (2012-2018)" align='left'>
+<br>
+<summary align='left'><strong>1️⃣ Projetos em Arduino - não ativo (2012-2018)</strong></summary>
 
 Você pode encontrar minhas explorações no Arduino [aqui](https://github.com/felipenlunkes/Arduino-stuff) e [aqui](https://github.com/felipenlunkes/AxiomKernel).
 
 [![Stuff](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=Arduino-stuff&theme=dark)](https://github.com/felipenlunkes/Arduino-stuff)
 [![Axiom-kernel](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=AxiomKernel&theme=dark)](https://github.com/felipenlunkes/AxiomKernel)
+
+</details>
 
 <hr>
 
