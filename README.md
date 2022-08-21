@@ -64,7 +64,9 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 
 ## 🛠️ Skills
 
-### Languages
+<details title="Languages" align='left'>
+<br>
+<summary align='left'><strong>Languages</strong></summary>
 
 ![assembly](https://img.shields.io/badge/Assembly-F57842?style=for-the-badge&logo=assembly&logoColor=white)
 ![c](https://img.shields.io/badge/C-F5b342?style=for-the-badge&logo=c&logoColor=white)
@@ -76,7 +78,11 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Operating Systems and platforms
+</details>
+
+<details title="Operating Systems and platforms" align='left'>
+<br>
+<summary align='left'><strong>Operating Systems and platforms</strong></summary>
 
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-470137?style=for-the-badge&logo=linux&logoColor=white)
@@ -84,7 +90,11 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 ![freeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
 ![arduino](https://img.shields.io/badge/Arduino-E4405F?style=for-the-badge&logo=arduino&logoColor=white)
 
-### Tools
+</details>
+
+<details title="Tools" align='left'>
+<br>
+<summary align='left'><strong>Tools</strong></summary>
 
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-8117EB?style=for-the-badge&logo=github&logoColor=white)
@@ -95,11 +105,17 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 ![gnu_bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![windows_terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-### Design Tools
+</details>
+
+<details title="Design tools" align='left'>
+<br>
+<summary align='left'><strong>Design tools</strong></summary>
 
 ![canva](https://img.shields.io/badge/Canva-F28A22?style=for-the-badge&logo=canva&logoColor=white)
 ![gimp](https://img.shields.io/badge/Gimp-139176?style=for-the-badge&logo=gimp&logoColor=white)
 ![creative_cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+
+</details>
 
 <hr>
 
