@@ -76,6 +76,8 @@ I am also a biologist with an interest in developing solutions for bioinformatic
 
 ### <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/message.gif" width="30px" height="30px" /> Social and contact
 
+<div align="center">
+
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipelunkes/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/felipenlunkes)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/felipenlunkes)
@@ -85,6 +87,8 @@ I am also a biologist with an interest in developing solutions for bioinformatic
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@felipeldev)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
+</div>
+
 <hr>
 
 ## 🛠️ Skills
@@ -93,7 +97,7 @@ I am also a biologist with an interest in developing solutions for bioinformatic
 <br>
 <summary align='left'><strong>Languages</strong></summary>
 
-<div align="justify">
+<div align="left">
 
 ![assembly](https://img.shields.io/badge/Assembly-F57842?style=for-the-badge&logo=assembly&logoColor=white)
 ![c](https://img.shields.io/badge/C-F5b342?style=for-the-badge&logo=c&logoColor=white)
@@ -113,7 +117,7 @@ I am also a biologist with an interest in developing solutions for bioinformatic
 <br>
 <summary align='left'><strong>Operating Systems and platforms</strong></summary>
 
-<div align="justify">
+<div align="left">
 
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -143,7 +147,7 @@ I am also a biologist with an interest in developing solutions for bioinformatic
 <br>
 <summary align='left'><strong>Tools</strong></summary>
 
-<div align="justify">
+<div align="left">
 
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-8117EB?style=for-the-badge&logo=github&logoColor=white)
@@ -164,7 +168,7 @@ I am also a biologist with an interest in developing solutions for bioinformatic
 <summary align='left'><strong>Design tools</strong></summary>
 
 
-<div align="justify">
+<div align="left">
 
 ![canva](https://img.shields.io/badge/Canva-F28A22?style=for-the-badge&logo=canva&logoColor=white)
 ![gimp](https://img.shields.io/badge/Gimp-139176?style=for-the-badge&logo=gimp&logoColor=white)
@@ -281,6 +285,8 @@ A list of all my `active`, `non-active` and `complete` projects can be found [he
 
 ## 🖥️ My workspace setup
 
+<div align="center">
+
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![mx-110](https://img.shields.io/badge/NVIDIA-MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -291,6 +297,8 @@ A list of all my `active`, `non-active` and `complete` projects can be found [he
 ![Radeon 8210](https://img.shields.io/badge/AMD-Radeon_HD_8210-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+</div>
 
 <hr>
 
