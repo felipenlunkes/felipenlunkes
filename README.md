@@ -112,7 +112,7 @@ I am also a biologist with an interest in developing solutions for bioinformatic
 <br>
 <summary align='left'><strong>Operating Systems and platforms</strong></summary>
 
-<div align="justify">
+<div align="center">
 
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
