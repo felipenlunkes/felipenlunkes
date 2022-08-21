@@ -24,8 +24,6 @@
 
 Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro.
 
-Minha vida como desenvolvedor começa aos 2 anos, quando fui apresentado a um computador. Mais tarde, aos 15 anos, decidi fazer um curso técnico em computação e programação, que fez com que eu me apaixonasse pela programação. Neste curso aprendi algumas línguas e também passei a aprender outras sozinho, de forma autodidata. Hoje, tenho experiência em C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) e Python.
-
 Sou um usuário leal de código aberto e todos os meus projetos foram lançados com alguma licença gratuita. Tenho paixão por desing e implementação de sistemas operacionais e criei e mantenho um como hobby, como você pode ver abaixo em meus projetos ativos. Este meu projeto de sistema operacional deriva do meu fascínio por sistemas Unix e um desejo de entender melhor como um sistema operacional funciona e é organizado.
 
 Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar um desenvolvedor backend e frontend. Também sou biólogo com interesse em desenvolver soluções para bioinformática.
@@ -35,6 +33,8 @@ Atualmente estou estudando JavaScript, Java e Python com o objetivo de me tornar
 <details title="Mais sobre mim" align='left'>
 <br>
 <summary align='left'><strong>Mais sobre mim</strong></summary>
+
+Minha vida como desenvolvedor começa aos 2 anos, quando fui apresentado a um computador. Mais tarde, aos 15 anos, decidi fazer um curso técnico em computação e programação, que fez com que eu me apaixonasse pela programação. Neste curso aprendi algumas línguas e também passei a aprender outras sozinho, de forma autodidata. Hoje, tenho experiência em C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) e Python.
 
 </details>
 

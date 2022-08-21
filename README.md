@@ -24,8 +24,6 @@
 
 Hi! My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist. 
 
-My life as a developer starts at the age of 2, when I was introduced to a computer. Later, at the age of 15, I decided to take a technical course in computing and programming, which made me fall in love with programming. In this course I learned some languages and also tried to learn others by myself, in a self-taught way. Today, I have experience in C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) and Python.
-
 I am a loyal open source user and all my projects were released with some free license. I have a passion for designing and implementing operating systems and I created and maintain one as a hobby, as you can see below in my active projects. This operating system project of mine stems from my fascination with Unix systems and a desire to better understand how an operating system works and is organized.
 
 I am currently studying JavaScript, Java and Python with the aim of becoming a backend and frontend developer. I am also a biologist with an interest in developing solutions for bioinformatics.
@@ -35,6 +33,8 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 <details title="More about me" align='left'>
 <br>
 <summary align='left'><strong>More about me</strong></summary>
+
+My life as a developer starts at the age of 2, when I was introduced to a computer. Later, at the age of 15, I decided to take a technical course in computing and programming, which made me fall in love with programming. In this course I learned some languages and also tried to learn others by myself, in a self-taught way. Today, I have experience in C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) and Python.
 
 </details>
 
