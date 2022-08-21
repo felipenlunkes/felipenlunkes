@@ -16,7 +16,9 @@ My projects have been divided into categories. A summary to facilitate the searc
 
 ## Operating system projects
 
-### 1️⃣ Hexagonix Operating System (Hexagonix OS) - work in progress (2015-present)
+<details title="Hexagonix Operating System (Hexagonix OS) - work in progress (2015-present)" align='left'>
+<br>
+<summary align='left'><strong>1️⃣ Hexagonix Operating System (Hexagonix OS) - work in progress (2015-present)</strong></summary>
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
@@ -33,7 +35,11 @@ The project is maintained in separate repositories under a unique user. You can 
 [![lib](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=lib&theme=dark)](https://github.com/hexagonix/lib)
 [![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=dark)](https://github.com/hexagonix/fasmx)
 
-### 2️⃣ Lunix OS - work in progress (2022-present)
+</details>
+
+<details title="Lunix OS - work in progress (2022-present)" align='left'>
+<br>
+<summary align='left'><strong>2️⃣ Lunix OS - work in progress (2022-present)</strong></summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/lunix"><img height="100" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
@@ -43,7 +49,11 @@ The project is maintained in separate repositories under a unique user. You can 
 
 [![Lunix](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=lunix&theme=dark)](https://github.com/felipenlunkes/lunix)
 
-### 3️⃣ GaiaBSD - work in progress (2022-present)
+</details>
+
+<details title="GaiaBSD - work in progress (2022-present)" align='left'>
+<br>
+<summary align='left'><strong>3️⃣ GaiaBSD - work in progress (2022-present)</strong></summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
@@ -53,7 +63,11 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 [![GaiaBSD](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=GaiaBSD&theme=dark)](https://github.com/felipenlunkes/GaiaBSD)
 
-### 4️⃣ PX-DOS - not active (2013-2015)
+</details>
+
+<details title="PX-DOS - not active (2013-2015)" align='left'>
+<br>
+<summary align='left'><strong>4️⃣ PX-DOS - not active (2013-2015)</strong></summary>
 
 [PX-DOS](https://github.com/felipenlunkes/PX-DOS) is derived from an older version of a DOS system, the [Public Domain Operating System](http://www.pdos.org/) (PDOS). PX-DOS adds new layers, abstractions and functions on top of PDOS and extends its functionality. Also added a number of new utilities (userland) to the base system.
 
@@ -66,17 +80,28 @@ System components have been divided into repositories. [Here](https://github.com
 [![PX-DOS Apps](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-Apps&theme=dark)](https://github.com/felipenlunkes/PX-DOS-Apps)
 [![PX-DOS libasm](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-libasm&theme=dark)](https://github.com/felipenlunkes/PX-DOS-libasm)
 
-### 5️⃣ Everest OS - not active (2015-2016)
+</details>
+
+<details title="Everest OS - not active (2015-2016)" align='left'>
+<br>
+<summary align='left'><strong>5️⃣ Everest OS - not active (2015-2016)</strong></summary>
+
 
 [Everest OS](https://github.com/felipenlunkes/EverestOS) is a fork of a free and public domain operating system (Snowdrop OS), found [here](http://sebastianmihai.com/snowdrop), to study 16-bit operating systems while developing Hexagonix (32-bit).
 
 [![EverestOS](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=EverestOS&theme=dark)](https://github.com/felipenlunkes/EverestOS)
 
-### 6️⃣ Bin Operating System (Bin S.O) - not active (2013)
+</details>
+
+<details title="Bin Operating System (Bin S.O) - not active (2013)" align='left'>
+<br>
+<summary align='left'><strong>6️⃣ Bin Operating System (Bin S.O) - not active (2013)</strong></summary>
 
 [Bin S.O](https://github.com/felipenlunkes/Bin-S.O) is my first attempt to develop an operating system (2013) using x86 Assembly.
 
 [![Bin S.O](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=Bin-S.O&theme=dark)](https://github.com/felipenlunkes/Bin-S.O)
+
+</details>
 
 <hr>
 
