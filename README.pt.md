@@ -228,7 +228,7 @@ Uma lista com todos os meus projetos `ativos`, `não ativos` e `completos` pode 
 
 <div align="justify">
 
-> Os repositórios abaixo foram criados e são mantidos por mim, hospedados em outras contas de projetos específicos ou de organização (como [HexagonixOS](https://github.com/hexagonix), por exemplo):
+> Os repositórios abaixo foram criados e são mantidos por mim, hospedados em outras contas de projetos específicos ou de `organização` (como [Hexagonix](https://github.com/hexagonix), por exemplo):
 
 </div>
 
