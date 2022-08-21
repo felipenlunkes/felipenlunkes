@@ -170,7 +170,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 <br>
 <summary align='left'><strong>✨️ Alguns dos repositórios mantidos por mim e hospedados em outra conta</strong></summary>
 
-> Os repositórios abaixo foram criados e são mantidos por mim, hospedados em outras contas de projetos específicos ou de organização [HexagonixOS](https://github.com/hexagonix):
+> Os repositórios abaixo foram criados e são mantidos por mim, hospedados em outras contas de projetos específicos ou de organização (como [HexagonixOS](https://github.com/hexagonix), por exemplo):
 
 [![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=dark)](https://github.com/hexagonix/Hexagon)
 [![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=dark)](https://github.com/hexagonix/Hboot)

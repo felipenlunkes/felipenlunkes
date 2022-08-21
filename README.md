@@ -111,19 +111,6 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 
 These are 3 of the personal projects I'm currently working on:
 
-<!--
-#### 1️⃣ Hexagonix Operating System (Hexagonix OS)
-
-<p align='center'>
-<a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
-</p>
-
-I am the creator and, so far, the sole developer of Hexagonix, an operating system developed entirely from scratch in x86 Assembly that takes a lot of inspiration from Unix systems, even if I don't have any of these codes. The biggest inspiration for development was to create a system similar to FreeBSD and Linux, while allowing me to learn more about how an operating system works and about hardware. In the last seven years of development, I have made some advances with Hexagonix, such as developing a stable kernel with graphics, disk and FAT16B file system support, as well as porting the flat assembler to run on top of Hexagonix, making it self-hosting. I also developed an IDE that allows the development of applications on top of Hexagonix and for Hexagonix. Now, the complete system code, including the kernel, utilities and APIs, has been released as free software under a BSD license, allowing interested parties to participate in this project and expand it or just to study more about the organization of an operating system, Assembly or hardware.
-
-The project is maintained in separate repositories under a unique user. You can find the repositories and get more information about the project [here](https://github.com/hexagonix/).
-
--->
-
 <details title="1️⃣ Hexagonix Operating System (Hexagonix OS)" align='left'>
     <br>
     <summary align='left'><strong>1️⃣ Hexagonix Operating System (Hexagonix OS)</strong></summary>
@@ -138,18 +125,6 @@ The project is maintained in separate repositories under a unique user. You can 
 
 </details>
 
-<!--
-
-#### 2️⃣ Lunix OS
-
-<p align='center'>
-<a href="https://github.com/felipenlunkes/lunix"><img height="100" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
-</p>
-
-[Lunix](https://github.com/felipenlunkes/Lunix) is a new operating system developed in C for the x86 architecture. It is in an early (very early) stage of development.
-
--->
-
 <details title="2️⃣ Lunix OS" align='left'>
     <br>
     <summary align='left'><strong>2️⃣ Lunix OS</strong></summary>
@@ -161,18 +136,6 @@ The project is maintained in separate repositories under a unique user. You can 
 [Lunix](https://github.com/felipenlunkes/Lunix) is a new operating system developed in C for the x86 architecture. It is in an early (very early) stage of development.
 
 </details>
-
-<!--
-
-#### 3️⃣ GaiaBSD
-
-<p align='center'>
-<a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
-</p>
-
-GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and trying to develop a more user-friendly distribution based on the robustness of FreeBSD.
-
--->
 
 <details title="3️⃣ GaiaBSD" align='left'>
     <br>
@@ -203,14 +166,18 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 ![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=GitHub+profile+views&style=for-the-badge)
 
-### ✨️ Some of the repositories maintained by me on another account
+<details title="Some of the repositories maintained by me on another account" align='left'>
+<br>
+<summary align='left'><strong>✨️ Some of the repositories maintained by me on another account</strong></summary>
 
-> The repositories below were created and maintained by me, hosted in other specific project accounts:
+> The repositories below were created and maintained by me, hosted in other specific project or organization accounts (like [HexagonixOS](https://github.com/hexagonix), for example):
 
 [![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=dark)](https://github.com/hexagonix/Hexagon)
 [![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=dark)](https://github.com/hexagonix/Hboot)
 [![Unix-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps&theme=dark)](https://github.com/hexagonix/unix-apps)
 [![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=dark)](https://github.com/hexagonix/fasmx)
+
+</details>
 
 <hr>
 
