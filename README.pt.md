@@ -112,7 +112,7 @@ Também sou biólogo com interesse em desenvolver soluções para bioinformátic
 <br>
 <summary align='left'><strong>Sistemas Operacionais e plataformas</strong></summary>
 
-<div align="justify">
+<div align="center">
 
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
