@@ -32,7 +32,7 @@ I am currently studying `C`, `JavaScript`, `Java` and `Python` with the aim of b
 
 </div>
 
-> **I am in career transition and looking for an opportunity as a developer.**
+> **`I am in career transition and looking for an opportunity as a developer.`**
 
 <details title="More about me" align='left'>
 <br>
