@@ -32,6 +32,12 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 
 > **I am in career transition and looking for an opportunity as a developer.**
 
+<details title="More about me" align='left'>
+<br>
+<summary align='left'><strong>More about me</strong></summary>
+
+</details>
+
 ### <img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="30px" height="30px" /> Fun facts about me
 
 * 💻 x86 Assembly is my favorite language and I practice a lot in my free time 
@@ -45,12 +51,6 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 - 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and frontend).
 - 🤔 I’m looking for help with Hexagonix/Andromeda and Lunix OS operating system development.
 - ❤️ I'm currently learning more and practicing x86 Assembly and C, baremetal development and operating system implementation (Hexagonix OS and Lunix OS). Yes, that's my hobby! In my free time, look for me and you will find me doing this!
-
-<details title="More about me" align='left'>
-<br>
-<summary align='left'><strong>More about me</strong></summary>
-
-</details>
 
 <!--
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
