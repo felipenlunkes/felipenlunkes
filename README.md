@@ -46,6 +46,12 @@ I am currently studying JavaScript, Java and Python with the aim of becoming a b
 - 🤔 I’m looking for help with Hexagonix/Andromeda and Lunix OS operating system development.
 - ❤️ I'm currently learning more and practicing x86 Assembly and C, baremetal development and operating system implementation (Hexagonix OS and Lunix OS). Yes, that's my hobby! In my free time, look for me and you will find me doing this!
 
+<details title="More about me" align='left'>
+<br>
+<summary align='left'><strong>More about me</strong></summary>
+
+</details>
+
 <!--
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
 -->
