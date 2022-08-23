@@ -28,7 +28,7 @@ Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasi
 
 Atualmente estou estudando C, JavaScript, Java e Python com o objetivo de me tornar um desenvolvedor backend ou aproveitar oportunidades como DevOps.
 
-Me pergunte sobre design e implementação de sistemas operacionais, Assembly x86 e C.
+* 🌱 Me pergunte sobre design e implementação de sistemas operacionais, Assembly x86 e C.
 
 Saiba mais sobre mim clicando sobre `Mais sobre mim`, abaixo! Você também pode ver uma lista com todos os meus projetos [aqui](PROJECTS.pt.md) ou os projetos em destaque logo abaixo.
 
@@ -84,8 +84,6 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 </details>
 
-</details>
-
 ### <img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="30px" height="30px" /> Curiosidades sobre mim
 
 <div align="justify">
@@ -107,6 +105,8 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 - ❤️ Atualmente, também estou aprendendo mais e praticando Assembly x86 e C, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS e Lunix OS). Sim, esse é o meu hobby! No meu tempo livre, me procure e me achará fazendo isso!
 
 </div>
+
+</details>
 
 <!--
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
