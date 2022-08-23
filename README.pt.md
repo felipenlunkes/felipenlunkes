@@ -36,13 +36,13 @@ Saiba mais sobre mim clicando sobre `Mais sobre mim`, abaixo! Você também pode
 
 <details title="Mais sobre mim" align='left'>
 <br>
-<summary align='left'><strong>Mais sobre mim</strong></summary>
+<summary align='left'><strong>🥳 Mais sobre mim</strong></summary>
 
 <div align="justify">
 
-<details title="Minha história na área" align='left'>
+<details title="Minha trajetória" align='left'>
 <br>
-<summary align='left'><strong>Meu história na área</strong></summary>
+<summary align='left'><strong>⏳️ Minha trajetória</strong></summary>
 
 <div align="justify">
 
@@ -58,7 +58,7 @@ Sou um usuário leal de código aberto e todos os meus projetos foram lançados 
 
 <details title="Minha experiência" align='left'>
 <br>
-<summary align='left'><strong>Minha experiência</strong></summary>
+<summary align='left'><strong>🔎 Minha experiência</strong></summary>
 
 <div align="justify">
 
@@ -70,7 +70,7 @@ Hoje, tenho experiência em C, x86 Assembly, Java, Pascal, Basic, Visual Basic (
 
 <details title="Minha formação" align='left'>
 <br>
-<summary align='left'><strong>Minha formação</strong></summary>
+<summary align='left'><strong>📚 Minha formação</strong></summary>
 
 <div align="justify">
 

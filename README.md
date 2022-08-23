@@ -34,15 +34,15 @@ Learn more about me by clicking on `More about me` below! You can also see a lis
 
 > **I am in career transition and looking for an opportunity as a developer.**
 
-<details title="🥳 More about me" align='left'>
+<details title="More about me" align='left'>
 <br>
-<summary align='left'><strong>More about me</strong></summary>
+<summary align='left'><strong>🥳 More about me</strong></summary>
 
 <div align="justify">
 
-<details title="⏳️ My story" align='left'>
+<details title="My trajectory" align='left'>
 <br>
-<summary align='left'><strong>My story</strong></summary>
+<summary align='left'><strong>⏳️ My trajectory</strong></summary>
 
 <div align="justify">
 
@@ -56,9 +56,9 @@ I'm a loyal open source user and all my projects have been released with some fr
 
 </details>
 
-<details title="🔎 My experiences" align='left'>
+<details title="My experiences" align='left'>
 <br>
-<summary align='left'><strong>My experiences</strong></summary>
+<summary align='left'><strong>🔎 My experiences</strong></summary>
 
 <div align="justify">
 
@@ -68,9 +68,9 @@ Today, I have experience in C, x86 Assembly, Java, Pascal, Basic, Visual Basic (
 
 </details>
 
-<details title="📚 My academic background" align='left'>
+<details title="My academic background" align='left'>
 <br>
-<summary align='left'><strong>My academic background</strong></summary>
+<summary align='left'><strong>📚 My academic background</strong></summary>
 
 <div align="justify">
 
@@ -202,7 +202,6 @@ During high school, I worked as a computer instructor for all ages, along with t
 <details title="Design tools" align='left'>
 <br>
 <summary align='left'><strong>Design tools</strong></summary>
-
 
 <div align="left">
 
