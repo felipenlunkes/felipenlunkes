@@ -24,13 +24,13 @@
 
 <div align="justify">
 
+> **Estou em transição de carreira e em busca de uma oportunidade como desenvolvedor.**
+
 Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro.
 
 Atualmente estou estudando C, JavaScript, Java e Python com o objetivo de me tornar um desenvolvedor backend ou aproveitar oportunidades como DevOps.
 
 * 🌱 Me pergunte sobre design e implementação de sistemas operacionais, Assembly x86 e C.
-
-> **Estou em transição de carreira e em busca de uma oportunidade como desenvolvedor.**
 
 Saiba mais sobre mim clicando sobre `Mais sobre mim`, abaixo! Você também pode ver uma lista com todos os meus projetos [aqui](PROJECTS.pt.md) ou os projetos em destaque logo abaixo.
 
