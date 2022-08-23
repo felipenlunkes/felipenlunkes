@@ -32,7 +32,7 @@ Learn more about me by clicking on `More about me` below! You can also see a lis
 
 </div>
 
-> **`I am in career transition and looking for an opportunity as a developer.`**
+> **I am in career transition and looking for an opportunity as a developer.**
 
 <details title="More about me" align='left'>
 <br>
