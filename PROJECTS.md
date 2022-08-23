@@ -130,6 +130,22 @@ System components have been divided into repositories. [Here](https://github.com
 
 </details>
 
+<details title="Netuno OS Operating System (Linux) - not active (2012)" align='left'>
+<br>
+<summary align='left'><strong>Netuno OS Operating System (Linux) - not active (2012)</strong></summary>
+
+<p align='center'>
+<a href="https://www.linuxfromscratch.org/lfs/"><img height="150" src="https://www.linuxfromscratch.org/images/lfs-logo.png"></a>&nbsp;&nbsp;
+</p>
+
+<div align="justify">
+
+During 2012, motivated to learn more about how a modern operating system works, I started to develop a small and simple Linux distribution, choosing to maintain a command-line interface. For this, I followed the steps proposed by the project [Linux From Scratch](https://www.linuxfromscratch.org/lfs/). The result was Neptune SO, an operating system based on the 2.6 series Linux kernel, standard tools and utilities. There are no sources other than those available in the packages used, so a repository had not been created at the time. What was left of it was a system installation image, approximately 192 Mb, dated 2012.
+
+</div>
+
+</details>
+
 <hr>
 
 ## Tools and utilities

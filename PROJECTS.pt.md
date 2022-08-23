@@ -130,6 +130,22 @@ Os componentes do sistema foram divididos em repositórios. [Aqui](https://githu
 
 </details>
 
+<details title="Sistema Operacional Netuno OS (Linux) - não ativo (2012)" align='left'>
+<br>
+<summary align='left'><strong>Sistema Operacional Netuno OS (Linux) - não ativo (2012)</strong></summary>
+
+<p align='center'>
+<a href="https://www.linuxfromscratch.org/lfs/"><img height="150" src="https://www.linuxfromscratch.org/images/lfs-logo.png"></a>&nbsp;&nbsp;
+</p>
+
+<div align="justify">
+
+Durante o ano de 2012, motivado em aprender mais sobre o funcionamento de um sistema operacional moderno, passei a desenvolver uma distribuição Linux pequena e simples, optando por manter uma interface em linha de comando. Para isso, segui os passos propostos pelo projeto [Linux From Scratch](https://www.linuxfromscratch.org/lfs/). O resultado foi o Netuno OS, um sistema operacional baseado no kernel Linux da série 2.6, ferramentas e utilitários padrão. Não existem fontes diferentes dos disponíveis nos pacotes utilizados, então um repositório não havia sido criado na época. O que restou dele foi uma imagem de instalação do sistema, com aproximadamente 192 Mb, datada de 2012.
+
+</div>
+
+</details>
+
 <hr>
 
 ## Ferramentas e utilitários
