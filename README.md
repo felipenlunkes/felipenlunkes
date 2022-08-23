@@ -218,8 +218,6 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 ## 💡 My projects  
 
-> [Here](PROJECTS.md) you have access to a list of all my projects.
-
 These are 3 of the personal projects I'm currently working on:
 
 <details title="1️⃣ Hexagonix Operating System (Hexagonix OS)" align='left'>
@@ -272,7 +270,7 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 </details>
 
-#### More projects and learning tools
+#### All my projects and learning tools
 
 <div align="justify">
 

@@ -217,8 +217,6 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 ## 💡 Meus projetos ativos
 
-> [Aqui](PROJECTS.pt.md) você pode ter acesso a todos os meu projetos.
-
 Esses são 3 dos projetos pessoais em que estou trabalhando atualmente:
 
 <details title="1️⃣ Sistema Operacional Hexagonix (Hexagonix OS)" align='left'>
@@ -271,7 +269,7 @@ GaiaBSD é um fork do FreeBSD destinado a estudar mais sobre sistemas Unix e ten
 
 </details>
 
-#### Mais projetos e ferramentas de aprendizagem
+#### Todos os meus projetos e ferramentas de aprendizagem
 
 <div align="justify">
 
