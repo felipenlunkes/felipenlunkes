@@ -38,7 +38,7 @@ Saiba mais sobre mim clicando sobre `Mais sobre mim`, abaixo! Você também pode
 
 <details title="Mais sobre mim" align='left'>
 <br>
-<summary align='left'><strong>🥳 Mais sobre mim</strong></summary>
+<summary align='left'><strong>😁 Mais sobre mim</strong></summary>
 
 <div align="justify">
 
