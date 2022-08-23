@@ -132,7 +132,7 @@ Os componentes do sistema foram divididos em repositórios. [Aqui](https://githu
 
 <details title="Sistema Operacional Netuno OS (Linux) - não ativo (2012)" align='left'>
 <br>
-<summary align='left'><strong>Sistema Operacional Netuno OS (Linux) - não ativo (2012)</strong></summary>
+<summary align='left'><strong>7️⃣ Sistema Operacional Netuno OS (Linux) - não ativo (2012)</strong></summary>
 
 <p align='center'>
 <a href="https://www.linuxfromscratch.org/lfs/"><img height="100" src="https://www.linuxfromscratch.org/images/lfs-logo.png"></a>&nbsp;&nbsp;
