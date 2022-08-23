@@ -34,13 +34,13 @@ Learn more about me by clicking on `More about me` below! You can also see a lis
 
 > **I am in career transition and looking for an opportunity as a developer.**
 
-<details title="More about me" align='left'>
+<details title="🥳 More about me" align='left'>
 <br>
 <summary align='left'><strong>More about me</strong></summary>
 
 <div align="justify">
 
-<details title="My story" align='left'>
+<details title="⏳️ My story" align='left'>
 <br>
 <summary align='left'><strong>My story</strong></summary>
 
@@ -56,7 +56,7 @@ I'm a loyal open source user and all my projects have been released with some fr
 
 </details>
 
-<details title="My experiences" align='left'>
+<details title="🔎 My experiences" align='left'>
 <br>
 <summary align='left'><strong>My experiences</strong></summary>
 
@@ -68,7 +68,7 @@ Today, I have experience in C, x86 Assembly, Java, Pascal, Basic, Visual Basic (
 
 </details>
 
-<details title="My academic background" align='left'>
+<details title="📚 My academic background" align='left'>
 <br>
 <summary align='left'><strong>My academic background</strong></summary>
 
