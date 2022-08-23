@@ -39,7 +39,7 @@ Learn more about me by clicking on `More about me` below! You can also see a lis
 
 <details title="More about me" align='left'>
 <br>
-<summary align='left'><strong>👨‍💻 More about me</strong></summary>
+<summary align='left'><strong>😁 More about me</strong></summary>
 
 <div align="justify">
 
