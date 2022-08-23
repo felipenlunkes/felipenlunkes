@@ -58,7 +58,7 @@ I'm a loyal open source user and all my projects have been released with some fr
 
 <details title="My experiences" align='left'>
 <br>
-<summary align='left'><strong>🔎 My experiences</strong></summary>
+<summary align='left'><strong>💻 My experiences</strong></summary>
 
 <div align="justify">
 
