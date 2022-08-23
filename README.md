@@ -24,11 +24,11 @@
 
 <div align="justify">
 
-Hi! My name is Felipe Lunkes (he/him) and I am a brazilian developer and biologist.
+Hi! My name is Felipe Lunkes (he/him) and I am a Brazilian developer and biologist.
 
-I am a loyal open source user and all my projects were released with some free license. I have a passion for designing and implementing operating systems and I created and maintain one as a hobby, as you can see below in my [projects](PROJECTS.md). This operating system project of mine stems from my fascination with Unix systems and a desire to better understand how an operating system works and is organized.
+I am currently studying C, JavaScript, Java and Python with the aim of becoming a backend developer or taking advantage of opportunities as a DevOps.
 
-I am currently studying C, JavaScript, Java and Python with the aim of becoming a backend developer.
+Learn more about me by clicking on `More about me` below! You can also see a list of all my projects [here](PROJECTS.en.md) or my top 3 projects below.
 
 </div>
 
@@ -40,11 +40,47 @@ I am currently studying C, JavaScript, Java and Python with the aim of becoming 
 
 <div align="justify">
 
-My life as a developer starts at the age of 2, when I was introduced to a computer. Later, at the age of 15, I decided to take a technical course in computing and programming, which made me fall in love with programming. In this course I learned some languages and also tried to learn others by myself, in a self-taught way. Today, I have experience in C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) and Python.
+<details title="My story" align='left'>
+<br>
+<summary align='left'><strong>My story</strong></summary>
 
-I am also a biologist with an interest in developing solutions for bioinformatics.
+<div align="justify">
+
+My life as a developer started at age 2, when I was introduced to a computer. Later, at age 15, I decided to take a technical course in computer science, which made me fall in love with programming. In this course I learned some languages ​​and learned the basis to seek to learn others on my own.
+
+Also at that time, operating systems aroused a great interest in me. I started using Ubuntu as my main operating system and soon became interested in trying to develop one from scratch. In 2012, I started to develop an operating system based on `Linux from Scratch` tutorials, called Netuno SO. I learned a lot about organizing an operating system, maintaining and operating a Unix-like system, creating and maintaining makefiles and compiling packages, which allowed me to gain a lot of experience in administering a Linux system. This project also ignited my passion for Unix systems even more, which led me to research, study and try to develop an operating system on my own, focusing on a Unix-like model. I started to create projects derived from free operating systems, to learn more about how they work and start my own project.
+
+I'm a loyal open source user and all my projects have been released with some free license (mostly BSD). I am passionate about the design and implementation of operating systems, as well as their administration. I created and maintain a simple and free operating system, for educational purposes, which can be found in my [projects](PROJECTS.en.md). This operating system project stems from my fascination with Unix systems and a desire to better understand how an operating system works and is organized. This project is open to new ideas and collaborations!
 
 </div>
+
+</details>
+
+<details title="My experiences" align='left'>
+<br>
+<summary align='left'><strong>My experiences</strong></summary>
+
+<div align="justify">
+
+Today, I have experience in C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) and Python.
+
+</div>
+
+</details>
+
+<details title="My academic background" align='left'>
+<br>
+<summary align='left'><strong>My academic background</strong></summary>
+
+<div align="justify">
+
+I am a computer technician and graduated with a bachelor's degree in Biological Sciences from the Federal University of Minas Gerais (UFMG).
+
+During high school, I worked as a computer instructor for all ages, along with the federal government program Telecentros.BR.
+
+</div>
+
+</details>
 
 </details>
 

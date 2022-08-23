@@ -26,7 +26,7 @@
 
 Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro.
 
-Atualmente estou estudando C, JavaScript, Java e Python com o objetivo de me tornar um desenvolvedor backend ou DevOps.
+Atualmente estou estudando C, JavaScript, Java e Python com o objetivo de me tornar um desenvolvedor backend ou aproveitar oportunidades como DevOps.
 
 Saiba mais sobre mim clicando sobre `Mais sobre mim`, abaixo! Você também pode ver uma lista com todos os meus projetos [aqui](PROJECTS.pt.md) ou os projetos em destaque logo abaixo.
 
@@ -64,9 +64,19 @@ Sou um usuário leal de código aberto e todos os meus projetos foram lançados 
 
 Hoje, tenho experiência em C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) e Python.
 
-Durante o ensino médio, atuei como instrutor de informática para todas as idades, juntamente ao programa do governo federal Telecentros.BR.
+</div>
 
-Também me graduei como bacharel em Ciências Biológicas pela Universidade Federal de Minas Gerais (UFMG).
+</details>
+
+<details title="Minha formação" align='left'>
+<br>
+<summary align='left'><strong>Minha formação</strong></summary>
+
+<div align="justify">
+
+Possuo técnico em informática e me graduei como bacharel em Ciências Biológicas pela Universidade Federal de Minas Gerais (UFMG).
+
+Durante o ensino médio, atuei como instrutor de informática para todas as idades, juntamente ao programa do governo federal Telecentros.BR.
 
 </div>
 
