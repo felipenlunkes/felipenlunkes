@@ -30,11 +30,11 @@ Atualmente estou estudando C, JavaScript, Java e Python com o objetivo de me tor
 
 * 🌱 Me pergunte sobre design e implementação de sistemas operacionais, Assembly x86 e C.
 
+> **Estou em transição de carreira e em busca de uma oportunidade como desenvolvedor.**
+
 Saiba mais sobre mim clicando sobre `Mais sobre mim`, abaixo! Você também pode ver uma lista com todos os meus projetos [aqui](PROJECTS.pt.md) ou os projetos em destaque logo abaixo.
 
 </div>
-
-> **Estou em transição de carreira e em busca de uma oportunidade como desenvolvedor.**
 
 <details title="Mais sobre mim" align='left'>
 <br>
