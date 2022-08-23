@@ -129,7 +129,9 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 ## 🛠️ Skills
 
-
+<details title="Languages" align='left'>
+<br>
+<summary align='left'><strong>Languages</strong></summary>
 
 <div align="left">
 
