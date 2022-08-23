@@ -132,7 +132,7 @@ System components have been divided into repositories. [Here](https://github.com
 
 <details title="Netuno OS Operating System (Linux) - not active (2012)" align='left'>
 <br>
-<summary align='left'><strong>Netuno OS Operating System (Linux) - not active (2012)</strong></summary>
+<summary align='left'><strong>7️⃣ Netuno OS Operating System (Linux) - not active (2012)</strong></summary>
 
 <p align='center'>
 <a href="https://www.linuxfromscratch.org/lfs/"><img height="100" src="https://www.linuxfromscratch.org/images/lfs-logo.png"></a>&nbsp;&nbsp;
