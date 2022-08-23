@@ -218,9 +218,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 ## 💡 My projects  
 
-[Here](PROJECTS.md) you have access to a list of all my projects.
-
-### 💎 My top 3 current personal projects
+> [Here](PROJECTS.md) you have access to a list of all my projects.
 
 These are 3 of the personal projects I'm currently working on:
 
@@ -278,7 +276,7 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 <div align="justify">
 
-A list of all my `active`, `non-active` and `complete` projects can be found [here](PROJECTS.md), as well as my [repositories](https://github.com/felipenlunkes?tab=repositories).
+A list of all my active, non-active and complete projects can be found [here](PROJECTS.md), as well as my [repositories](https://github.com/felipenlunkes?tab=repositories).
 
 </div>
 

@@ -217,9 +217,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 ## 💡 Meus projetos ativos
 
-[Aqui](PROJECTS.pt.md) você pode ter acesso a todos os meu projetos.
-
-### 💎 Meus 3 principais projetos pessoais atuais
+> [Aqui](PROJECTS.pt.md) você pode ter acesso a todos os meu projetos.
 
 Esses são 3 dos projetos pessoais em que estou trabalhando atualmente:
 
@@ -277,7 +275,7 @@ GaiaBSD é um fork do FreeBSD destinado a estudar mais sobre sistemas Unix e ten
 
 <div align="justify">
 
-Uma lista com todos os meus projetos `ativos`, `não ativos` e `completos` pode ser encontrada [aqui](PROJECTS.pt.md), bem como todos os meus [repositórios](https://github.com/felipenlunkes?tab=repositories) públicos.
+Uma lista com todos os meus projetos ativos, não ativos e completos pode ser encontrada [aqui](PROJECTS.pt.md), bem como todos os meus [repositórios](https://github.com/felipenlunkes?tab=repositories) públicos.
 
 </div>
 
