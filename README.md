@@ -26,7 +26,7 @@
 
 Hi! My name is Felipe Lunkes (he/him) and I am a Brazilian developer and biologist.
 
-I am currently studying C, JavaScript, Java and Python with the aim of becoming a backend developer or taking advantage of opportunities as a DevOps.
+I am currently studying C, JavaScript, Java and Python with the aim of becoming a backend developer or taking opportunities as a DevOps.
 
 * 🌱 Ask me about OS design and implementation, x86 Assembly and C.
 
