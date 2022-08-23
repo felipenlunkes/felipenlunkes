@@ -58,7 +58,7 @@ Sou um usuário leal de código aberto e todos os meus projetos foram lançados 
 
 <details title="Minha experiência" align='left'>
 <br>
-<summary align='left'><strong>🔎 Minha experiência</strong></summary>
+<summary align='left'><strong>💻 Minha experiência</strong></summary>
 
 <div align="justify">
 
