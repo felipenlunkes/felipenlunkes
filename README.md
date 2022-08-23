@@ -24,8 +24,6 @@
 
 <div align="justify">
 
-> **I am in career transition and looking for an opportunity as a developer.**
-
 Hi! My name is Felipe Lunkes (he/him) and I am a Brazilian developer and biologist.
 
 I am currently studying C, JavaScript, Java and Python with the aim of becoming a backend developer or taking opportunities as a DevOps.
@@ -112,6 +110,8 @@ During high school, I worked as a computer instructor for all ages, along with t
 - 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
 -->
 
+> **I am in career transition and looking for an opportunity as a developer.**
+
 ### <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/message.gif" width="30px" height="30px" /> Social and contact
 
 <div align="center">
@@ -131,9 +131,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 ## 🛠️ Skills
 
-<details title="Languages" align='left'>
-<br>
-<summary align='left'><strong>Languages</strong></summary>
+
 
 <div align="left">
 
