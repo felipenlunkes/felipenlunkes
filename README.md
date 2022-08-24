@@ -289,9 +289,9 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 </div>
 
-<details title="Complete statistics" align='left'>
+<details title="Detailed statistics" align='left'>
 <br>
-<summary align='left'><strong>Complete statistics</strong></summary>
+<summary align='left'><strong>Detailed statistics</strong></summary>
 
 <div align="center">
 
