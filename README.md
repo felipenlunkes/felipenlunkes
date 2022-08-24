@@ -26,10 +26,10 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/wave.gif" width="30px" height="30px" />
 
-</div>
-
 ## About me 💁 
 
+</div>
+    
 <div align="justify">
 
 Hi! My name is Felipe Lunkes (he/him) and I am a Brazilian developer and biologist.
@@ -372,6 +372,10 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <hr>
 
+<div align="center">
+    
 ## ➕️ More
 
 <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/Brasil.gif" width="25px" height="15px" /> [Versão em português](README.pt.md) (Portuguese version)
+
+</div>    
