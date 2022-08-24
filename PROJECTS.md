@@ -243,8 +243,12 @@ You can found my explorations on Arduino [here](https://github.com/felipenlunkes
 
 </div>
 
+<div align="center">
+  
 [![OSDevbr](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=osdevbr&theme=dark)](https://github.com/felipenlunkes/osdevbr)
 
+</div>  
+  
 <hr>
 
 ## Learning tools
