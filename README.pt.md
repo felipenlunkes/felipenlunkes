@@ -26,9 +26,9 @@
   
 # Olá! <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/wave.gif" width="30px" height="30px" />
 
-</div>
-
 ## Sobre mim 💁 
+
+</div>
 
 <div align="justify">
 
@@ -135,8 +135,12 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <hr>
 
+<div align="center">
+  
 ## 🛠️ Habilidades
 
+</div>
+  
 <details title="Linguagens de programação" align='left'>
 <br>
 <summary align='left'><strong>Linguagens de programação</strong></summary>
@@ -223,8 +227,12 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <hr>
 
+<div align="center">
+  
 ## 💡 Meus projetos ativos
 
+</div>
+  
 Esses são 3 dos projetos pessoais em que estou trabalhando atualmente:
 
 <details title="1️⃣ Sistema Operacional Hexagonix (Hexagonix OS)" align='left'>
@@ -287,8 +295,12 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 <hr>
 
+<div align="center">
+  
 ## 📈 Estatísticas do meu GitHub
 
+</div>
+  
 <div align="center">
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes)
@@ -337,8 +349,12 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
   
 <hr>
 
+<div align="center">
+  
 ## 🖥️ Meu setup
 
+</div>
+  
 <div align="center">
 
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
@@ -356,6 +372,14 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 <hr>
 
+<div align="center">
+   
 ## ➕️ Mais
 
+</div>
+  
+<div align="justify">
+  
 <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/UK.gif" width="25px" height="15px" /> [English version](README.md) (versão em inglês)
+
+</div>  
