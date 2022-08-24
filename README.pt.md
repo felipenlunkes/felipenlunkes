@@ -381,5 +381,6 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 <div align="justify">
   
 <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/UK.gif" width="25px" height="15px" /> [English version](README.md) (versão em inglês)
-
+<img src="https://www.gov.br/observatorio/pt-br/assuntos/programas-academicos/imagens/Lattes.png" width="25px" height="15px" /> [Currículo Lattes](http://lattes.cnpq.br/2540365589952421) 
+  
 </div>  
