@@ -135,7 +135,11 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 <hr>
 
+<div align="center">
+
 ## 🛠️ Skills
+
+</div>
 
 <details title="Languages" align='left'>
 <br>
@@ -223,7 +227,11 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 <hr>
 
+<div align="center">
+
 ## 💡 My projects  
+
+</div>
 
 These are 3 of the personal projects I'm currently working on:
 
@@ -287,7 +295,11 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <hr>
 
+<div align="center">
+
 ## 📈 GitHub Stats
+
+</div>
 
 <div align="center">
 
@@ -337,7 +349,11 @@ A list of all my active, non-active and complete projects can be found [here](PR
     
 <hr>
 
+<div align="center">
+
 ## 🖥️ My workspace setup
+
+</div>
 
 <div align="center">
 
