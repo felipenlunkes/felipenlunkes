@@ -312,11 +312,15 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 </div>
 
+<div align="center">
+    
 [![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=dark)](https://github.com/hexagonix/Hexagon)
 [![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=dark)](https://github.com/hexagonix/Hboot)
 [![Unix-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps&theme=dark)](https://github.com/hexagonix/unix-apps)
 [![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=dark)](https://github.com/hexagonix/fasmx)
 
+</div>
+  
 </details>
 
   <!-- Aqui, as visitas ao meu perfil -->
