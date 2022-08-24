@@ -380,6 +380,6 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <div align="justify">
     
-<img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/Brasil.gif" width="25px" height="15px" /> [Versão em português](README.pt.md) (Portuguese version)
+* <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/Brasil.gif" width="25px" height="15px" /> [Versão em português](README.pt.md) (Portuguese version)
 
 </div>    
