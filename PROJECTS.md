@@ -63,8 +63,12 @@ The project is maintained in separate repositories under a unique user. You can 
 
 </div>
 
+<div align="center">
+    
 [![Lunix](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=lunix&theme=dark)](https://github.com/felipenlunkes/lunix)
 
+</div>
+  
 </details>
 
 <details title="GaiaBSD - work in progress (2022-present)" align='left'>
@@ -81,8 +85,12 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 </div>
 
+<div align="center">
+  
 [![GaiaBSD](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=GaiaBSD&theme=dark)](https://github.com/felipenlunkes/GaiaBSD)
 
+</div>
+  
 </details>
 
 <details title="PX-DOS - not active (2013-2015)" align='left'>
@@ -97,6 +105,8 @@ System components have been divided into repositories. [Here](https://github.com
 
 </div>
 
+<div align="center">
+  
 [![PX-DOS Kernel](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS&theme=dark)](https://github.com/felipenlunkes/PX-DOS)
 [![PX-DOS Drivers](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-Drivers&theme=dark)](https://github.com/felipenlunkes/PX-DOS-Drivers)
 [![PX-DOS Init](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-init&theme=dark)](https://github.com/felipenlunkes/PX-DOS-init)
@@ -104,6 +114,8 @@ System components have been divided into repositories. [Here](https://github.com
 [![PX-DOS Apps](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-Apps&theme=dark)](https://github.com/felipenlunkes/PX-DOS-Apps)
 [![PX-DOS libasm](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-libasm&theme=dark)](https://github.com/felipenlunkes/PX-DOS-libasm)
 
+</div>
+  
 </details>
 
 <details title="Everest OS - not active (2015-2016)" align='left'>
@@ -116,8 +128,12 @@ System components have been divided into repositories. [Here](https://github.com
 
 </div>
 
+<div align="center">
+  
 [![EverestOS](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=EverestOS&theme=dark)](https://github.com/felipenlunkes/EverestOS)
 
+</div>
+  
 </details>
 
 <details title="Bin Operating System (Bin S.O) - not active (2013)" align='left'>
