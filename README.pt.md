@@ -291,7 +291,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
   
 <details title="Estatísticas detalhadas" align='left'>
 <br>
-<summary align='left'><strong>Estatísticas detalhadas</strong></summary>
+<summary align='left'><strong>📊 Estatísticas detalhadas</strong></summary>
 
 <div align="center">
   
