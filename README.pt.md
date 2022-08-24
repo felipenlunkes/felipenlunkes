@@ -382,6 +382,6 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
   
 <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/UK.gif" width="25px" height="15px" /> [English version](README.md) (versão em inglês)
   
-<img src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/aed78269-8ef2-4e2b-9f8a-a687fba40bfd.png" width="25px" height="15px" /> [Currículo Lattes](http://lattes.cnpq.br/2540365589952421) 
+<img src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/aed78269-8ef2-4e2b-9f8a-a687fba40bfd.png" width="25px" height="25px" /> [Currículo Lattes](http://lattes.cnpq.br/2540365589952421) 
   
 </div>  
