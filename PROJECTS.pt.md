@@ -36,6 +36,8 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 
 </div>
 
+<div align="center">
+  
 [![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=dark)](https://github.com/hexagonix/Hexagon)
 [![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=dark)](https://github.com/hexagonix/Hboot)
 [![Unix-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps&theme=dark)](https://github.com/hexagonix/unix-apps)
@@ -43,6 +45,8 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 [![lib](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=lib&theme=dark)](https://github.com/hexagonix/lib)
 [![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=dark)](https://github.com/hexagonix/fasmx)
 
+</div>  
+  
 </details>
 
 <details title="Lunix OS - em desenvolvimento (2022-presente)" align='left'>
@@ -59,8 +63,12 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 
 </div>
 
+<div align="center">
+   
 [![Lunix](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=lunix&theme=dark)](https://github.com/felipenlunkes/lunix)
 
+</div>
+  
 </details>
 
 <details title="GaiaBSD - em desenvolvimento (2022-presente)" align='left'>
@@ -77,8 +85,12 @@ GaiaBSD é um fork do FreeBSD destinado a estudar mais sobre sistemas Unix e ten
 
 </div>
 
+<div align="center">
+  
 [![GaiaBSD](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=GaiaBSD&theme=dark)](https://github.com/felipenlunkes/GaiaBSD)
 
+</div>
+  
 </details>
 
 <details title="PX-DOS - não ativo (2013-2015)" align='left'>
@@ -93,6 +105,8 @@ Os componentes do sistema foram divididos em repositórios. [Aqui](https://githu
 
 </div>
 
+<div align="center">
+  
 [![PX-DOS Kernel](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS&theme=dark)](https://github.com/felipenlunkes/PX-DOS)
 [![PX-DOS Drivers](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-Drivers&theme=dark)](https://github.com/felipenlunkes/PX-DOS-Drivers)
 [![PX-DOS Init](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-init&theme=dark)](https://github.com/felipenlunkes/PX-DOS-init)
@@ -100,6 +114,8 @@ Os componentes do sistema foram divididos em repositórios. [Aqui](https://githu
 [![PX-DOS Apps](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-Apps&theme=dark)](https://github.com/felipenlunkes/PX-DOS-Apps)
 [![PX-DOS libasm](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-libasm&theme=dark)](https://github.com/felipenlunkes/PX-DOS-libasm)
 
+</div>
+  
 </details>
 
 <details title="Everest OS - não ativo (2015-2016)" align='left'>
@@ -112,8 +128,12 @@ Os componentes do sistema foram divididos em repositórios. [Aqui](https://githu
 
 </div>
 
+<div align="center">
+  
 [![EverestOS](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=EverestOS&theme=dark)](https://github.com/felipenlunkes/EverestOS)
 
+</div>
+  
 </details>
 
 <details title="Sistema Operacional Bin (Bin S.O) - não ativo (2013)" align='left'>
@@ -155,13 +175,17 @@ Durante o ano de 2012, motivado em aprender mais sobre o funcionamento de um sis
 <summary align='left'><strong>1️⃣ Java Power Shell (JPS) - não ativo (2013)</strong></summary>
 
 <div align="justify">
-
+  
 [Java Power Shell (JPS)](https://github.com/felipenlunkes/Java-Power-Shell) é um shell portável desenvolvido em Java e testado em Linux, macOS e Windows.
-
+  
 </div>
 
+<div align="center">
+   
 [![Java Power Shell](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=Java-Power-Shell&theme=dark)](https://github.com/felipenlunkes/Java-Power-Shell)
 
+</div>
+  
 </details>
 
 <details title="PX BASIC (PXBAS) - não ativo (2013-2014)" align='left'>
@@ -174,8 +198,12 @@ Durante o ano de 2012, motivado em aprender mais sobre o funcionamento de um sis
 
 </div>
 
+<div align="center">
+  
 [![PXBAS](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PXBAS&theme=dark)](https://github.com/felipenlunkes/PXBAS)
 
+</div>
+  
 </details>
 
 <hr>
@@ -192,9 +220,13 @@ Você pode encontrar minhas explorações no Arduino [aqui](https://github.com/f
 
 </div>
 
+<div align="center">
+  
 [![Stuff](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=Arduino-stuff&theme=dark)](https://github.com/felipenlunkes/Arduino-stuff)
 [![Axiom-kernel](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=AxiomKernel&theme=dark)](https://github.com/felipenlunkes/AxiomKernel)
 
+</div> 
+  
 </details>
 
 <hr>
@@ -207,7 +239,11 @@ Você pode encontrar minhas explorações no Arduino [aqui](https://github.com/f
 
 </div>
 
+<div align="center">
+  
 [![OSDevbr](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=osdevbr&theme=dark)](https://github.com/felipenlunkes/osdevbr)
+
+</div>
 
 <hr>
 
