@@ -146,8 +146,12 @@ System components have been divided into repositories. [Here](https://github.com
 
 </div>
 
+<div align="center">
+  
 [![Bin S.O](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=Bin-S.O&theme=dark)](https://github.com/felipenlunkes/Bin-S.O)
 
+</div>  
+  
 </details>
 
 <details title="Netuno OS Operating System (Linux) - not active (2012)" align='left'>
@@ -180,8 +184,12 @@ During 2012, motivated to learn more about how a modern operating system works, 
 
 </div>
 
+<div align="center">
+  
 [![Java Power Shell](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=Java-Power-Shell&theme=dark)](https://github.com/felipenlunkes/Java-Power-Shell)
 
+</div>  
+  
 </details>
 
 <details title="PX BASIC (PXBAS) - not active (2013-2014)" align='left'>
@@ -194,8 +202,12 @@ During 2012, motivated to learn more about how a modern operating system works, 
 
 </div>
 
+<div align="center">
+  
 [![PXBAS](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PXBAS&theme=dark)](https://github.com/felipenlunkes/PXBAS)
 
+</div>  
+  
 </details>
 
 <hr>
@@ -212,9 +224,13 @@ You can found my explorations on Arduino [here](https://github.com/felipenlunkes
 
 </div>
 
+<div align="center">
+  
 [![Stuff](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=Arduino-stuff&theme=dark)](https://github.com/felipenlunkes/Arduino-stuff)
 [![Axiom-kernel](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=AxiomKernel&theme=dark)](https://github.com/felipenlunkes/AxiomKernel)
 
+</div> 
+  
 </details>
 
 <hr>
