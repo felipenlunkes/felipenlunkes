@@ -286,11 +286,22 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 [![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact)](https://github.com/felipenlunkes)
 <br>
+
+</div>
+  
+<details title="Estatísticas detalhadas" align='left'>
+<br>
+<summary align='left'><strong>Estatísticas detalhadas</strong></summary>
+
+<div align="center">
+  
 ![Felipe Lunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight)
 [![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight)](https://github.com/felipenlunkes)
 
 </div>
 
+</details>
+  
 <!-- Aqui, as visitas ao meu perfil -->
 
 ![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=Visitas+ao+perfil&style=for-the-badge)
