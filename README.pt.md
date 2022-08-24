@@ -301,10 +301,6 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 </div>
 
 </details>
-  
-<!-- Aqui, as visitas ao meu perfil -->
-
-![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=Visitas+ao+perfil&style=for-the-badge)
 
 <details title="Alguns dos repositórios mantidos por mim e hospedados em outra conta" align='left'>
 <br>
@@ -323,6 +319,10 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 </details>
 
+  <!-- Aqui, as visitas ao meu perfil -->
+
+![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=Visitas+ao+perfil&style=for-the-badge)
+  
 <hr>
 
 ## 🖥️ Meu setup
