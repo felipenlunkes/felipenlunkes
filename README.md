@@ -322,6 +322,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 ![Felipe Lunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight)
 [![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight)](https://github.com/felipenlunkes)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&hide_border=true)](https://github.com/felipenlunkes)
 
 </div>
 
