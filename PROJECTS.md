@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# My projects 
+# 💡 My projects 
 
 </div>
 
@@ -24,7 +24,7 @@ My projects have been divided into categories. A summary to facilitate the searc
 
 <div align="center">
 
-## Operating system projects
+## 📀 Operating system projects
 
 </div>
 
@@ -182,7 +182,7 @@ During 2012, motivated to learn more about how a modern operating system works, 
 
 <div align="center">
 
-## Tools and utilities
+## 🛠 Tools and utilities
 
 </div>
 
@@ -226,7 +226,7 @@ During 2012, motivated to learn more about how a modern operating system works, 
 
 <div align="center">
 
-## Platforms
+## 🧮 Platforms
 
 </div>
 
@@ -253,7 +253,7 @@ You can found my explorations on Arduino [here](https://github.com/felipenlunkes
 
 <div align="center">
 
-## Tutorials
+## 🧑‍🏫 Tutorials
 
 </div>
 
@@ -273,7 +273,7 @@ You can found my explorations on Arduino [here](https://github.com/felipenlunkes
 
 <div align="center">
 
-## Learning repositories
+## 📚 Learning repositories
 
 </div>
 
