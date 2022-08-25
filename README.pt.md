@@ -94,11 +94,11 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <div align="justify">
 
-* 💻 Assembly x86 é minha linguagem favorita e pratico muito no meu tempo livre
-* 🧬 Sou biólogo com ênfase em Biotecnologia e Saúde (UFMG) com experiência em Biologia Molecular
-* 📕 Me interesso muito pela história da computação
-* 📀 Tenho uma coleção virtual de sistemas operacionais (mídias de instalação)
-* 🌌 Sou fascinado com sistemas Unix e já usei pelo menos uma vez quase todos os que o homem conhece. Também gosto muito de pesquisar mais sobre a história e organização e tentar implementar o modelo no Hexagonix
+* 💻 Assembly x86 é minha linguagem favorita e pratico muito no meu tempo livre.
+* 🧬 Sou biólogo com ênfase em Biotecnologia e Saúde (UFMG) com experiência em Biologia Molecular.
+* 📕 Me interesso muito pela história da computação, principalmente a história do Unix e derivados.
+* 📀 Tenho uma coleção virtual de sistemas operacionais (mídias de instalação).
+* 🌌 Sou fascinado com sistemas Unix e já usei pelo menos uma vez quase todos os que o homem conhece. Gosto muito de pesquisar mais sobre a história e organização e tentar implementar o modelo no Hexagonix (meu projeto pessoal).
 
 </div>
 
@@ -106,10 +106,11 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <div align="justify">
 
-- 🌱 Estou aprendendo mais sobre JavaScript, Java, HTML/CSS e Python.
-- 👯 Procuro colaborar em sistemas operacionais, código aberto e projetos comerciais (backend e frontend).
-- 🤔 Estou procurando ajuda com o desenvolvimento dos sistemas operacionais Hexagonix/Andromeda e Lunix OS.
-- ❤️ Atualmente, também estou aprendendo mais e praticando Assembly x86 e C, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS e Lunix OS). Sim, esse é o meu hobby! No meu tempo livre, me procure e me achará fazendo isso!
+* 🌱 Estou aprendendo mais sobre JavaScript, Java, HTML/CSS e Python.
+* 👯 Procuro colaborar em sistemas operacionais, código aberto e projetos comerciais (backend e DevOps).
+* 🤔 Estou procurando ajuda com o desenvolvimento dos sistemas operacionais Hexagonix/Andromeda e Lunix OS.
+* ❤️ Atualmente, também estou aprendendo mais e praticando Assembly x86 e C, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS e Lunix OS). Sim, esse é o meu hobby! No meu tempo livre, me procure e me achará fazendo isso!
+
 </div>
 
 </details>
