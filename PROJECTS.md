@@ -2,7 +2,11 @@
 
 <hr>
 
+<div align="center">
+
 # My projects 
+
+</div>
 
 <div align="justify">
 
@@ -18,7 +22,11 @@ My projects have been divided into categories. A summary to facilitate the searc
 
 <hr>
 
+<div align="center">
+
 ## Operating system projects
+
+</div>
 
 <details title="Hexagonix Operating System (Hexagonix OS) - work in progress (2015-present)" align='left'>
 <br>
@@ -172,7 +180,11 @@ During 2012, motivated to learn more about how a modern operating system works, 
 
 <hr>
 
+<div align="center">
+
 ## Tools and utilities
+
+</div>
 
 <details title="Java Power Shell (JPS) - not active (2013)" align='left'>
 <br>
@@ -212,7 +224,11 @@ During 2012, motivated to learn more about how a modern operating system works, 
 
 <hr>
 
+<div align="center">
+
 ## Platforms
+
+</div>
 
 <details title="Arduino-based projects - not active (2012-2018)" align='left'>
 <br>
@@ -229,13 +245,17 @@ You can found my explorations on Arduino [here](https://github.com/felipenlunkes
 [![Stuff](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=Arduino-stuff&theme=dark)](https://github.com/felipenlunkes/Arduino-stuff)
 [![Axiom-kernel](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=AxiomKernel&theme=dark)](https://github.com/felipenlunkes/AxiomKernel)
 
-</div> 
+</div>
   
 </details>
 
 <hr>
 
+<div align="center">
+
 ## Tutorials
+
+</div>
 
 <div align="justify">
 
@@ -251,7 +271,11 @@ You can found my explorations on Arduino [here](https://github.com/felipenlunkes
   
 <hr>
 
-## Learning tools
+<div align="center">
+
+## Learning repositories
+
+</div>
 
 <div align="justify">
 
