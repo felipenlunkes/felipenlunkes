@@ -290,7 +290,7 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 </details>
 
-#### All my projects and learning tools
+#### All my projects and learning repositories
 
 <div align="justify">
 
