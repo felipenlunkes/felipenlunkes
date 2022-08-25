@@ -320,8 +320,9 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 <div align="center">
   
-![Felipe Lunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight)
+![Felipe Lunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&hide_border=true)
 [![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight)](https://github.com/felipenlunkes)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&hide_border=true)](https://github.com/felipenlunkes)
 
 </div>
 
