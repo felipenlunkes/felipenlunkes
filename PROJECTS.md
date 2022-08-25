@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 💡 My projects 
+# 💡 My projects
 
 </div>
 

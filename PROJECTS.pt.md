@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Meus projetos
+# 💡 Meus projetos
 
 </div>
 
@@ -24,7 +24,7 @@ Meus projetos foram divididos em categorias. Aqui vai um sumário para facilitar
 
 <div align="center">
 
-## Projetos de sistemas operacionais
+## 📀 Projetos de sistemas operacionais
 
 </div>
 
@@ -178,7 +178,7 @@ Durante o ano de 2012, motivado em aprender mais sobre o funcionamento de um sis
 
 <div align="center">
 
-## Ferramentas e utilitários
+## 🛠 Ferramentas e utilitários
 
 </div>
 
@@ -222,7 +222,7 @@ Durante o ano de 2012, motivado em aprender mais sobre o funcionamento de um sis
 
 <div align="center">
 
-## Plataformas
+## 🧮 Plataformas
 
 </div>
 
@@ -249,7 +249,7 @@ Você pode encontrar minhas explorações no Arduino [aqui](https://github.com/f
 
 <div align="center">
 
-## Tutoriais
+## 🧑‍🏫 Tutoriais
 
 </div>
 
@@ -269,7 +269,7 @@ Você pode encontrar minhas explorações no Arduino [aqui](https://github.com/f
 
 <div align="center">
 
-## Repositórios de aprendizagem
+## 📚 Repositórios de aprendizagem
 
 </div>
 

@@ -26,7 +26,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/wave.gif" width="30px" height="30px" />
 
-## About me 💁 
+## 💁 About me
 
 </div>
     
