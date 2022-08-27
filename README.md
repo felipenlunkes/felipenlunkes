@@ -20,7 +20,7 @@
 
 </div>
 
-![div](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/div.png)
+![A cool divisory inspired by github.com/wrongbyte](https://i.imgur.com/waxVImv.png)
 
 <div align="center">
 
