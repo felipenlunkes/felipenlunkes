@@ -76,7 +76,7 @@ Hoje, tenho experiência em C, x86 Assembly, Java, Pascal, Basic, Visual Basic (
 
 </details>
 
-<details title="Minha formação" align='left'>
+<details title="Idiomas" align='left'>
 <br>
 <summary align='left'><strong>:sparkles: Idiomas</strong></summary>
 
