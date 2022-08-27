@@ -138,7 +138,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 </div>
 
-![A cool divisory inspired by github.com/wrongbyte](https://i.imgur.com/waxVImv.png)
+<hr>
 
 <div align="center">
   
@@ -230,7 +230,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 </details>
 
-![A cool divisory inspired by github.com/wrongbyte](https://i.imgur.com/waxVImv.png)
+<hr>
 
 <div align="center">
   
@@ -298,7 +298,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 </div>
 
-![A cool divisory inspired by github.com/wrongbyte](https://i.imgur.com/waxVImv.png)
+<hr>
 
 <div align="center">
   
@@ -353,7 +353,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 ![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=Visitas+ao+perfil&style=for-the-badge)
   
-![A cool divisory inspired by github.com/wrongbyte](https://i.imgur.com/waxVImv.png)
+<hr>
 
 <div align="center">
   
@@ -376,7 +376,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 </div>
 
-![A cool divisory inspired by github.com/wrongbyte](https://i.imgur.com/waxVImv.png)
+<hr>
 
 <div align="center">
    
