@@ -20,7 +20,7 @@
 
 </div>
 
-![A cool divisory inspired by github.com/wrongbyte](https://i.imgur.com/waxVImv.png)
+![A cool divisory inspired by github.com/wrongbyte](https://www.tcstalent.com/images/template/TCS-Talent-Logo-Color-Reversed.png)
 
 <div align="center">
 
