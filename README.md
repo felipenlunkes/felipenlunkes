@@ -138,7 +138,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 </div>
 
-<hr>
+![A cool divisory inspired by github.com/wrongbyte](https://i.imgur.com/waxVImv.png)
 
 <div align="center">
 
@@ -230,7 +230,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 </details>
 
-<hr>
+![A cool divisory inspired by github.com/wrongbyte](https://i.imgur.com/waxVImv.png)
 
 <div align="center">
 
@@ -298,7 +298,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 </div>
 
-<hr>
+![A cool divisory inspired by github.com/wrongbyte](https://i.imgur.com/waxVImv.png)
 
 <div align="center">
 
@@ -353,7 +353,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 ![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=GitHub+profile+views&style=for-the-badge)
     
-<hr>
+![A cool divisory inspired by github.com/wrongbyte](https://i.imgur.com/waxVImv.png)
 
 <div align="center">
 
@@ -376,7 +376,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 </div>
 
-<hr>
+![A cool divisory inspired by github.com/wrongbyte](https://i.imgur.com/waxVImv.png)
 
 <div align="center">
     
