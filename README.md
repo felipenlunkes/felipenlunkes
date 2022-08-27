@@ -162,7 +162,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 <details title="Languages" align='left'>
 <br>
-<summary align='left'><strong>Languages</strong></summary>
+<summary align='left'><strong>Programming languages</strong></summary>
 
 <div align="left">
 
