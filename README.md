@@ -20,7 +20,7 @@
 
 </div>
 
-<hr>
+![div](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/div.png)
 
 <div align="center">
 
