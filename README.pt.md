@@ -78,6 +78,20 @@ Hoje, tenho experiência em C, x86 Assembly, Java, Pascal, Basic, Visual Basic (
 
 <details title="Minha formação" align='left'>
 <br>
+<summary align='left'><strong>:sparkles: Idiomas</strong></summary>
+
+<div align="justify">
+
+| Idioma        | Proficiência  |
+|:-------------:|:-------------:|
+| Português     | Fluente       |
+| Inglês        | Avançado (C1) |
+| Espanhol      | Intermediário |
+
+</details>
+
+<details title="Minha formação" align='left'>
+<br>
 <summary align='left'><strong>📚 Minha formação</strong></summary>
 
 <div align="justify">
