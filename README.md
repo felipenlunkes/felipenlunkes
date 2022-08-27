@@ -85,7 +85,7 @@ Today, I have experience in C, x86 Assembly, Java, Pascal, Basic, Visual Basic (
 | Language      | Proficiency     |
 |:-------------:|:---------------:|
 | Portuguese    | Fluent (native) |
-| English       | Advances (C1)   |
+| English       | Advanced (C1)   |
 | Espanish      | Intermediary    |
 
 </details>
