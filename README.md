@@ -340,7 +340,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <div align="center">
 
-![Felipe Lunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight)
+![Felipe Lunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 [![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight)](https://github.com/felipenlunkes)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight)](https://github.com/felipenlunkes)
 ![Activity](https://activity-graph.herokuapp.com/graph?username=felipenlunkes&count_private=true&hide_border=false&bg_color=0d1117&theme=tokyonight)
