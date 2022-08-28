@@ -152,6 +152,10 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 </div>
 
+<!-- Vai funcionar como <!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" /> -->
+
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
@@ -244,7 +248,9 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 </details>
 
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
   
@@ -312,7 +318,9 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 </div>
 
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
   
@@ -367,7 +375,9 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 ![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=Visitas+ao+perfil&style=for-the-badge)
   
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
   
@@ -390,7 +400,9 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 </div>
 
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
    
