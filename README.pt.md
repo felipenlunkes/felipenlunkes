@@ -154,8 +154,6 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <!-- Vai funcionar como <!-- Vai funcionar como <hr> -->
 
-<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" /> -->
-
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
