@@ -330,9 +330,9 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=F57842&text_color=F57842&icon_color=f9826c&show_icons=true&hide_border=false&count_private=true&include_all_commits=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=54487A&text_color=54487A&icon_color=f9826c&show_icons=true&hide_border=false&count_private=true&include_all_commits=true">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&title_color=F57842&text_color=F57842&icon_color=f9826c">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&title_color=54487A&text_color=54487A&icon_color=f9826c">
 
 <br>
 
