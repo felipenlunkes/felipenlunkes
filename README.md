@@ -344,11 +344,11 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <div align="center">
 
-<img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight">
 
-<img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight">
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight">
 
-<img height="120em" src="https://activity-graph.herokuapp.com/graph?username=felipenlunkes&count_private=true&hide_border=false&theme=tokyonight">
+<img height="180em" src="https://activity-graph.herokuapp.com/graph?username=felipenlunkes&count_private=true&hide_border=false&theme=tokyonight">
 
 </div>
 
