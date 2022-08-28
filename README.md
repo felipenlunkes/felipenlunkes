@@ -330,7 +330,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=false&count_private=true&include_all_commits=true">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact">
 
@@ -344,10 +344,11 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <div align="center">
 
-![Felipe Lunkes's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight)](https://github.com/felipenlunkes)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight)](https://github.com/felipenlunkes)
-![Activity](https://activity-graph.herokuapp.com/graph?username=felipenlunkes&count_private=true&hide_border=false&bg_color=0d1117&theme=tokyonight)
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight">
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight">
+
+<img height="180em" src="https://activity-graph.herokuapp.com/graph?username=felipenlunkes&count_private=true&hide_border=false&bg_color=0d1117&theme=tokyonight">
 
 </div>
 
