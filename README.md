@@ -186,10 +186,11 @@ During high school, I worked as a computer instructor for all ages, along with t
 <br>
 <summary align='left'><strong>Operating Systems and platforms</strong></summary>
 
-#### Windows 
+#### MS-DOS and Windows 
 
 <div align="left">
 
+![msdos](https://img.shields.io/badge/MS_DOS-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
