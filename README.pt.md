@@ -190,6 +190,10 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+</div>
+
+<div align="center">
+
 ![linux](https://img.shields.io/badge/Linux-470137?style=for-the-badge&logo=linux&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -199,6 +203,10 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 ![Pop](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+</div>
+
+<div align="left">
 
 ![macOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white)
 
@@ -216,7 +224,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 <br>
 <summary align='left'><strong>Ferramentas</strong></summary>
 
-<div align="left">
+<div align="center">
 
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-8117EB?style=for-the-badge&logo=github&logoColor=white)
@@ -236,7 +244,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 <br>
 <summary align='left'><strong>Ferramentas de design</strong></summary>
 
-<div align="left">
+<div align="center">
 
 ![canva](https://img.shields.io/badge/Canva-F28A22?style=for-the-badge&logo=canva&logoColor=white)
 ![gimp](https://img.shields.io/badge/Gimp-139176?style=for-the-badge&logo=gimp&logoColor=white)

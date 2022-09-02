@@ -186,9 +186,13 @@ During high school, I worked as a computer instructor for all ages, along with t
 <br>
 <summary align='left'><strong>Operating Systems and platforms</strong></summary>
 
-<div align="center">
+<div align="left">
 
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+<div align="center>
 
 ![linux](https://img.shields.io/badge/Linux-470137?style=for-the-badge&logo=linux&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -199,6 +203,10 @@ During high school, I worked as a computer instructor for all ages, along with t
 ![Pop](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+</div>
+
+<div align="left">
 
 ![macOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white)
 
