@@ -190,7 +190,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 <div align="left">
 
-![msdos](https://img.shields.io/badge/MS_DOS-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![msdos](https://img.shields.io/badge/MS_DOS-0078D6?style=for-the-badge&logo=msdos&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
