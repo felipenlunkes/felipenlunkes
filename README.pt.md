@@ -186,10 +186,12 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 <br>
 <summary align='left'><strong>Sistemas Operacionais e plataformas</strong></summary>
 
-#### Windows
+#### MS-DOS e Windows
 
 <div align="left">
 
+![msdos](https://img.shields.io/badge/DOS-MS_DOS-DE2218?style=for-the-badge&logo=dos&logoColor=white)
+![windows-dos](https://img.shields.io/badge/Windows_DOS-0078D6?style=for-the-badge&logo=windows-95&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
