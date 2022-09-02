@@ -413,7 +413,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![mx-110](https://img.shields.io/badge/NVIDIA-MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![windows-11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![windows-11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows-11&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ![AMD E1](https://img.shields.io/badge/AMD-E1-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
