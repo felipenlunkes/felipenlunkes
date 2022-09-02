@@ -188,11 +188,15 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <div align="left">
 
+#### Windows
+
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
 <div align="center">
+
+#### Linux
 
 ![linux](https://img.shields.io/badge/Linux-470137?style=for-the-badge&logo=linux&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -208,11 +212,17 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <div align="left">
 
+#### BSD and Unix
+
 ![macOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ![freeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
 
+#### Other OS
+
 ![ReactOS](https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white)
+
+#### Platforms
 
 ![arduino](https://img.shields.io/badge/Arduino-E4405F?style=for-the-badge&logo=arduino&logoColor=white)
 
