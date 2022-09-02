@@ -186,7 +186,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 <br>
 <summary align='left'><strong>Operating Systems and platforms</strong></summary>
 
-#### MS-DOS and Windows 
+#### DOS (Disk Operating System) and Windows 
 
 <div align="left">
 
