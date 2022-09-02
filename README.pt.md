@@ -198,7 +198,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 #### Linux
 
-<div align="center">
+<div align="left">
 
 ![linux](https://img.shields.io/badge/Linux-470137?style=for-the-badge&logo=linux&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
