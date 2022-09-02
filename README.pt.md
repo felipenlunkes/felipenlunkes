@@ -212,17 +212,16 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <div align="left">
 
-#### BSD and Unix
+#### BSD e Unix
 
 ![macOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white)
-
 ![freeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
 
-#### Other OS
+#### Outros sistemas operacionais
 
 ![ReactOS](https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white)
 
-#### Platforms
+#### Plataformas
 
 ![arduino](https://img.shields.io/badge/Arduino-E4405F?style=for-the-badge&logo=arduino&logoColor=white)
 
