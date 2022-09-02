@@ -200,7 +200,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <div align="left">
 
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
@@ -216,7 +216,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <div align="left">
 
-![macOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/mac_os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![freeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
 
 #### Outros sistemas operacionais
