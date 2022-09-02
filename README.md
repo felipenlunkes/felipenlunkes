@@ -166,7 +166,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 <br>
 <summary align='left'><strong>Programming languages</strong></summary>
 
-<div align="left">
+<div align="center">
 
 ![assembly](https://img.shields.io/badge/Assembly-F57842?style=for-the-badge&logo=assembly&logoColor=white)
 ![c](https://img.shields.io/badge/C-F5b342?style=for-the-badge&logo=c&logoColor=white)
@@ -186,7 +186,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 <br>
 <summary align='left'><strong>Operating Systems and platforms</strong></summary>
 
-<div align="left">
+<div align="center">
 
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -216,7 +216,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 <br>
 <summary align='left'><strong>Tools</strong></summary>
 
-<div align="left">
+<div align="center">
 
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-8117EB?style=for-the-badge&logo=github&logoColor=white)
@@ -236,7 +236,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 <br>
 <summary align='left'><strong>Design tools</strong></summary>
 
-<div align="left">
+<div align="center">
 
 ![canva](https://img.shields.io/badge/Canva-F28A22?style=for-the-badge&logo=canva&logoColor=white)
 ![gimp](https://img.shields.io/badge/Gimp-139176?style=for-the-badge&logo=gimp&logoColor=white)
