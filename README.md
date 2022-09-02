@@ -186,11 +186,15 @@ During high school, I worked as a computer instructor for all ages, along with t
 <br>
 <summary align='left'><strong>Operating Systems and platforms</strong></summary>
 
+#### Windows 
+
 <div align="left">
 
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
+
+#### Linux
 
 <div align="center">
 
@@ -206,13 +210,18 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 </div>
 
+#### BSD and Unix
+
 <div align="left">
 
 ![macOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white)
-
 ![freeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
 
+#### Other OS
+
 ![ReactOS](https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white)
+
+#### Platforms
 
 ![arduino](https://img.shields.io/badge/Arduino-E4405F?style=for-the-badge&logo=arduino&logoColor=white)
 

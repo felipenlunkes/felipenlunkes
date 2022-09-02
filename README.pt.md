@@ -186,9 +186,9 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 <br>
 <summary align='left'><strong>Sistemas Operacionais e plataformas</strong></summary>
 
-<div align="left">
-
 #### Windows
+
+<div align="left">
 
 ![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -210,9 +210,9 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 </div>
 
-<div align="left">
-
 #### BSD e Unix
+
+<div align="left">
 
 ![macOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![freeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
