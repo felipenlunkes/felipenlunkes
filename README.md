@@ -186,7 +186,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 <br>
 <summary align='left'><strong>Operating Systems and platforms</strong></summary>
 
-#### DOS (Disk Operating System) and Windows 
+##### DOS (Disk Operating System) and Windows 
 
 <div align="left">
 
@@ -196,7 +196,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 </div>
 
-#### Linux
+##### Linux
 
 <div align="left">
 
@@ -212,7 +212,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 </div>
 
-#### BSD and Unix
+##### BSD and Unix
 
 <div align="left">
 
@@ -220,11 +220,11 @@ During high school, I worked as a computer instructor for all ages, along with t
 ![freeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
 ![Plan9](https://img.shields.io/badge/Plan_9-7719AA?style=for-the-badge&logoColor=white)
 
-#### Other OS
+##### Other OS
 
 ![ReactOS](https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white)
 
-#### Platforms
+##### Platforms
 
 ![arduino](https://img.shields.io/badge/Arduino-E4405F?style=for-the-badge&logo=arduino&logoColor=white)
 
