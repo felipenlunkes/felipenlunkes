@@ -186,7 +186,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 <br>
 <summary align='left'><strong>Sistemas Operacionais e plataformas</strong></summary>
 
-#### DOS (Disk Operating System) e Windows
+##### DOS (Disk Operating System) e Windows
 
 <div align="left">
 
@@ -196,7 +196,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 </div>
 
-#### Linux
+##### Linux
 
 <div align="left">
 
@@ -212,7 +212,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 </div>
 
-#### BSD e Unix
+##### BSD e Unix
 
 <div align="left">
 
@@ -220,11 +220,11 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 ![freeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
 ![Plan9](https://img.shields.io/badge/Plan_9-7719AA?style=for-the-badge&logoColor=white)
 
-#### Outros sistemas operacionais
+##### Outros sistemas operacionais
 
 ![ReactOS](https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white)
 
-#### Plataformas
+##### Plataformas
 
 ![arduino](https://img.shields.io/badge/Arduino-E4405F?style=for-the-badge&logo=arduino&logoColor=white)
 
