@@ -216,8 +216,8 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 <div align="left">
 
-![macOS](https://img.shields.io/badge/mac_os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![freeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
+![macOS](https://img.shields.io/badge/mac_os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Plan9](https://img.shields.io/badge/Plan_9-7719AA?style=for-the-badge&logoColor=white)
 
 ##### Other OS
