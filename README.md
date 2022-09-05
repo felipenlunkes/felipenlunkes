@@ -370,6 +370,8 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=felipenlunkes&count_private=true&hide_border=false&theme=tokyonight">
 
+<img height="180em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=felipenlunkes&branding=false&width=700px&skills=Assembly,C,Java,Python">
+
 </div>
 
 </details>
