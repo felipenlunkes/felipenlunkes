@@ -352,7 +352,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&&bg_color=0D1117">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&&layout=compact&theme=tokyonight&&bg_color=0D1117">
 
 <br>
 
@@ -368,7 +368,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&count_private=true">
 
-<img height="180em" src="https://activity-graph.herokuapp.com/graph?username=felipenlunkes&count_private=true&hide_border=false&theme=tokyonight">
+<img height="180em" src="https://activity-graph.herokuapp.com/graph?username=felipenlunkes&count_private=true]&hide_border=false&theme=tokyonight">
 
 </div>
 
