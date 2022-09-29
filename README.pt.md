@@ -148,7 +148,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 [![instagram](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/felipeldev/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipenldev@gmail.com)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@felipeldev)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/liperdeu#7702)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/lunx#7702)
 
 </div>
 
@@ -369,8 +369,6 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&count_private=true">
 
 <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=felipenlunkes&count_private=true&hide_border=false&theme=tokyonight">
-
-<img height="180em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=felipenlunkes&branding=false&width=700px&skills=Assembly,C,Java,Python">
 
 </div>
 
