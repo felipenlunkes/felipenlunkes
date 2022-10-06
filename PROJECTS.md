@@ -33,7 +33,7 @@ My projects have been divided into categories. A summary to facilitate the searc
 <summary align='left'><strong>1️⃣ Hexagonix Operating System (Hexagonix OS) - work in progress (2015-present)</strong></summary>
 
 <p align='center'>
-<a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png"></a>&nbsp;&nbsp;
+<a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/banner.png"></a>&nbsp;&nbsp;
 </p>
 
 <div align="justify">
