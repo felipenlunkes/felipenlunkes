@@ -1,8 +1,6 @@
 [![Header](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/projects.png "Header")](https://github.com/felipenlunkes)
 
-<!-- Vai funcionar como <hr> -->
-
-<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
+![A cool divisory](https://i.imgur.com/waxVImv.png)
 
 <div align="center">
 
