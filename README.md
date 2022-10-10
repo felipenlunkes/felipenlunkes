@@ -283,7 +283,7 @@ These are 3 of the personal projects I'm currently working on:
 <summary align='left'><strong>1️⃣ Hexagonix Operating System (Hexagonix OS)</strong></summary>
     
 <p align='center'>
-<a href="https://github.com/hexagonix"><img height="150" src="https://github.com/hexagonix/Doc/blob/main/Img/banner.png"></a>&nbsp;&nbsp;
+<a href="https://github.com/hexagonix"><img src="https://github.com/hexagonix/Doc/blob/main/Img/banner.png"></a>&nbsp;&nbsp;
 </p>
 
 <div align="justify">
