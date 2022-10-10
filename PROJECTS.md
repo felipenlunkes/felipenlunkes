@@ -1,6 +1,8 @@
 [![Header](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/projects.png "Header")](https://github.com/felipenlunkes)
 
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
 
@@ -20,7 +22,9 @@ My projects have been divided into categories. A summary to facilitate the searc
 
 </div>
 
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
 
@@ -178,7 +182,9 @@ During 2012, motivated to learn more about how a modern operating system works, 
 
 </details>
 
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
 
@@ -222,7 +228,9 @@ During 2012, motivated to learn more about how a modern operating system works, 
   
 </details>
 
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
 
@@ -249,7 +257,9 @@ You can found my explorations on Arduino [here](https://github.com/felipenlunkes
   
 </details>
 
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
 
@@ -269,7 +279,9 @@ You can found my explorations on Arduino [here](https://github.com/felipenlunkes
 
 </div>  
   
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
 

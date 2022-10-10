@@ -1,6 +1,8 @@
 [![Header](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/projects.pt.png "Header")](https://github.com/felipenlunkes)
 
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
 
@@ -20,7 +22,9 @@ Meus projetos foram divididos em categorias. Aqui vai um sumário para facilitar
 
 </div>
 
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
 
@@ -174,7 +178,9 @@ Durante o ano de 2012, motivado em aprender mais sobre o funcionamento de um sis
 
 </details>
 
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
 
@@ -218,7 +224,9 @@ Durante o ano de 2012, motivado em aprender mais sobre o funcionamento de um sis
   
 </details>
 
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
 
@@ -245,7 +253,9 @@ Você pode encontrar minhas explorações no Arduino [aqui](https://github.com/f
   
 </details>
 
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
 
@@ -265,7 +275,9 @@ Você pode encontrar minhas explorações no Arduino [aqui](https://github.com/f
 
 </div>
 
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
 
