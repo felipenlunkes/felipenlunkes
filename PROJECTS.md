@@ -12,11 +12,11 @@
 
 My projects have been divided into categories. A summary to facilitate the search:
 
-* [Operating system projects and related stuff](#operating-system-projects)
-* [Tools and utilities](#tools-and-utilities)
-* [Platforms](#platforms)
-* [Tutorials](#tutorials)
-* [Learning tools](#learning-tools)
+* [Operating system projects and related stuff](#-operating-system-projects)
+* [Tools and utilities](#-tools-and-utilities)
+* [Platforms](#-platforms)
+* [Tutorials](#-tutorials)
+* [Learning tools](#-learning-repositories)
 
 </div>
 
