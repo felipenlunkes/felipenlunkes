@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/projects.pt.png "Header")](https://github.com/felipenlunkes)
 
-![A cool divisory](https://i.imgur.com/waxVImv.png)
+[![A cool divisory](https://i.imgur.com/waxVImv.png)](https://github.com/felipenlunkes)
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 Meus projetos foram divididos em categorias. Aqui vai um sumário para facilitar a busca:
 
-* [Projetos de sistemas operacionais](#projetos-de-sistemas-operacionais)
+* [Projetos de sistemas operacionais e projetos relacionados](#projetos-de-sistemas-operacionais)
 * [Ferramentas e utilitários](#ferramentas-e-utilitários)
 * [Plataformas](#plataformas)
 * [Tutoriais](#tutoriais)
@@ -103,9 +103,27 @@ GaiaBSD é um fork do FreeBSD destinado a estudar mais sobre sistemas Unix e ten
   
 </details>
 
+<details title="Everest OS - não ativo (2015-2016)" align='left'>
+<br>
+<summary align='left'><strong>4️⃣ Everest OS - não ativo (2015-2016)</strong></summary>
+
+<div align="justify">
+
+[Everest OS](https://github.com/felipenlunkes/EverestOS) é um fork de um sistema operacional de domínio público e gratuito (Snowdrop OS), encontrado [aqui](http://sebastianmihai.com/snowdrop), para estudar sistemas operacionais de 16 bits enquanto desenvolvia as primeiras versões do Hexagonix (32 bits).
+
+</div>
+
+<div align="center">
+  
+[![EverestOS](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=EverestOS&theme=dark)](https://github.com/felipenlunkes/EverestOS)
+
+</div>
+
+</details>
+
 <details title="PX-DOS - não ativo (2013-2015)" align='left'>
 <br>
-<summary align='left'><strong>4️⃣ PX-DOS - não ativo (2013-2015)</strong></summary>
+<summary align='left'><strong>5️⃣ PX-DOS - não ativo (2013-2015)</strong></summary>
 
 <div align="justify">
 
@@ -123,24 +141,6 @@ Os componentes do sistema foram divididos em repositórios. [Aqui](https://githu
 [![PX-DOS libc](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-libc&theme=dark)](https://github.com/felipenlunkes/PX-DOS-libc)
 [![PX-DOS Apps](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-Apps&theme=dark)](https://github.com/felipenlunkes/PX-DOS-Apps)
 [![PX-DOS libasm](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PX-DOS-libasm&theme=dark)](https://github.com/felipenlunkes/PX-DOS-libasm)
-
-</div>
-  
-</details>
-
-<details title="Everest OS - não ativo (2015-2016)" align='left'>
-<br>
-<summary align='left'><strong>5️⃣ Everest OS - não ativo (2015-2016)</strong></summary>
-
-<div align="justify">
-
-[Everest OS](https://github.com/felipenlunkes/EverestOS) é um fork de um sistema operacional de domínio público e gratuito (Snowdrop OS), encontrado [aqui](http://sebastianmihai.com/snowdrop), para estudar sistemas operacionais de 16 bits enquanto desenvolvia as primeiras versões do Hexagonix (32 bits).
-
-</div>
-
-<div align="center">
-  
-[![EverestOS](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=EverestOS&theme=dark)](https://github.com/felipenlunkes/EverestOS)
 
 </div>
   
