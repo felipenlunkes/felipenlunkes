@@ -16,7 +16,7 @@ My projects have been divided into categories. A summary to facilitate the searc
 * [Tools and utilities](#-tools-and-utilities)
 * [Platforms](#-platforms)
 * [Tutorials](#-tutorials)
-* [Learning tools](#-learning-repositories)
+* [Learning repositories](#-learning-repositories)
 
 </div>
 

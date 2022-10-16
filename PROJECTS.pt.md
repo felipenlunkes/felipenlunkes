@@ -12,11 +12,11 @@
 
 Meus projetos foram divididos em categorias. Aqui vai um sumário para facilitar a busca:
 
-* [Projetos de sistemas operacionais e projetos relacionados](#projetos-de-sistemas-operacionais)
-* [Ferramentas e utilitários](#ferramentas-e-utilitários)
-* [Plataformas](#plataformas)
-* [Tutoriais](#tutoriais)
-* [Ferramentas de aprendizagem](#ferramentas-de-aprendizagem)
+* [Projetos de sistemas operacionais e projetos relacionados](#-projetos-de-sistemas-operacionais)
+* [Ferramentas e utilitários](#-ferramentas-e-utilitários)
+* [Plataformas](#-plataformas)
+* [Tutoriais](#-tutoriais)
+* [Repositórios de aprendizagem](#-repositorios-de-aprendizagem)
 
 </div>
 
