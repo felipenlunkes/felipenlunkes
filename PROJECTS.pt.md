@@ -16,7 +16,7 @@ Meus projetos foram divididos em categorias. Aqui vai um sumário para facilitar
 * [Ferramentas e utilitários](#-ferramentas-e-utilitários)
 * [Plataformas](#-plataformas)
 * [Tutoriais](#-tutoriais)
-* [Repositórios de aprendizagem](#-repositorios-de-aprendizagem)
+* [Repositórios de aprendizagem](#-repositórios-de-aprendizagem)
 
 </div>
 
