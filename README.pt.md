@@ -191,9 +191,9 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <div align="left">
 
-![msdos](https://img.shields.io/badge/DOS-DE2218?style=for-the-badge&logo=dos&logoColor=white)
-![windows-dos](https://img.shields.io/badge/Windows_DOS-008080?style=for-the-badge&logo=windows-95&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MS-DOS](https://img.shields.io/badge/DOS-DE2218?style=for-the-badge&logo=dos&logoColor=white)
+![Windows-DOS](https://img.shields.io/badge/Windows_DOS-008080?style=for-the-badge&logo=windows-95&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
@@ -201,7 +201,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <div align="left">
 
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
@@ -217,7 +217,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <div align="left">
 
-![freeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac_os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Plan9](https://img.shields.io/badge/Plan_9-7719AA?style=for-the-badge&logoColor=white)
 
@@ -227,7 +227,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 ##### Plataformas
 
-![arduino](https://img.shields.io/badge/Arduino-E4405F?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-E4405F?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
 
@@ -420,6 +420,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 ![AMD E1](https://img.shields.io/badge/AMD-E1-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Radeon 8210](https://img.shields.io/badge/AMD-Radeon_HD_8210-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
