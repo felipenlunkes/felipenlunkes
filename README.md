@@ -46,6 +46,8 @@ Hi! My name is Felipe Lunkes (he/him) and I am a Brazilian developer and biologi
 <br>
 <summary align='left'><strong>😁 More about me</strong></summary>
 
+* Loyal Linux and FreeBSD user
+
 <div align="justify">
 
 <details title="My trajectory" align='left'>
