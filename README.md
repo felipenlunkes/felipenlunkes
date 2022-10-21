@@ -123,8 +123,8 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 * 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python.
 * 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and DevOps).
-* 🤔 I’m looking for help with Hexagonix/Andromeda and Lunix OS operating system development.
-* ❤️ I'm currently learning more and practicing x86 Assembly and C, baremetal development and operating system implementation (Hexagonix OS and Lunix OS). Yes, that's my hobby! In my free time, look for me and you will find me doing this!
+* 🤔 I’m looking for help with Hexagonix and Lunix OS operating system development.
+* ❤️ I'm currently learning more and practicing x86 Assembly and C, baremetal development and operating system implementation (Hexagonix and Lunix OS). Yes, that's my hobby! In my free time, look for me and you will find me doing this!
 
 </div>
 
@@ -281,9 +281,9 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 These are 3 of the personal projects I'm currently working on:
 
-<details title="1️⃣ Hexagonix Operating System (Hexagonix OS)" align='left'>
+<details title="1️⃣ Hexagonix Operating System" align='left'>
 <br>
-<summary align='left'><strong>1️⃣ Hexagonix Operating System (Hexagonix OS)</strong></summary>
+<summary align='left'><strong>1️⃣ Hexagonix Operating System</strong></summary>
     
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="180em" src="https://github.com/hexagonix/Doc/blob/main/Img/banner.png"></a>&nbsp;&nbsp;

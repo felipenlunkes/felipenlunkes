@@ -123,7 +123,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 * 🌱 Estou aprendendo mais sobre JavaScript, Java, HTML/CSS e Python.
 * 👯 Procuro colaborar em sistemas operacionais, código aberto e projetos comerciais (backend e DevOps).
-* 🤔 Estou procurando ajuda com o desenvolvimento dos sistemas operacionais Hexagonix/Andromeda e Lunix OS.
+* 🤔 Estou procurando ajuda com o desenvolvimento dos sistemas operacionais Hexagonix e Lunix OS.
 * ❤️ Atualmente, também estou aprendendo mais e praticando Assembly x86 e C, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS e Lunix OS). Sim, esse é o meu hobby! No meu tempo livre, me procure e me achará fazendo isso!
 
 </div>
@@ -281,9 +281,9 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
   
 Esses são 3 dos projetos pessoais em que estou trabalhando atualmente:
 
-<details title="1️⃣ Sistema Operacional Hexagonix (Hexagonix OS)" align='left'>
+<details title="1️⃣ Sistema Operacional Hexagonix" align='left'>
 <br>
-<summary align='left'><strong>1️⃣ Sistema Operacional Hexagonix (Hexagonix OS)</strong></summary>
+<summary align='left'><strong>1️⃣ Sistema Operacional Hexagonix</strong></summary>
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="180em" src="https://github.com/hexagonix/Doc/blob/main/Img/banner.png"></a>&nbsp;&nbsp;
