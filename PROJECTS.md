@@ -30,9 +30,9 @@ My projects have been divided into categories. A summary to facilitate the searc
 
 </div>
 
-<details title="Hexagonix Operating System (Hexagonix OS) - work in progress (2015-present)" align='left'>
+<details title="Hexagonix Operating System - work in progress (2015-present)" align='left'>
 <br>
-<summary align='left'><strong>1️⃣ Hexagonix Operating System (Hexagonix OS) - work in progress (2015-present)</strong></summary>
+<summary align='left'><strong>1️⃣ Hexagonix Operating System - work in progress (2015-present)</strong></summary>
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="180em" src="https://github.com/hexagonix/Doc/blob/main/Img/banner.png"></a>&nbsp;&nbsp;

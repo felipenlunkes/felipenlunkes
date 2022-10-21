@@ -30,9 +30,9 @@ Meus projetos foram divididos em categorias. Aqui vai um sumário para facilitar
 
 </div>
 
-<details title="Sistema operacional Hexagonix (Hexagonix OS) - em desenvolvimento (2015-presente)" align='left'>
+<details title="Sistema operacional Hexagonix - em desenvolvimento (2015-presente)" align='left'>
 <br>
-<summary align='left'><strong>1️⃣ Sistema operacional Hexagonix (Hexagonix OS) - em desenvolvimento (2015-presente)</strong></summary>
+<summary align='left'><strong>1️⃣ Sistema operacional Hexagonix - em desenvolvimento (2015-presente)</strong></summary>
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="180em" src="https://github.com/hexagonix/Doc/blob/main/Img/banner.png"></a>&nbsp;&nbsp;
