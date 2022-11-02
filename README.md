@@ -55,7 +55,7 @@ Hi! My name is Felipe Lunkes (he/him) and I am a Brazilian developer and biologi
 
 <div align="justify">
 
-My life as a developer started at age 2, when I was introduced to a computer. Later, at age 15, I decided to take a technical course in computer science, which made me fall in love with programming. In this course I learned some languages ​​and learned the basis to seek to learn others on my own.
+My life as a developer started at age 2, when I was introduced to a computer. Later, at age 15, I decided to take a technical course in computer science, which made me fall in love with programming. In this course I learned some languages and learned the basis to seek to learn others on my own.
 
 Also at that time, operating systems aroused a great interest in me. I started using Ubuntu as my main operating system and soon became interested in trying to develop one from scratch. In 2012, I started to develop an operating system based on `Linux from Scratch` tutorials, called Netuno SO. I learned a lot about organizing an operating system, maintaining and operating a Unix-like system, creating and maintaining makefiles and compiling packages, which allowed me to gain a lot of experience in administering a Linux system. This project also ignited my passion for Unix systems even more, which led me to research, study and try to develop an operating system on my own, focusing on a Unix-like model. I started to create projects derived from free operating systems, to learn more about how they work and start my own project.
 
@@ -351,7 +351,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=8&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=7&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true">
 
