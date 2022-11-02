@@ -32,7 +32,7 @@ My projects have been divided into categories. A summary to facilitate the searc
 
 <details title="Hexagonix Operating System - work in progress (2015-present)" align='left'>
 <br>
-<summary align='left'><strong>1️⃣ Hexagonix Operating System - work in progress (2015-present)</strong></summary>
+<summary align='left'>1️⃣ Hexagonix Operating System - work in progress (2015-present)</summary>
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="180em" src="https://github.com/hexagonix/Doc/blob/main/Img/banner.png"></a>&nbsp;&nbsp;
@@ -61,7 +61,7 @@ The project is maintained in separate repositories under a unique user. You can 
 
 <details title="Lunix OS - work in progress (2022-present)" align='left'>
 <br>
-<summary align='left'><strong>2️⃣ Lunix OS - work in progress (2022-present)</strong></summary>
+<summary align='left'>2️⃣ Lunix OS - work in progress (2022-present)</summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/lunix"><img height="100" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
@@ -83,7 +83,7 @@ The project is maintained in separate repositories under a unique user. You can 
 
 <details title="GaiaBSD - work in progress (2022-present)" align='left'>
 <br>
-<summary align='left'><strong>3️⃣ GaiaBSD - work in progress (2022-present)</strong></summary>
+<summary align='left'>3️⃣ GaiaBSD - work in progress (2022-present)</summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
@@ -105,7 +105,7 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 <details title="Everest OS - not active (2015-2016)" align='left'>
 <br>
-<summary align='left'><strong>4️⃣ Everest OS - not active (2015-2016)</strong></summary>
+<summary align='left'>4️⃣ Everest OS - not active (2015-2016)</summary>
 
 <div align="justify">
 
@@ -123,7 +123,7 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 <details title="PX-DOS - not active (2013-2015)" align='left'>
 <br>
-<summary align='left'><strong>5️⃣ PX-DOS - not active (2013-2015)</strong></summary>
+<summary align='left'>5️⃣ PX-DOS - not active (2013-2015)</summary>
 
 <div align="justify">
 
@@ -148,7 +148,7 @@ System components have been divided into repositories. [Here](https://github.com
 
 <details title="Bin Operating System (Bin S.O) - not active (2013)" align='left'>
 <br>
-<summary align='left'><strong>6️⃣ Bin Operating System (Bin S.O) - not active (2013)</strong></summary>
+<summary align='left'>6️⃣ Bin Operating System (Bin S.O) - not active (2013)</summary>
 
 <div align="justify">
 
@@ -166,7 +166,7 @@ System components have been divided into repositories. [Here](https://github.com
 
 <details title="Netuno OS Operating System (Linux) - not active (2012)" align='left'>
 <br>
-<summary align='left'><strong>7️⃣ Netuno OS Operating System (Linux) - not active (2012)</strong></summary>
+<summary align='left'>7️⃣ Netuno OS Operating System (Linux) - not active (2012)</summary>
 
 <p align='center'>
 <a href="https://www.linuxfromscratch.org/lfs/"><img height="100" src="https://www.linuxfromscratch.org/images/lfs-logo.png"></a>&nbsp;&nbsp;
@@ -192,7 +192,7 @@ During 2012, motivated to learn more about how a modern operating system works, 
 
 <details title="Java Power Shell (JPS) - not active (2013)" align='left'>
 <br>
-<summary align='left'><strong>1️⃣ Java Power Shell (JPS) - not active (2013)</strong></summary>
+<summary align='left'>1️⃣ Java Power Shell (JPS) - not active (2013)</summary>
 
 <div align="justify">
 
@@ -210,7 +210,7 @@ During 2012, motivated to learn more about how a modern operating system works, 
 
 <details title="PX BASIC (PXBAS) - not active (2013-2014)" align='left'>
 <br>
-<summary align='left'><strong>2️⃣ PX BASIC (PXBAS) - not active (2013-2014)</strong></summary>
+<summary align='left'>2️⃣ PX BASIC (PXBAS) - not active (2013-2014)</summary>
 
 <div align="justify">
 
@@ -238,7 +238,7 @@ During 2012, motivated to learn more about how a modern operating system works, 
 
 <details title="Arduino-based projects - not active (2012-2018)" align='left'>
 <br>
-<summary align='left'><strong>1️⃣ Arduino-based projects - not active (2012-2018)</strong></summary>
+<summary align='left'>1️⃣ Arduino-based projects - not active (2012-2018)</summary>
 
 <div align="justify">
 
