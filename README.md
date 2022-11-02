@@ -167,7 +167,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 <details title="Languages" align='left'>
 <br>
-<summary align='left'><strong>Programming languages</strong></summary>
+<summary align='left'>Programming languages</summary>
 
 <div align="center">
 
@@ -187,7 +187,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 <details title="Operating Systems and platforms" align='left'>
 <br>
-<summary align='left'><strong>Operating Systems and platforms</strong></summary>
+<summary align='left'>Operating Systems and platforms</summary>
 
 ##### DOS (Disk Operating System) and Windows 
 
@@ -237,7 +237,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 <details title="Tools" align='left'>
 <br>
-<summary align='left'><strong>Tools</strong></summary>
+<summary align='left'>Tools</summary>
 
 <div align="center">
 
@@ -257,7 +257,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 <details title="Design tools" align='left'>
 <br>
-<summary align='left'><strong>Design tools</strong></summary>
+<summary align='left'>Design tools</summary>
 
 <div align="center">
 
@@ -283,7 +283,7 @@ These are 3 of the personal projects I'm currently working on:
 
 <details title="1️⃣ Hexagonix Operating System" align='left'>
 <br>
-<summary align='left'><strong>1️⃣ Hexagonix Operating System</strong></summary>
+<summary align='left'>1️⃣ Hexagonix Operating System</summary>
     
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="180em" src="https://github.com/hexagonix/Doc/blob/main/Img/banner.png"></a>&nbsp;&nbsp;
@@ -301,7 +301,7 @@ The project is maintained in separate repositories under a unique user. You can 
 
 <details title="2️⃣ Lunix OS" align='left'>
 <br>
-<summary align='left'><strong>2️⃣ Lunix OS</strong></summary>
+<summary align='left'>2️⃣ Lunix OS</summary>
     
 <p align='center'>
 <a href="https://github.com/felipenlunkes/lunix"><img height="100" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
@@ -317,7 +317,7 @@ The project is maintained in separate repositories under a unique user. You can 
 
 <details title="3️⃣ GaiaBSD" align='left'>
 <br>
-<summary align='left'><strong>3️⃣ GaiaBSD</strong></summary>
+<summary align='left'>3️⃣ GaiaBSD</summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
@@ -363,7 +363,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <details title="Detailed statistics" align='left'>
 <br>
-<summary align='left'><strong>📊 Detailed statistics</strong></summary>
+<summary align='left'>📊 Detailed statistics</summary>
 
 <div align="center">
 
@@ -379,7 +379,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <details title="Some of the repositories maintained by me on another account" align='left'>
 <br>
-<summary align='left'><strong>✨️ Some of the repositories maintained by me on another account</strong></summary>
+<summary align='left'>✨️ Some of the repositories maintained by me on another account</summary>
 
 <div align="justify">
 
