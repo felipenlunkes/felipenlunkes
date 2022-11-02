@@ -45,7 +45,7 @@ Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasi
 
 <details title="Mais sobre mim" align='left'>
 <br>
-<summary align='left'><strong>😁 Mais sobre mim</strong></summary>
+<summary align='left'>😁 Mais sobre mim</summary>
 
 <div align="justify">
 
