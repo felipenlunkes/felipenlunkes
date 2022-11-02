@@ -45,7 +45,7 @@ Hi! My name is Felipe Lunkes (he/him) and I am a Brazilian developer and biologi
 
 <details title="More about me" align='left'>
 <br>
-<summary align='left'><strong>😁 More about me</strong></summary>
+<summary align='left'>😁 More about me</summary>
 
 <div align="justify">
 
