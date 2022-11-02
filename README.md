@@ -51,7 +51,7 @@ Hi! My name is Felipe Lunkes (he/him) and I am a Brazilian developer and biologi
 
 <details title="My trajectory" align='left'>
 <br>
-<summary align='left'><strong>⏳️ My trajectory</strong></summary>
+<summary align='left'>⏳️ My trajectory</summary>
 
 <div align="justify">
 
@@ -67,7 +67,7 @@ I'm a loyal open source user and all my projects have been released with some fr
 
 <details title="My experiences" align='left'>
 <br>
-<summary align='left'><strong>💻 My experiences</strong></summary>
+<summary align='left'>💻 My experiences</summary>
 
 <div align="justify">
 
@@ -79,7 +79,7 @@ Today, I have experience in C, x86 Assembly, Java, Pascal, Basic, Visual Basic (
 
 <details title="Languages" align='left'>
 <br>
-<summary align='left'><strong>:sparkles: Languages</strong></summary>
+<summary align='left'>:sparkles: Languages</summary>
 
 <div align="justify">
 
@@ -93,7 +93,7 @@ Today, I have experience in C, x86 Assembly, Java, Pascal, Basic, Visual Basic (
 
 <details title="My academic background" align='left'>
 <br>
-<summary align='left'><strong>📚 My academic background</strong></summary>
+<summary align='left'>📚 My academic background</summary>
 
 <div align="justify">
 
