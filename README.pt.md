@@ -51,7 +51,7 @@ Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasi
 
 <details title="Minha trajetória" align='left'>
 <br>
-<summary align='left'><strong>⏳️ Minha trajetória</strong></summary>
+<summary align='left'>⏳️ Minha trajetória</summary>
 
 <div align="justify">
 
@@ -67,7 +67,7 @@ Sou um usuário leal de código aberto e todos os meus projetos foram lançados 
 
 <details title="Minha experiência" align='left'>
 <br>
-<summary align='left'><strong>💻 Minha experiência</strong></summary>
+<summary align='left'>💻 Minha experiência</summary>
 
 <div align="justify">
 
@@ -79,7 +79,7 @@ Hoje, tenho experiência em C, x86 Assembly, Java, Pascal, Basic, Visual Basic (
 
 <details title="Idiomas" align='left'>
 <br>
-<summary align='left'><strong>:sparkles: Idiomas</strong></summary>
+<summary align='left'>:sparkles: Idiomas</summary>
 
 <div align="justify">
 
@@ -93,7 +93,7 @@ Hoje, tenho experiência em C, x86 Assembly, Java, Pascal, Basic, Visual Basic (
 
 <details title="Minha formação" align='left'>
 <br>
-<summary align='left'><strong>📚 Minha formação</strong></summary>
+<summary align='left'>📚 Minha formação</summary>
 
 <div align="justify">
 
@@ -167,7 +167,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
   
 <details title="Linguagens de programação" align='left'>
 <br>
-<summary align='left'><strong>Linguagens de programação</strong></summary>
+<summary align='left'>Linguagens de programação</summary>
 
 <div align="left">
 
@@ -187,7 +187,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <details title="Sistemas Operacionais e plataformas" align='left'>
 <br>
-<summary align='left'><strong>Sistemas Operacionais e plataformas</strong></summary>
+<summary align='left'>Sistemas Operacionais e plataformas</summary>
 
 ##### DOS (Disk Operating System) e Windows
 
@@ -237,7 +237,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <details title="Ferramentas" align='left'>
 <br>
-<summary align='left'><strong>Ferramentas</strong></summary>
+<summary align='left'>Ferramentas</summary>
 
 <div align="center">
 
@@ -257,7 +257,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <details title="Ferramentas de design" align='left'>
 <br>
-<summary align='left'><strong>Ferramentas de design</strong></summary>
+<summary align='left'>Ferramentas de design</summary>
 
 <div align="center">
 
@@ -283,7 +283,7 @@ Esses são 3 dos projetos pessoais em que estou trabalhando atualmente:
 
 <details title="1️⃣ Sistema Operacional Hexagonix" align='left'>
 <br>
-<summary align='left'><strong>1️⃣ Sistema Operacional Hexagonix</strong></summary>
+<summary align='left'>1️⃣ Sistema Operacional Hexagonix</summary>
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="180em" src="https://github.com/hexagonix/Doc/blob/main/Img/banner.png"></a>&nbsp;&nbsp;
@@ -301,7 +301,7 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 
 <details title="2️⃣ Lunix OS" align='left'>
 <br>
-<summary align='left'><strong>2️⃣ Lunix OS</strong></summary>
+<summary align='left'>2️⃣ Lunix OS</summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/lunix"><img height="100" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
@@ -317,7 +317,7 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 
 <details title="3️⃣ GaiaBSD" align='left'>
 <br>
-<summary align='left'><strong>3️⃣ GaiaBSD</strong></summary>
+<summary align='left'>3️⃣ GaiaBSD</summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
@@ -351,7 +351,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
   
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=7&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true">
 
@@ -363,7 +363,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 <details title="Estatísticas detalhadas" align='left'>
 <br>
-<summary align='left'><strong>📊 Estatísticas detalhadas</strong></summary>
+<summary align='left'>📊 Estatísticas detalhadas</summary>
 
 <div align="center">
 
@@ -379,7 +379,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 <details title="Alguns dos repositórios mantidos por mim e hospedados em outra conta" align='left'>
 <br>
-<summary align='left'><strong>✨️ Alguns dos repositórios mantidos por mim e hospedados em outra conta</strong></summary>
+<summary align='left'>✨️ Alguns dos repositórios mantidos por mim e hospedados em outra conta</summary>
 
 <div align="justify">
 
