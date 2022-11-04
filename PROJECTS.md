@@ -32,7 +32,7 @@ My projects have been divided into categories. A summary to facilitate the searc
 
 <details title="Hexagonix Operating System - work in progress (2014-present)" align='left'>
 <br>
-<summary align='left'>1️⃣ Hexagonix Operating System - work in progress (2015-present)</summary>
+<summary align='left'>1️⃣ Hexagonix Operating System - work in progress (2014-present)</summary>
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="180em" src="https://github.com/hexagonix/Doc/blob/main/Img/banner.png"></a>&nbsp;&nbsp;
