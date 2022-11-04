@@ -30,7 +30,7 @@ My projects have been divided into categories. A summary to facilitate the searc
 
 </div>
 
-<details title="Hexagonix Operating System - work in progress (2015-present)" align='left'>
+<details title="Hexagonix Operating System - work in progress (2014-present)" align='left'>
 <br>
 <summary align='left'>1️⃣ Hexagonix Operating System - work in progress (2015-present)</summary>
 
