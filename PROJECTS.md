@@ -30,6 +30,8 @@ My projects have been divided into categories. A summary to facilitate the searc
 
 </div>
 
+### Operating system projects
+
 <details title="Hexagonix Operating System - work in progress (2014-present)" align='left'>
 <br>
 <summary align='left'>1️⃣ Hexagonix Operating System - work in progress (2014-present)</summary>
@@ -175,6 +177,24 @@ System components have been divided into repositories. [Here](https://github.com
 <div align="justify">
 
 During 2012, motivated to learn more about how a modern operating system works, I started to develop a small and simple Linux distribution, choosing to maintain a command-line interface. For this, I followed the steps proposed by the project [Linux From Scratch](https://www.linuxfromscratch.org/lfs/). The result was Neptune SO, an operating system based on the 2.6 series Linux kernel, standard tools and utilities. There are no sources other than those available in the packages used, so a repository had not been created at the time. What was left of it was a system installation image, approximately 192 Mb, dated 2012.
+
+</div>
+
+</details>
+
+### Operating system related projects
+
+<details title="osdev (2022-present)" align='left'>
+<br>
+<summary align='left'>osdev (2022-present)</summary>
+
+<p align='center'>
+<a href="https://github.com/felipenlunkes/osdev"><img height="180em" src="https://github.com/felipenlunkes/osdev/blob/main/img/banner.png" ></a>&nbsp;&nbsp;
+</p>
+
+<div align="justify">
+
+osdev is a project that aims to catalog and obtain more information about active open source operating system projects, in addition to providing selected material that can assist in the development of standalone operating system projects. Therefore, all projects are classified according to operating system family, target architecture, whether they are available on GitHub or not, whether they are active (with commits less than 4 years old) and software license. In addition, the repository seeks to collect and organize historical material about the most used operating systems or those that revolutionized computing, such as UNIX.
 
 </div>
 
