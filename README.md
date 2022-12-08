@@ -375,6 +375,8 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=felipenlunkes&count_private=true&hide_border=false&theme=tokyonight">
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=felipenlunkes)">
+    
 </div>
 
 </details>
