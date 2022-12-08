@@ -357,7 +357,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 <!-- Vamos excluir repositórios que não são de minha autoria, como o TROPIX-->
   
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=10">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=10&custom_title=Linguagens%20mais%20usadas">
 
 <br>
 
