@@ -353,11 +353,11 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=7&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes)
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=transparent&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true">
 
 <!-- Vamos excluir repositórios que não são de minha autoria, como o TROPIX-->
     
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=10">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=transparent&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=10">
 
 <br>
 
@@ -369,7 +369,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <div align="center">
 
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight&count_private=true">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=transparent&count_private=true">
 
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&count_private=true">
 
