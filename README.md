@@ -355,6 +355,8 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true">
 
+<!-- Vamos excluir repositórios que não são de minha autoria, como o TROPIX-->
+    
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=10">
 
 <br>
