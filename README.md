@@ -68,7 +68,7 @@ I'm a loyal open source user and all my projects have been released with some fr
 
 <details title="My experiences" align='left'>
 <br>
-<summary align='left'>💻 My experiences</summary>
+<summary align='left'>:computer: My experiences</summary>
 
 <div align="justify">
 
@@ -282,9 +282,9 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 These are 3 of the personal projects I'm currently working on:
 
-<details title="1️⃣ Hexagonix Operating System" align='left'>
+<details title="Hexagonix Operating System" align='left'>
 <br>
-<summary align='left'>1️⃣ Hexagonix Operating System</summary>
+<summary align='left'>:one: Hexagonix Operating System</summary>
     
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="180em" src="https://github.com/hexagonix/Doc/blob/main/Img/banner.png"></a>&nbsp;&nbsp;
@@ -300,9 +300,9 @@ The project is maintained in separate repositories under a unique user. You can 
 
 </details>
 
-<details title="2️⃣ Lunix OS" align='left'>
+<details title="Lunix OS" align='left'>
 <br>
-<summary align='left'>2️⃣ Lunix OS</summary>
+<summary align='left'>:two: Lunix OS</summary>
     
 <p align='center'>
 <a href="https://github.com/felipenlunkes/lunix"><img height="100" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
@@ -316,9 +316,9 @@ The project is maintained in separate repositories under a unique user. You can 
 
 </details>
 
-<details title="3️⃣ GaiaBSD" align='left'>
+<details title="GaiaBSD" align='left'>
 <br>
-<summary align='left'>3️⃣ GaiaBSD</summary>
+<summary align='left'>:three: GaiaBSD</summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
@@ -384,7 +384,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <details title="Some of the repositories maintained by me on another account" align='left'>
 <br>
-<summary align='left'>✨️ Some of the repositories maintained by me on another account</summary>
+<summary align='left'>:sparkles: Some of the repositories maintained by me on another account</summary>
 
 <div align="justify">
 

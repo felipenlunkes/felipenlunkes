@@ -68,7 +68,7 @@ Sou um usuário leal de código aberto e todos os meus projetos foram lançados 
 
 <details title="Minha experiência" align='left'>
 <br>
-<summary align='left'>💻 Minha experiência</summary>
+<summary align='left'>:computer: Minha experiência</summary>
 
 <div align="justify">
 
@@ -282,9 +282,9 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
   
 Esses são 3 dos projetos pessoais em que estou trabalhando atualmente:
 
-<details title="1️⃣ Sistema Operacional Hexagonix" align='left'>
+<details title="1Sistema Operacional Hexagonix" align='left'>
 <br>
-<summary align='left'>1️⃣ Sistema Operacional Hexagonix</summary>
+<summary align='left'>:one: Sistema Operacional Hexagonix</summary>
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="180em" src="https://github.com/hexagonix/Doc/blob/main/Img/banner.png"></a>&nbsp;&nbsp;
@@ -300,9 +300,9 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 
 </details>
 
-<details title="2️⃣ Lunix OS" align='left'>
+<details title="Lunix OS" align='left'>
 <br>
-<summary align='left'>2️⃣ Lunix OS</summary>
+<summary align='left'>:two: Lunix OS</summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/lunix"><img height="100" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
@@ -316,9 +316,9 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 
 </details>
 
-<details title="3️⃣ GaiaBSD" align='left'>
+<details title="GaiaBSD" align='left'>
 <br>
-<summary align='left'>3️⃣ GaiaBSD</summary>
+<summary align='left'>:three: GaiaBSD</summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
@@ -366,7 +366,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 <details title="Estatísticas detalhadas" align='left'>
 <br>
-<summary align='left'>📊 Estatísticas detalhadas</summary>
+<summary align='left'>:bar_chart: Estatísticas detalhadas</summary>
 
 <div align="center">
 
@@ -384,7 +384,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 <details title="Alguns dos repositórios mantidos por mim e hospedados em outra conta" align='left'>
 <br>
-<summary align='left'>✨️ Alguns dos repositórios mantidos por mim e hospedados em outra conta</summary>
+<summary align='left'>:sparkles: Alguns dos repositórios mantidos por mim e hospedados em outra conta</summary>
 
 <div align="justify">
 
@@ -415,7 +415,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 <div align="center">
   
-## 🖥️ Meu setup
+## :desktop_computer: Meu setup
 
 </div>
   
@@ -441,7 +441,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 <div align="center">
    
-## ➕️ Mais
+## :heavy_plus_sign: Mais
 
 </div>
   
@@ -449,6 +449,6 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
   
 * <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/UK.gif" width="25px" height="15px" /> [English version](README.md) (versão em inglês)
   
-* <img src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/aed78269-8ef2-4e2b-9f8a-a687fba40bfd.png" width="25px" height="25px" /> [Currículo Lattes](http://lattes.cnpq.br/2540365589952421) 
+* <img src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/aed78269-8ef2-4e2b-9f8a-a687fba40bfd.png" width="25px" height="25px" /> [Currículo Lattes](http://lattes.cnpq.br/2540365589952421)
   
 </div>  
