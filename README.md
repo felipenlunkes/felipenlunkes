@@ -112,7 +112,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 * :computer: x86 Assembly is my favorite language and I practice a lot in my free time.
 * :dna: I am a biologist with experience in molecular biology.
-* :red_book: I'm very interested in the history of computing, especially the history of Unix and derivatives.
+* :orange_book: I'm very interested in the history of computing, especially the history of Unix and derivatives.
 * :dvd: I have a virtual collection of operating systems (installation media).
 * :night_with_stars: I am fascinated with Unix systems and have used at least once almost every system known to man. I really enjoy researching more about the history and organization and trying to implement the model in Hexagonix (my personal project).
 
