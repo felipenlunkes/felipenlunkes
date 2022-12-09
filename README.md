@@ -110,11 +110,11 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 <div align="justify">
 
-* 💻 x86 Assembly is my favorite language and I practice a lot in my free time.
-* 🧬 I am a biologist with experience in molecular biology.
-* 📕 I'm very interested in the history of computing, especially the history of Unix and derivatives.
-* 📀 I have a virtual collection of operating systems (installation media).
-* 🌌 I am fascinated with Unix systems and have used at least once almost every system known to man. I really enjoy researching more about the history and organization and trying to implement the model in Hexagonix (my personal project).
+* :computer: x86 Assembly is my favorite language and I practice a lot in my free time.
+* :dna: I am a biologist with experience in molecular biology.
+* :red_book: I'm very interested in the history of computing, especially the history of Unix and derivatives.
+* :dvd: I have a virtual collection of operating systems (installation media).
+* :night_with_stars: I am fascinated with Unix systems and have used at least once almost every system known to man. I really enjoy researching more about the history and organization and trying to implement the model in Hexagonix (my personal project).
 
 </div>
 
@@ -122,9 +122,9 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 <div align="justify">
 
-* 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python.
-* 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and DevOps).
-* 🤔 I’m looking for help with Hexagonix and Lunix OS operating system development.
+* :seedling: I am currently learning more about JavaScript, Java, HTML/CSS and Python.
+* :people_hugging: I’m looking to collaborate on operating systems, open source and commercial projects (backend and DevOps).
+* :thinking: I’m looking for help with Hexagonix and Lunix OS operating system development.
 * :sparkling_heart: I'm currently learning more and practicing x86 Assembly and C, baremetal development and operating system implementation (Hexagonix and Lunix OS). Yes, that's my hobby! In my free time, look for me and you will find me doing this!
 
 </div>

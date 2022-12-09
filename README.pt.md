@@ -110,10 +110,10 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <div align="justify">
 
-* 💻 Assembly x86 é minha linguagem favorita e pratico muito no meu tempo livre.
-* 🧬 Sou biólogo com ênfase em Biotecnologia e Saúde (UFMG) com experiência em Biologia Molecular.
-* 📕 Me interesso muito pela história da computação, principalmente a história do Unix e derivados.
-* 📀 Tenho uma coleção virtual de sistemas operacionais (mídias de instalação).
+* :computer: Assembly x86 é minha linguagem favorita e pratico muito no meu tempo livre.
+* :dna: Sou biólogo com ênfase em Biotecnologia e Saúde (UFMG) com experiência em Biologia Molecular.
+* :red_book: Me interesso muito pela história da computação, principalmente a história do Unix e derivados.
+* :dvd: Tenho uma coleção virtual de sistemas operacionais (mídias de instalação).
 * 🌌 Sou fascinado com sistemas Unix e já usei pelo menos uma vez quase todos os que o homem conhece. Gosto muito de pesquisar mais sobre a história e organização e tentar implementar o modelo no Hexagonix (meu projeto pessoal).
 
 </div>
@@ -122,9 +122,9 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <div align="justify">
 
-* 🌱 Estou aprendendo mais sobre JavaScript, Java, HTML/CSS e Python.
-* 👯 Procuro colaborar em sistemas operacionais, código aberto e projetos comerciais (backend e DevOps).
-* 🤔 Estou procurando ajuda com o desenvolvimento dos sistemas operacionais Hexagonix e Lunix OS.
+* :seedling: Estou aprendendo mais sobre JavaScript, Java, HTML/CSS e Python.
+* :people_hugging: Procuro colaborar em sistemas operacionais, código aberto e projetos comerciais (backend e DevOps).
+* :thinking: Estou procurando ajuda com o desenvolvimento dos sistemas operacionais Hexagonix e Lunix OS.
 * :sparkling_heart: Atualmente, também estou aprendendo mais e praticando Assembly x86 e C, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS e Lunix OS). Sim, esse é o meu hobby! No meu tempo livre, me procure e me achará fazendo isso!
 
 </div>
