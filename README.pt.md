@@ -26,7 +26,7 @@
   
 # Olá! <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/wave.gif" width="30px" height="30px" />
 
-## 💁 Sobre mim
+## :technologist: Sobre mim
 
 </div>
 
