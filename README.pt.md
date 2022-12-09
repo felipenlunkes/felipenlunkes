@@ -112,13 +112,13 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 * :computer: Assembly x86 é minha linguagem favorita e pratico muito no meu tempo livre.
 * :dna: Sou biólogo com ênfase em Biotecnologia e Saúde (UFMG) com experiência em Biologia Molecular.
-* :red_book: Me interesso muito pela história da computação, principalmente a história do Unix e derivados.
+* :orange_book: Me interesso muito pela história da computação, principalmente a história do Unix e derivados.
 * :dvd: Tenho uma coleção virtual de sistemas operacionais (mídias de instalação).
-* 🌌 Sou fascinado com sistemas Unix e já usei pelo menos uma vez quase todos os que o homem conhece. Gosto muito de pesquisar mais sobre a história e organização e tentar implementar o modelo no Hexagonix (meu projeto pessoal).
+* :night_with_stars: Sou fascinado com sistemas Unix e já usei pelo menos uma vez quase todos os que o homem conhece. Gosto muito de pesquisar mais sobre a história e organização e tentar implementar o modelo no Hexagonix (meu projeto pessoal).
 
 </div>
 
-### 🤓 Meus interesses  
+### :nerd_face: Meus interesses  
 
 <div align="justify">
 
@@ -162,7 +162,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <div align="center">
   
-## 🛠️ Habilidades
+## :hammer_and_wrench: Habilidades
 
 </div>
   
@@ -276,7 +276,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 <div align="center">
   
-## 💡 Meus projetos ativos
+## :bulb: Meus projetos ativos
 
 </div>
   
@@ -346,7 +346,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 <div align="center">
   
-## 📈 Estatísticas do meu GitHub
+## :chart_with_upwards_trend: Estatísticas do meu GitHub
 
 </div>
   

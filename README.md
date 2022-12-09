@@ -276,7 +276,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 <div align="center">
 
-## 💡 My projects  
+## :bulb: My projects  
 
 </div>
 
@@ -346,7 +346,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <div align="center">
 
-## 📈 GitHub Stats
+## :chart_with_upwards_trend: GitHub Stats
 
 </div>
 
@@ -366,7 +366,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <details title="Detailed statistics" align='left'>
 <br>
-<summary align='left'>📊 Detailed statistics</summary>
+<summary align='left'>:bar_chart: Detailed statistics</summary>
 
 <div align="center">
 
@@ -415,7 +415,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <div align="center">
 
-## 🖥️ My workspace setup
+## :desktop_computer: My workspace setup
 
 </div>
 
@@ -441,7 +441,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <div align="center">
     
-## ➕️ More
+## :heavy_plus_sign: More
 
 </div>
 
