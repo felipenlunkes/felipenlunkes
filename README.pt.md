@@ -52,7 +52,7 @@ Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasi
 
 <details title="Minha trajetória" align='left'>
 <br>
-<summary align='left'>⏳️ Minha trajetória</summary>
+<summary align='left'>:hourglass_flowing_sand: Minha trajetória</summary>
 
 <div align="justify">
 

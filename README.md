@@ -52,7 +52,7 @@ Hi! My name is Felipe Lunkes (he/him) and I am a Brazilian developer and biologi
 
 <details title="My trajectory" align='left'>
 <br>
-<summary align='left'>⏳️ My trajectory</summary>
+<summary align='left'>:hourglass_flowing_sand: My trajectory</summary>
 
 <div align="justify">
 
