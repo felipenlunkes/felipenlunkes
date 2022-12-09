@@ -35,7 +35,7 @@
 Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro.
 
 * :books: Atualmente estou estudando C, JavaScript, Java e Python com o objetivo de me tornar um desenvolvedor backend ou aproveitar oportunidades como DevOps.
-* :desktop_computer: Usuário fiel de Linux e FreeBSD.
+* :abacus: Usuário fiel de Linux e FreeBSD.
 * :construction: Desenvolvendo o [Sistema Operacional Hexagonix](https://github.com/hexagonix) como hobby.
 * :seedling: Me pergunte sobre design e implementação de sistemas operacionais, Assembly x86 e C.
 * :mag: Saiba mais sobre mim clicando sobre `😁 Mais sobre mim`, abaixo! Você também pode ver uma lista com todos os meus projetos [aqui](PROJECTS.pt.md) ou os projetos em destaque logo abaixo.
@@ -125,7 +125,7 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 * 🌱 Estou aprendendo mais sobre JavaScript, Java, HTML/CSS e Python.
 * 👯 Procuro colaborar em sistemas operacionais, código aberto e projetos comerciais (backend e DevOps).
 * 🤔 Estou procurando ajuda com o desenvolvimento dos sistemas operacionais Hexagonix e Lunix OS.
-* ❤️ Atualmente, também estou aprendendo mais e praticando Assembly x86 e C, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS e Lunix OS). Sim, esse é o meu hobby! No meu tempo livre, me procure e me achará fazendo isso!
+* :sparkling_heart: Atualmente, também estou aprendendo mais e praticando Assembly x86 e C, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS e Lunix OS). Sim, esse é o meu hobby! No meu tempo livre, me procure e me achará fazendo isso!
 
 </div>
 

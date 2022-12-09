@@ -35,7 +35,7 @@
 Hi! My name is Felipe Lunkes (he/him) and I am a Brazilian developer and biologist.
 
 * :books: I am currently studying C, JavaScript, Java and Python with the aim of becoming a backend developer or DevOps.
-* :desktop_computer: Linux and FreeBSD user.
+* :abacus: Linux and FreeBSD user.
 * :seedling: Ask me about OS design and implementation, x86 Assembly and C.
 * :construction: Developing the [Hexagonix Operating System](https://github.com/hexagonix) as a hobby.
 * :mag: Learn more about me by clicking on `😁 More about me` below! You can also see a list of all my projects [here](PROJECTS.md) or my top 3 projects below.
@@ -125,7 +125,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 * 🌱 I am currently learning more about JavaScript, Java, HTML/CSS and Python.
 * 👯 I’m looking to collaborate on operating systems, open source and commercial projects (backend and DevOps).
 * 🤔 I’m looking for help with Hexagonix and Lunix OS operating system development.
-* ❤️ I'm currently learning more and practicing x86 Assembly and C, baremetal development and operating system implementation (Hexagonix and Lunix OS). Yes, that's my hobby! In my free time, look for me and you will find me doing this!
+* :sparkling_heart: I'm currently learning more and practicing x86 Assembly and C, baremetal development and operating system implementation (Hexagonix and Lunix OS). Yes, that's my hobby! In my free time, look for me and you will find me doing this!
 
 </div>
 
