@@ -118,7 +118,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 </div>
 
-### 🤓 My interests  
+### :nerd_face: My interests  
 
 <div align="justify">
 
@@ -162,7 +162,7 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 <div align="center">
 
-## 🛠️ Skills
+## :hammer_and_wrench: Skills
 
 </div>
 
