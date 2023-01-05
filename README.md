@@ -360,6 +360,8 @@ A list of all my active, non-active and complete projects can be found [here](PR
     
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX,run-ancient-unix&langs_count=10">
 
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&count_private=true">
+
 <br>
 
 </div>
@@ -373,8 +375,6 @@ A list of all my active, non-active and complete projects can be found [here](PR
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight&count_private=true">
 
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipenlunkes&theme=tokyonight&utcOffset=-3">
-    
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&count_private=true">
 
 <!-- Desativado por enquanto
 

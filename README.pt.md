@@ -360,6 +360,8 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
   
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX,run-ancient-unix&langs_count=10&custom_title=Linguagens%20mais%20usadas&locale=pt-BR">
 
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&count_private=true">
+
 <br>
 
 </div>
@@ -373,8 +375,6 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight&count_private=true">
 
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipenlunkes&theme=tokyonight&utcOffset=-3">
-  
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&count_private=true">
 
 <!-- Desativado por enquanto
 
