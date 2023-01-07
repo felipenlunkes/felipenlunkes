@@ -35,7 +35,7 @@ My projects have been divided into categories. A summary to facilitate the searc
 
 <details title="Hexagonix Operating System - work in progress (2014-present)" align='left'>
 <br>
-<summary align='left'>1️⃣ Hexagonix Operating System - work in progress (2014-present)</summary>
+<summary align='left'>:one: Hexagonix Operating System - work in progress (2014-present)</summary>
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="180em" src="https://github.com/hexagonix/Doc/blob/main/Img/banner.png"></a>&nbsp;&nbsp;
@@ -64,7 +64,7 @@ The project is maintained in separate repositories under a unique user. You can 
 
 <details title="Lunix OS - work in progress (2022-present)" align='left'>
 <br>
-<summary align='left'>2️⃣ Lunix OS - work in progress (2022-present)</summary>
+<summary align='left'>:two: Lunix OS - work in progress (2022-present)</summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/lunix"><img height="100" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
@@ -86,7 +86,7 @@ The project is maintained in separate repositories under a unique user. You can 
 
 <details title="GaiaBSD - work in progress (2022-present)" align='left'>
 <br>
-<summary align='left'>3️⃣ GaiaBSD - work in progress (2022-present)</summary>
+<summary align='left'>:three: GaiaBSD - work in progress (2022-present)</summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
@@ -108,7 +108,7 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 <details title="Everest OS - not active (2015-2016)" align='left'>
 <br>
-<summary align='left'>4️⃣ Everest OS - not active (2015-2016)</summary>
+<summary align='left'>:four: Everest OS - not active (2015-2016)</summary>
 
 <div align="justify">
 
@@ -126,7 +126,7 @@ GaiaBSD is a fork of FreeBSD aimed at studying more about Unix systems and tryin
 
 <details title="PX-DOS - not active (2013-2015)" align='left'>
 <br>
-<summary align='left'>5️⃣ PX-DOS - not active (2013-2015)</summary>
+<summary align='left'>:five: PX-DOS - not active (2013-2015)</summary>
 
 <div align="justify">
 
@@ -151,7 +151,7 @@ System components have been divided into repositories. [Here](https://github.com
 
 <details title="Bin Operating System (Bin S.O) - not active (2013)" align='left'>
 <br>
-<summary align='left'>6️⃣ Bin Operating System (Bin S.O) - not active (2013)</summary>
+<summary align='left'>:six: Bin Operating System (Bin S.O) - not active (2013)</summary>
 
 <div align="justify">
 
@@ -169,7 +169,7 @@ System components have been divided into repositories. [Here](https://github.com
 
 <details title="Netuno OS Operating System (Linux) - not active (2012)" align='left'>
 <br>
-<summary align='left'>7️⃣ Netuno OS Operating System (Linux) - not active (2012)</summary>
+<summary align='left'>:seven: Netuno OS Operating System (Linux) - not active (2012)</summary>
 
 <p align='center'>
 <a href="https://www.linuxfromscratch.org/lfs/"><img height="100" src="https://www.linuxfromscratch.org/images/lfs-logo.png"></a>&nbsp;&nbsp;
@@ -237,7 +237,7 @@ This project/repository aims to make it easier to run older versions of UNIX, de
 
 <details title="Java Power Shell (JPS) - not active (2013)" align='left'>
 <br>
-<summary align='left'>1️⃣ Java Power Shell (JPS) - not active (2013)</summary>
+<summary align='left'>:one: Java Power Shell (JPS) - not active (2013)</summary>
 
 <div align="justify">
 
@@ -255,7 +255,7 @@ This project/repository aims to make it easier to run older versions of UNIX, de
 
 <details title="PX BASIC (PXBAS) - not active (2013-2014)" align='left'>
 <br>
-<summary align='left'>2️⃣ PX BASIC (PXBAS) - not active (2013-2014)</summary>
+<summary align='left'>:two: PX BASIC (PXBAS) - not active (2013-2014)</summary>
 
 <div align="justify">
 
@@ -283,7 +283,7 @@ This project/repository aims to make it easier to run older versions of UNIX, de
 
 <details title="Arduino-based projects - not active (2012-2018)" align='left'>
 <br>
-<summary align='left'>1️⃣ Arduino-based projects - not active (2012-2018)</summary>
+<summary align='left'>:one: Arduino-based projects - not active (2012-2018)</summary>
 
 <div align="justify">
 
@@ -340,7 +340,7 @@ All the projects I carried out to learn programming languages, frameworks and de
 * The repository with my Python codes can be found [here](https://github.com/felipenlunkes/learning-Python).
 * The repository with my Java codes can be found [here](https://github.com/felipenlunkes/learning-Java).
 * The repository with my HTML/CSS codes can be found [here](https://github.com/felipenlunkes/learning-HTML-CSS).
-* The repository with my CAD projects can be found [here](https://github.com/felipenlunkes/learning-CAD). 
+* The repository with my CAD projects can be found [here](https://github.com/felipenlunkes/learning-CAD).
 * The repository with my PHP codes can be found [here](https://github.com/felipenlunkes/learning-PHP).
 * The repository with my Flash codes can be found [here](https://github.com/felipenlunkes/learning-Flash).
 
