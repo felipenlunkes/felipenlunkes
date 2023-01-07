@@ -195,7 +195,7 @@ During 2012, motivated to learn more about how a modern operating system works, 
 
 <details title="osdev (2022-present)" align='left'>
 <br>
-<summary align='left'>osdev (2022-present)</summary>
+<summary align='left'>:one: osdev (2022-present)</summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/osdev"><img height="180em" src="https://github.com/felipenlunkes/osdev/blob/main/img/banner.png" ></a>&nbsp;&nbsp;
@@ -211,7 +211,7 @@ osdev is a project that aims to catalog and obtain more information about active
 
 <details title="Run Ancient UNIX (2022-present)" align='left'>
 <br>
-<summary align='left'>Run Ancient UNIX (2022-present)</summary>
+<summary align='left'>:two: Run Ancient UNIX (2022-present)</summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/run-ancient-unix"><img height="180em" src="https://github.com/felipenlunkes/run-ancient-unix/blob/main/doc/banner.png"></a>&nbsp;&nbsp;

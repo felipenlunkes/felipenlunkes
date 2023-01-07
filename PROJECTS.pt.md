@@ -35,7 +35,7 @@ Meus projetos foram divididos em categorias. Aqui vai um sumário para facilitar
 
 <details title="Sistema operacional Hexagonix - em desenvolvimento (2014-presente)" align='left'>
 <br>
-<summary align='left'>1️⃣ Sistema operacional Hexagonix - em desenvolvimento (2014-presente)</summary>
+<summary align='left'>:one: Sistema operacional Hexagonix - em desenvolvimento (2014-presente)</summary>
 
 <p align='center'>
 <a href="https://github.com/hexagonix"><img height="180em" src="https://github.com/hexagonix/Doc/blob/main/Img/banner.png"></a>&nbsp;&nbsp;
@@ -64,7 +64,7 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 
 <details title="Lunix OS - em desenvolvimento (2022-presente)" align='left'>
 <br>
-<summary align='left'>2️⃣ Lunix OS - em desenvolvimento (2022-presente)</summary>
+<summary align='left'>:two: Lunix OS - em desenvolvimento (2022-presente)</summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/lunix"><img height="100" src="https://github.com/felipenlunkes/lunix/blob/main/Doc/header.gif"></a>&nbsp;&nbsp;
@@ -86,7 +86,7 @@ O projeto é mantido em repositórios separados sob um único usuário. Você po
 
 <details title="GaiaBSD - em desenvolvimento (2022-presente)" align='left'>
 <br>
-<summary align='left'>3️⃣ GaiaBSD - em desenvolvimento (2022-presente)</summary>
+<summary align='left'>:three: GaiaBSD - em desenvolvimento (2022-presente)</summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/GaiaBSD"><img height="150" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/freebsd.svg"></a>&nbsp;&nbsp;
@@ -108,7 +108,7 @@ GaiaBSD é um fork do FreeBSD destinado a estudar mais sobre sistemas Unix e ten
 
 <details title="Everest OS - não ativo (2015-2016)" align='left'>
 <br>
-<summary align='left'>4️⃣ Everest OS - não ativo (2015-2016)</summary>
+<summary align='left'>:four: Everest OS - não ativo (2015-2016)</summary>
 
 <div align="justify">
 
@@ -126,7 +126,7 @@ GaiaBSD é um fork do FreeBSD destinado a estudar mais sobre sistemas Unix e ten
 
 <details title="PX-DOS - não ativo (2013-2015)" align='left'>
 <br>
-<summary align='left'>5️⃣ PX-DOS - não ativo (2013-2015)</summary>
+<summary align='left'>:five: PX-DOS - não ativo (2013-2015)</summary>
 
 <div align="justify">
 
@@ -151,7 +151,7 @@ Os componentes do sistema foram divididos em repositórios. [Aqui](https://githu
 
 <details title="Sistema Operacional Bin (Bin S.O) - não ativo (2013)" align='left'>
 <br>
-<summary align='left'>6️⃣ Sistema Operacional Bin (Bin S.O) - não ativo (2013)</summary>
+<summary align='left'>:six: Sistema Operacional Bin (Bin S.O) - não ativo (2013)</summary>
 
 <div align="justify">
 
@@ -165,7 +165,7 @@ Os componentes do sistema foram divididos em repositórios. [Aqui](https://githu
 
 <details title="Sistema Operacional Netuno OS (Linux) - não ativo (2012)" align='left'>
 <br>
-<summary align='left'>7️⃣ Sistema Operacional Netuno OS (Linux) - não ativo (2012)</summary>
+<summary align='left'>:seven: Sistema Operacional Netuno OS (Linux) - não ativo (2012)</summary>
 
 <p align='center'>
 <a href="https://www.linuxfromscratch.org/lfs/"><img height="100" src="https://www.linuxfromscratch.org/images/lfs-logo.png"></a>&nbsp;&nbsp;
@@ -191,7 +191,7 @@ Durante o ano de 2012, motivado em aprender mais sobre o funcionamento de um sis
 
 <details title="osdev (2022-presente)" align='left'>
 <br>
-<summary align='left'>osdev (2022-presente)</summary>
+<summary align='left'>:one: osdev (2022-presente)</summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/osdev"><img height="180em" src="https://github.com/felipenlunkes/osdev/blob/main/img/banner.png"></a>&nbsp;&nbsp;
@@ -207,7 +207,7 @@ osdev é um projeto que visa catalogar e obter mais informações sobre projetos
 
 <details title="Run Ancient UNIX (2022-presente)" align='left'>
 <br>
-<summary align='left'>Run Ancient UNIX (2022-presente)</summary>
+<summary align='left'>:two: Run Ancient UNIX (2022-presente)</summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/run-ancient-unix"><img height="180em" src="https://github.com/felipenlunkes/run-ancient-unix/blob/main/doc/banner.png"></a>&nbsp;&nbsp;
@@ -233,7 +233,7 @@ Este projeto/repositório visa facilitar a execução de versões antigas do UNI
 
 <details title="Java Power Shell (JPS) - não ativo (2013)" align='left'>
 <br>
-<summary align='left'>1️⃣ Java Power Shell (JPS) - não ativo (2013)</summary>
+<summary align='left'>:one: Java Power Shell (JPS) - não ativo (2013)</summary>
 
 <div align="justify">
   
@@ -251,7 +251,7 @@ Este projeto/repositório visa facilitar a execução de versões antigas do UNI
 
 <details title="PX BASIC (PXBAS) - não ativo (2013-2014)" align='left'>
 <br>
-<summary align='left'>2️⃣ PX BASIC (PXBAS) - não ativo (2013-2014)</summary>
+<summary align='left'>:two: PX BASIC (PXBAS) - não ativo (2013-2014)</summary>
 
 <div align="justify">
 
@@ -279,7 +279,7 @@ Este projeto/repositório visa facilitar a execução de versões antigas do UNI
 
 <details title="Projetos em Arduino - não ativo (2012-2018)" align='left'>
 <br>
-<summary align='left'>1️⃣ Projetos em Arduino - não ativo (2012-2018)</summary>
+<summary align='left'>:one: Projetos em Arduino - não ativo (2012-2018)</summary>
 
 <div align="justify">
 
