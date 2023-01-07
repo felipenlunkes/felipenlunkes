@@ -12,7 +12,8 @@
 
 Meus projetos foram divididos em categorias. Aqui vai um sumário para facilitar a busca:
 
-* [Projetos de sistemas operacionais e projetos relacionados](#-projetos-de-sistemas-operacionais-e-projetos-relacionados)
+* [Projetos de sistemas operacionais](#-projetos-de-sistemas-operacionais)
+* [Material relacionado a sistemas operacionais](#computer-projetos-relacionados-a-sistemas-operacionais)
 * [Ferramentas e utilitários](#-ferramentas-e-utilitários)
 * [Plataformas](#-plataformas)
 * [Tutoriais](#-tutoriais)
@@ -26,7 +27,7 @@ Meus projetos foram divididos em categorias. Aqui vai um sumário para facilitar
 
 <div align="center">
 
-## 📀 Projetos de sistemas operacionais e projetos relacionados
+## 📀 Projetos de sistemas operacionais
 
 </div>
 
@@ -178,7 +179,15 @@ Durante o ano de 2012, motivado em aprender mais sobre o funcionamento de um sis
 
 </details>
 
-### Projetos relacionados a sistemas operacionais
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
+
+<div align="center">
+
+## :computer: Projetos relacionados a sistemas operacionais
+
+</div>
 
 <details title="osdev (2022-presente)" align='left'>
 <br>
@@ -191,6 +200,22 @@ Durante o ano de 2012, motivado em aprender mais sobre o funcionamento de um sis
 <div align="justify">
 
 osdev é um projeto que visa catalogar e obter mais informações sobre projetos de sistemas operacionais de código livre em atividade, além de fornecer material selecionado que pode auxiliar no desenvolvimento de projetos de sistemas operacionais independentes. Sendo assim, todos os projetos são classificados quanto a família de sistema operacional, arquitetura alvo, se estão disponíveis no GitHub ou não, se estão ativos (com commits com menos de 4 anos) e licença de software. Além disso, o repositório busca levantar e organizar material histórico sobre os sistemas operacionais mais utilizados ou que revolucionaram a computação, como o UNIX.
+
+</div>
+
+</details>
+
+<details title="Run Ancient UNIX (2022-presente)" align='left'>
+<br>
+<summary align='left'>Run Ancient UNIX (2022-presente)</summary>
+
+<p align='center'>
+<a href="https://github.com/felipenlunkes/run-ancient-unix"><img height="180em" src="https://github.com/felipenlunkes/run-ancient-unix/blob/main/doc/banner.png"></a>&nbsp;&nbsp;
+</p>
+
+<div align="justify">
+
+Este projeto/repositório visa facilitar a execução de versões antigas do UNIX, desenvolvidas para arquiteturas descontinuadas, como PDP-11. Isso inclui as versões históricas Version 1 UNIX, Version 5 UNIX e Version 7 UNIX. O projeto inclui um script e um frontend em Python responsáveis por realizar o download de imagens de disco de versões antigas do UNIX, bem como preparar essas imagens para serem executadas em arquiteturas modernas.
 
 </div>
 

@@ -12,7 +12,8 @@
 
 My projects have been divided into categories. A summary to facilitate the search:
 
-* [Operating system projects and related stuff](#-operating-system-projects)
+* [Operating system projects](#-operating-system-projects)
+* [Operating Systems related stuff](#computer-operating-system-related-projects)
 * [Tools and utilities](#-tools-and-utilities)
 * [Platforms](#-platforms)
 * [Tutorials](#-tutorials)
@@ -182,7 +183,15 @@ During 2012, motivated to learn more about how a modern operating system works, 
 
 </details>
 
-### Operating system related projects
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
+
+<div align="center">
+
+## :computer: Operating system related projects
+
+</div>
 
 <details title="osdev (2022-present)" align='left'>
 <br>
@@ -195,6 +204,22 @@ During 2012, motivated to learn more about how a modern operating system works, 
 <div align="justify">
 
 osdev is a project that aims to catalog and obtain more information about active open source operating system projects, in addition to providing selected material that can assist in the development of standalone operating system projects. Therefore, all projects are classified according to operating system family, target architecture, whether they are available on GitHub or not, whether they are active (with commits less than 4 years old) and software license. In addition, the repository seeks to collect and organize historical material about the most used operating systems or those that revolutionized computing, such as UNIX.
+
+</div>
+
+</details>
+
+<details title="Run Ancient UNIX (2022-present)" align='left'>
+<br>
+<summary align='left'>Run Ancient UNIX (2022-present)</summary>
+
+<p align='center'>
+<a href="https://github.com/felipenlunkes/run-ancient-unix"><img height="180em" src="https://github.com/felipenlunkes/run-ancient-unix/blob/main/doc/banner.png"></a>&nbsp;&nbsp;
+</p>
+
+<div align="justify">
+
+This project/repository aims to make it easier to run older versions of UNIX, developed for discontinued architectures, such as PDP-11. This includes the Version 1 UNIX, Version 5 UNIX, and Version 7 UNIX historical versions. The project includes a script and a Python frontend responsible for downloading disk images of old UNIX versions, as well as preparing these images to run on modern architectures.
 
 </div>
 
