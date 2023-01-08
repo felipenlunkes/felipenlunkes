@@ -207,6 +207,12 @@ osdev is a project that aims to catalog and obtain more information about active
 
 </div>
 
+<div align="center">
+
+[![osdev](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=osdev&theme=dark)](https://github.com/felipenlunkes/osdev)
+
+</div>
+
 </details>
 
 <details title="Run Ancient UNIX (2022-present)" align='left'>
@@ -220,6 +226,12 @@ osdev is a project that aims to catalog and obtain more information about active
 <div align="justify">
 
 This project/repository aims to make it easier to run older versions of UNIX, developed for discontinued architectures, such as PDP-11. This includes the Version 1 UNIX, Version 5 UNIX, and Version 7 UNIX historical versions. The project includes a script and a Python frontend responsible for downloading disk images of old UNIX versions, as well as preparing these images to run on modern architectures.
+
+</div>
+
+<div align="center">
+
+[![run-ancient-unix](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=run-ancient-unix&theme=dark)](https://github.com/felipenlunkes/run-ancient-unix)
 
 </div>
 
