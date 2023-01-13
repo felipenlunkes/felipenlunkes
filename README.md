@@ -376,6 +376,8 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipenlunkes&theme=tokyonight&utcOffset=-3">
 
+<img height="180em" src= "https://streak-stats.demolab.com?user=felipenlunkes&theme=tokyonight&hide_border=false">
+    
 <!-- Desativado por enquanto
 
 <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=felipenlunkes&count_private=true&hide_border=false&theme=tokyonight">
