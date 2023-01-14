@@ -352,7 +352,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=7&margin-h=4&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=7&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes)
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true">
 
