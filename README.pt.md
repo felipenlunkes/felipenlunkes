@@ -360,7 +360,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
   
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=10&custom_title=Linguagens%20mais%20usadas&locale=pt-BR">
 
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&count_private=true">
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&count_private=true&include_all_commits=true">
 
 <br>
 
@@ -376,7 +376,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipenlunkes&theme=tokyonight&utcOffset=-3">
 
-<img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=felipenlunkes&custom_title=Atividade%20de%20Felipe%20Lunkes&theme=tokyonight&area=true&hide_border=true">
+<img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=felipenlunkes&custom_title=Atividade%20de%20Felipe%20Lunkes%20no%20GitHub&theme=tokyonight&area=true&hide_border=true">
   
 <!-- Desativado por enquanto
 
