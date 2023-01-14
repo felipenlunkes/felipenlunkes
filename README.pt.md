@@ -376,7 +376,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipenlunkes&theme=tokyonight&utcOffset=-3">
 
-<img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=felipenlunkes&custom_title=Estatísticas%20do%20GitHub%20de%20%20Felipe%20Lunkes&theme=tokyonight&area=true&hide_border=true">
+<img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=felipenlunkes&custom_title=Atividade%20de%20Felipe%20Lunkes&theme=tokyonight&area=true&hide_border=true">
   
 <!-- Desativado por enquanto
 
