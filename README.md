@@ -354,6 +354,8 @@ A list of all my active, non-active and complete projects can be found [here](PR
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=7&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes)
 
+![](https://github-readme-stats.vercel.app/api?username=felipenlunkes&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true">
 
 <!-- Vamos excluir repositórios que não são de minha autoria, como o TROPIX-->
