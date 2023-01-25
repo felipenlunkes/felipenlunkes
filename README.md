@@ -395,7 +395,7 @@ A list of all my active, non-active and complete projects can be found [here](PR
 <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=felipenlunkes&count_private=true&hide_border=false&theme=tokyonight">
 
 -->
- 
+
 </div>
 
 </details>
@@ -420,12 +420,12 @@ A list of all my active, non-active and complete projects can be found [here](PR
 [![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=dark)](https://github.com/hexagonix/fasmx)
 
 </div>
-    
+
 </details>
 
  <!-- Aqui, as visitas ao meu perfil -->
 
-![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=GitHub+profile+views&style=for-the-badge)
+[![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=GitHub+profile+views&style=for-the-badge)](https://github.com/felipenlunkes)
     
 <!-- Vai funcionar como <hr> -->
 

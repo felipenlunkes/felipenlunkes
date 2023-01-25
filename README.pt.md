@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/header.pt.png "Mt Twitter account")](https://twitter.com/felipeldev/)
+[![Header](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/header.pt.png "My Twitter account")](https://twitter.com/felipeldev/)
 
 <div align="center">
   
@@ -394,7 +394,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
 <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=felipenlunkes&count_private=true&hide_border=false&theme=tokyonight">
  
---> 
+-->
 
 </div>
 
@@ -411,7 +411,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 </div>
 
 <div align="center">
-    
+
 [![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=dark)](https://github.com/hexagonix/Hexagon)
 [![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=dark)](https://github.com/hexagonix/Hboot)
 [![Unix-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps&theme=dark)](https://github.com/hexagonix/unix-apps)
@@ -425,7 +425,7 @@ Uma lista com todos os meus projetos ativos, não ativos e completos pode ser en
 
   <!-- Aqui, as visitas ao meu perfil -->
 
-![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=Visitas+ao+perfil&style=for-the-badge)
+[![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=Visitas+ao+perfil&style=for-the-badge)](https://github.com/felipenlunkes)
   
 <!-- Vai funcionar como <hr> -->
 
