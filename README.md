@@ -32,7 +32,9 @@
 
 <div align="justify">
 
-Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist. **I'm in career transition and looking for a first opportunity as a developer**.
+Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
+
+> **I'm in career transition and looking for a first opportunity as a developer**.
 
 * :abacus: Experience implementing projects in C, Python, Java, SQL and x86 Assembly.
 * :seedling: Practice in shell scripting and maintenance/administration of Linux and FreeBSD systems.
