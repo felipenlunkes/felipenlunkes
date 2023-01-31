@@ -305,12 +305,6 @@ Este projeto/repositório visa facilitar a execução de versões antigas do UNI
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
-
-
-<!-- Vai funcionar como <hr> -->
-
-<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
-
 <div align="center">
 
 ## 🧮 Plataformas

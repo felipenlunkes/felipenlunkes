@@ -310,11 +310,6 @@ This project/repository aims to make it easier to run older versions of UNIX, de
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
-
-<!-- Vai funcionar como <hr> -->
-
-<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
-
 <div align="center">
 
 ## 🧮 Platforms
