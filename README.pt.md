@@ -32,15 +32,12 @@
 
 <div align="justify">
 
-Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro.
+Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro. Estou em transição de carreira e em busca de uma primeira oportunidade como desenvolvedor.
 
-* :books: Atualmente estou estudando C, JavaScript, Java e Python com o objetivo de me tornar um desenvolvedor backend ou aproveitar oportunidades como DevOps.
-* :abacus: Usuário fiel de Linux e FreeBSD.
-* :construction: Desenvolvendo o [Sistema Operacional Hexagonix](https://github.com/hexagonix) como hobby.
-* :seedling: Me pergunte sobre design e implementação de sistemas operacionais, Assembly x86 e C.
+* :abacus: Experiência em implementação de projetos em C, Python, Java, SQL e Assembly x86.
+* :seedling: Prática em shell script e manutenção/administração de sistemas Linux e FreeBSD.
+* :books: Atualmente me aprimorando em C, Python, Java e JavaScript com o objetivo de me tornar um desenvolvedor backend e/ou aproveitar oportunidades como DevOps.
 * :mag: Saiba mais sobre mim clicando [aqui](ABOUT.pt.md). Você também pode ver uma lista com todos os meus projetos [aqui](PROJECTS.pt.md) ou os projetos em destaque logo abaixo.
-
-> **Estou em transição de carreira e em busca de uma oportunidade como desenvolvedor.**
 
 </div>
 

@@ -32,15 +32,12 @@
 
 <div align="justify">
 
-Hi! My name is Felipe Lunkes (he/him) and I am a Brazilian developer and biologist.
+Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist. I'm in career transition and looking for a first opportunity as a developer.
 
-* :books: I am currently studying C, JavaScript, Java and Python with the aim of becoming a backend developer or DevOps.
-* :abacus: Linux and FreeBSD user.
-* :seedling: Ask me about OS design and implementation, x86 Assembly and C.
-* :construction: Developing the [Hexagonix Operating System](https://github.com/hexagonix) as a hobby.
-* :mag: Learn more about me [here](ABOUT.en.md). You can also see a list of all my projects [here](PROJECTS.md) or my top 3 projects below.
-
-> **I am in career transition and looking for an opportunity as a developer.**
+* :abacus: Experience implementing projects in C, Python, Java, SQL and x86 Assembly.
+* :seedling: Practice in shell scripting and maintenance/administration of Linux and FreeBSD systems.
+* :books: Currently improving myself in C, Python, Java and JavaScript with the goal of becoming a backend developer and/or taking advantage of opportunities such as DevOps.
+* :mag: Learn more about me by clicking [here](ABOUT.en.md). You can also see a list of all my projects [here](PROJECTS.pt.md) or the featured projects below.
 
 </div>
 

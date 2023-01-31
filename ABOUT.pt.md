@@ -22,9 +22,15 @@
 
 ![A cool divisory inspired by github.com/wrongbyte](https://i.imgur.com/waxVImv.png)
 
+<div align="center">
+
 # 😁 Mais sobre mim
 
+</div>
+
 <div align="justify">
+
+Olá! Aqui vai um pouco mais sobre mim. Para isso, fique a vontade para clicar em cada sessão disponível abaixo!
 
 <details title="Minha trajetória" align='left'>
 <br>
@@ -76,9 +82,10 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 ### :nerd_face: Meus interesses  
 
-* :seedling: Estou aprendendo mais sobre JavaScript, Java, HTML/CSS e Python.
-* :people_hugging: Procuro colaborar em sistemas operacionais, código aberto e projetos comerciais (backend e DevOps).
-* :thinking: Estou procurando ajuda com o desenvolvimento dos sistemas operacionais Hexagonix e Lunix OS.
-* :sparkling_heart: Atualmente, também estou aprendendo mais e praticando Assembly x86 e C, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS e Lunix OS). Sim, esse é o meu hobby! No meu tempo livre, me procure e me achará fazendo isso!
+* :bulb: Possuo noções de utilitários de bioinformática.
+* :construction: Venho desenvolvendo de forma paralela o [Sistema Operacional Hexagonix](https://github.com/hexagonix) como hobby.
+* :mag: Me pergunte sobre design e implementação de sistemas operacionais, Assembly x86 e C.
+* :people_hugging: Procuro colaborar em projetos de código aberto e comerciais (backend e DevOps).
+* :sparkling_heart: Atualmente, também estou aprendendo mais e praticando Assembly x86 e C, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS e Lunix OS). Sim, esse é o meu hobby! No meu tempo livre, me procure e me achará fazendo isso! Assim, venho procurando ajuda com o desenvolvimento dos sistemas operacionais Hexagonix e Lunix OS no tempo livre.
 
 </div>
