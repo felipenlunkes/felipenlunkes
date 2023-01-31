@@ -72,7 +72,15 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 
 </details>
 
-### <img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="30px" height="30px" /> Curiosidades sobre mim
+<!-- Vai funcionar como <!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
+
+<div align="center">
+
+## <img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="30px" height="30px" /> Curiosidades sobre mim
+
+</div>
 
 * :computer: Assembly x86 é minha linguagem favorita e pratico muito no meu tempo livre.
 * :dna: Sou biólogo com ênfase em Biotecnologia e Saúde (UFMG) com experiência em Biologia Molecular.
@@ -80,7 +88,15 @@ Durante o ensino médio, atuei como instrutor de informática para todas as idad
 * :dvd: Tenho uma coleção virtual de sistemas operacionais (mídias de instalação).
 * :night_with_stars: Sou fascinado com sistemas Unix e já usei pelo menos uma vez quase todos os que o homem conhece. Gosto muito de pesquisar mais sobre a história e organização e tentar implementar o modelo no Hexagonix (meu projeto pessoal).
 
-### :nerd_face: Meus interesses  
+<!-- Vai funcionar como <!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
+
+<div align="center">
+
+## :nerd_face: Meus interesses  
+
+</div>
 
 * :bulb: Possuo noções de utilitários de bioinformática.
 * :construction: Venho desenvolvendo de forma paralela o [Sistema Operacional Hexagonix](https://github.com/hexagonix) como hobby.
