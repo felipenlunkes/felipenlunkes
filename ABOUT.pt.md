@@ -34,7 +34,7 @@ Olá! Aqui vai um pouco mais sobre mim. Para isso, fique a vontade para clicar e
 
 <details title="Minha formação" align='left'>
 <br>
-<summary align='left'>📚 Minha formação</summary>
+<summary align='left'>📚 Minha formação acadêmica</summary>
 
 Possuo técnico em informática pela Escola Técnica Vital Brasil (2013) onde me familiarizei com noções de hardware, robótica, HTML/CSS, Pascal, Delphi, C, Java, SQL e VisualBasic. Também me tornei um desenvolvedor Assembly x86 autodidata, desde então. Durante o ensino médio com a formação técnica, atuei como instrutor de informática para todas as idades, junto ao programa do governo federal Telecentros.BR.
 
