@@ -187,6 +187,22 @@ Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasi
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
+
+## :bulb: Meus projetos
+
+</div>
+
+<div align="justify">
+
+Você pode ver uma lista com todos os meus projetos, separados por categoria, [aqui](PROJECTS.pt.md). Você poderá ver cada projeto, tecnologias e frameworks utilizadas e uma breve descrição de cada um.
+
+</div>
+
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
+
+<div align="center">
   
 ## :chart_with_upwards_trend: Estatísticas do meu GitHub
 
