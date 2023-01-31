@@ -32,7 +32,7 @@
 
 <div align="justify">
 
-Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro. Estou em transição de carreira e em busca de uma primeira oportunidade como desenvolvedor.
+Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro. **Estou em transição de carreira e em busca de uma primeira oportunidade como desenvolvedor**.
 
 * :abacus: Experiência em implementação de projetos em C, Python, Java, SQL e Assembly x86.
 * :seedling: Prática em shell script e manutenção/administração de sistemas Linux e FreeBSD.
