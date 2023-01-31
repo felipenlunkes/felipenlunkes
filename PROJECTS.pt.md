@@ -12,12 +12,80 @@
 
 Meus projetos foram divididos em categorias. Aqui vai um sumário para facilitar a busca:
 
+* [Ferramentas e utilitários](#-ferramentas-e-utilitários)
+* [Tutoriais](#-tutoriais)
 * [Projetos de sistemas operacionais](#-projetos-de-sistemas-operacionais)
 * [Material relacionado a sistemas operacionais](#computer-projetos-relacionados-a-sistemas-operacionais)
-* [Ferramentas e utilitários](#-ferramentas-e-utilitários)
 * [Plataformas](#-plataformas)
-* [Tutoriais](#-tutoriais)
 * [Repositórios de aprendizagem](#-repositórios-de-aprendizagem)
+
+</div>
+
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
+
+<div align="center">
+
+## 🛠 Ferramentas e utilitários
+
+</div>
+
+<details title="Java Power Shell (JPS) - não ativo (2013)" align='left'>
+<br>
+<summary align='left'>:one: Java Power Shell (JPS) - não ativo (2013)</summary>
+
+<div align="justify">
+  
+[Java Power Shell (JPS)](https://github.com/felipenlunkes/Java-Power-Shell) é um shell portável desenvolvido em Java e testado em Linux, macOS e Windows.
+  
+</div>
+
+<div align="center">
+   
+[![Java Power Shell](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=Java-Power-Shell&theme=dark)](https://github.com/felipenlunkes/Java-Power-Shell)
+
+</div>
+  
+</details>
+
+<details title="PX BASIC (PXBAS) - não ativo (2013-2014)" align='left'>
+<br>
+<summary align='left'>:two: PX BASIC (PXBAS) - não ativo (2013-2014)</summary>
+
+<div align="justify">
+
+[PXBAS](https://github.com/felipenlunkes/PXBAS) é um simples interpretador BASIC para MS-DOS, FreeDOS, PX-DOS, PDOS e compatíveis. Pode funcionar em versões de 32 bits do Windows.
+
+</div>
+
+<div align="center">
+  
+[![PXBAS](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PXBAS&theme=dark)](https://github.com/felipenlunkes/PXBAS)
+
+</div>
+  
+</details>
+
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
+
+<div align="center">
+
+## 🧑‍🏫 Tutoriais
+
+</div>
+
+<div align="justify">
+
+[OSDevbr](https://github.com/felipenlunkes/osdevbr) é um conjunto de tutoriais e referências em português para que iniciantes possam criar seu primeiro sistema operacional simples para a arquitetura x86.
+
+</div>
+
+<div align="center">
+  
+[![OSDevbr](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=osdevbr&theme=dark)](https://github.com/felipenlunkes/osdevbr)
 
 </div>
 
@@ -237,47 +305,7 @@ Este projeto/repositório visa facilitar a execução de versões antigas do UNI
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
-<div align="center">
 
-## 🛠 Ferramentas e utilitários
-
-</div>
-
-<details title="Java Power Shell (JPS) - não ativo (2013)" align='left'>
-<br>
-<summary align='left'>:one: Java Power Shell (JPS) - não ativo (2013)</summary>
-
-<div align="justify">
-  
-[Java Power Shell (JPS)](https://github.com/felipenlunkes/Java-Power-Shell) é um shell portável desenvolvido em Java e testado em Linux, macOS e Windows.
-  
-</div>
-
-<div align="center">
-   
-[![Java Power Shell](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=Java-Power-Shell&theme=dark)](https://github.com/felipenlunkes/Java-Power-Shell)
-
-</div>
-  
-</details>
-
-<details title="PX BASIC (PXBAS) - não ativo (2013-2014)" align='left'>
-<br>
-<summary align='left'>:two: PX BASIC (PXBAS) - não ativo (2013-2014)</summary>
-
-<div align="justify">
-
-[PXBAS](https://github.com/felipenlunkes/PXBAS) é um simples interpretador BASIC para MS-DOS, FreeDOS, PX-DOS, PDOS e compatíveis. Pode funcionar em versões de 32 bits do Windows.
-
-</div>
-
-<div align="center">
-  
-[![PXBAS](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PXBAS&theme=dark)](https://github.com/felipenlunkes/PXBAS)
-
-</div>
-  
-</details>
 
 <!-- Vai funcionar como <hr> -->
 
@@ -311,30 +339,6 @@ Você pode encontrar minhas explorações no Arduino [aqui](https://github.com/f
 <!-- Vai funcionar como <hr> -->
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
-
-<div align="center">
-
-## 🧑‍🏫 Tutoriais
-
-</div>
-
-<div align="justify">
-
-[OSDevbr](https://github.com/felipenlunkes/osdevbr) é um conjunto de tutoriais e referências em português para que iniciantes possam criar seu primeiro sistema operacional simples para a arquitetura x86.
-
-</div>
-
-<div align="center">
-  
-[![OSDevbr](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=osdevbr&theme=dark)](https://github.com/felipenlunkes/osdevbr)
-
-</div>
-
-<!-- Vai funcionar como <hr> -->
-
-<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
-
-<div align="center">
 
 ## 📚 Repositórios de aprendizagem
 

@@ -12,11 +12,11 @@
 
 My projects have been divided into categories. A summary to facilitate the search:
 
+* [Tools and utilities](#-tools-and-utilities)
+* [Tutorials](#-tutorials)
 * [Operating system projects](#-operating-system-projects)
 * [Operating Systems related stuff](#computer-operating-system-related-projects)
-* [Tools and utilities](#-tools-and-utilities)
 * [Platforms](#-platforms)
-* [Tutorials](#-tutorials)
 * [Learning repositories](#-learning-repositories)
 
 </div>
@@ -24,6 +24,75 @@ My projects have been divided into categories. A summary to facilitate the searc
 <!-- Vai funcionar como <hr> -->
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
+
+<div align="center">
+
+## 🛠 Tools and utilities
+
+</div>
+
+<details title="Java Power Shell (JPS) - not active (2013)" align='left'>
+<br>
+<summary align='left'>:one: Java Power Shell (JPS) - not active (2013)</summary>
+
+<div align="justify">
+
+[Java Power Shell (JPS)](https://github.com/felipenlunkes/Java-Power-Shell) is a portable shell developed in Java and tested on Linux, macOS and Windows.
+
+</div>
+
+<div align="center">
+  
+[![Java Power Shell](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=Java-Power-Shell&theme=dark)](https://github.com/felipenlunkes/Java-Power-Shell)
+
+</div>  
+  
+</details>
+
+<details title="PX BASIC (PXBAS) - not active (2013-2014)" align='left'>
+<br>
+<summary align='left'>:two: PX BASIC (PXBAS) - not active (2013-2014)</summary>
+
+<div align="justify">
+
+[PXBAS](https://github.com/felipenlunkes/PXBAS) is a simple BASIC interpreter for MS-DOS, FreeDOS, PX-DOS, PDOS and compatibles. May work in 32-bits versions of Windows.
+
+</div>
+
+<div align="center">
+  
+[![PXBAS](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PXBAS&theme=dark)](https://github.com/felipenlunkes/PXBAS)
+
+</div>  
+  
+</details>
+
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
+
+<div align="center">
+
+## 🧑‍🏫 Tutorials
+
+</div>
+
+<div align="justify">
+
+[OSDevbr](https://github.com/felipenlunkes/osdevbr) is a set of tutorials and references in Portuguese for beginners to be able to create their first simple operating system for the x86 architecture.
+
+</div>
+
+<div align="center">
+  
+[![OSDevbr](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=osdevbr&theme=dark)](https://github.com/felipenlunkes/osdevbr)
+
+</div>  
+
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
+
 
 <div align="center">
 
@@ -241,47 +310,6 @@ This project/repository aims to make it easier to run older versions of UNIX, de
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
-<div align="center">
-
-## 🛠 Tools and utilities
-
-</div>
-
-<details title="Java Power Shell (JPS) - not active (2013)" align='left'>
-<br>
-<summary align='left'>:one: Java Power Shell (JPS) - not active (2013)</summary>
-
-<div align="justify">
-
-[Java Power Shell (JPS)](https://github.com/felipenlunkes/Java-Power-Shell) is a portable shell developed in Java and tested on Linux, macOS and Windows.
-
-</div>
-
-<div align="center">
-  
-[![Java Power Shell](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=Java-Power-Shell&theme=dark)](https://github.com/felipenlunkes/Java-Power-Shell)
-
-</div>  
-  
-</details>
-
-<details title="PX BASIC (PXBAS) - not active (2013-2014)" align='left'>
-<br>
-<summary align='left'>:two: PX BASIC (PXBAS) - not active (2013-2014)</summary>
-
-<div align="justify">
-
-[PXBAS](https://github.com/felipenlunkes/PXBAS) is a simple BASIC interpreter for MS-DOS, FreeDOS, PX-DOS, PDOS and compatibles. May work in 32-bits versions of Windows.
-
-</div>
-
-<div align="center">
-  
-[![PXBAS](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=PXBAS&theme=dark)](https://github.com/felipenlunkes/PXBAS)
-
-</div>  
-  
-</details>
 
 <!-- Vai funcionar como <hr> -->
 
@@ -312,28 +340,6 @@ You can found my explorations on Arduino [here](https://github.com/felipenlunkes
   
 </details>
 
-<!-- Vai funcionar como <hr> -->
-
-<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
-
-<div align="center">
-
-## 🧑‍🏫 Tutorials
-
-</div>
-
-<div align="justify">
-
-[OSDevbr](https://github.com/felipenlunkes/osdevbr) is a set of tutorials and references in Portuguese for beginners to be able to create their first simple operating system for the x86 architecture.
-
-</div>
-
-<div align="center">
-  
-[![OSDevbr](https://github-readme-stats.vercel.app/api/pin/?username=felipenlunkes&repo=osdevbr&theme=dark)](https://github.com/felipenlunkes/osdevbr)
-
-</div>  
-  
 <!-- Vai funcionar como <hr> -->
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
