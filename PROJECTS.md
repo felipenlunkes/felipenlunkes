@@ -286,7 +286,7 @@ osdev is a project that aims to catalog and obtain more information about active
 
 <details title="Run Ancient UNIX (2022-present)" align='left'>
 <br>
-<summary align='left'>:two: Run Ancient UNIX (2022-present) - Made in shell script</summary>
+<summary align='left'>:two: Run Ancient UNIX (2022-present) - Made in shell script and Python</summary>
 
 <p align='center'>
 <a href="https://github.com/felipenlunkes/run-ancient-unix"><img height="180em" src="https://github.com/felipenlunkes/run-ancient-unix/blob/main/doc/banner.png"></a>&nbsp;&nbsp;
@@ -318,7 +318,7 @@ This project/repository aims to make it easier to run older versions of UNIX, de
 
 <details title="Arduino-based projects - not active (2012-2018)" align='left'>
 <br>
-<summary align='left'>:one: Arduino-based projects - not active (2012-2018) Made in C++</summary>
+<summary align='left'>:one: Arduino-based projects - not active (2012-2018) - Made in C++</summary>
 
 <div align="justify">
 
