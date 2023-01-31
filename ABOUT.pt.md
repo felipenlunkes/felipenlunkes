@@ -32,6 +32,28 @@
 
 Olá! Aqui vai um pouco mais sobre mim. Para isso, fique a vontade para clicar em cada sessão disponível abaixo!
 
+<details title="Minha formação" align='left'>
+<br>
+<summary align='left'>📚 Minha formação</summary>
+
+Possuo técnico em informática pela Escola Técnica Vital Brasil (2013) onde me familiarizei com noções de hardware, robótica, HTML/CSS, Pascal, Delphi, C, Java, SQL e VisualBasic. Também me tornei um desenvolvedor Assembly x86 autodidata, desde então. Durante o ensino médio com a formação técnica, atuei como instrutor de informática para todas as idades, junto ao programa do governo federal Telecentros.BR.
+
+Mais tarde me graduei como bacharel em Ciências Biológicas pela Universidade Federal de Minas Gerais (UFMG), com ênfase em Biotecnologia e Saúde, com foco nas áreas de Bioinformática, Bioquímica e Biologia Molecular.
+
+</details>
+
+<details title="Idiomas" align='left'>
+<br>
+<summary align='left'>:sparkles: Idiomas</summary>
+
+| Idioma        | Proficiência  |
+|:-------------:|:-------------:|
+| Português     | Fluente       |
+| Inglês        | Avançado (C1) |
+| Espanhol      | Intermediário |
+
+</details>
+
 <details title="Minha trajetória" align='left'>
 <br>
 <summary align='left'>:hourglass_flowing_sand: Minha trajetória</summary>
@@ -49,26 +71,6 @@ Sou um usuário leal de código aberto e todos os meus projetos foram lançados 
 <summary align='left'>:computer: Minha experiência</summary>
 
 Hoje, tenho experiência em C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) e Python.
-
-</details>
-
-<details title="Idiomas" align='left'>
-<br>
-<summary align='left'>:sparkles: Idiomas</summary>
-
-| Idioma        | Proficiência  |
-|:-------------:|:-------------:|
-| Português     | Fluente       |
-| Inglês        | Avançado (C1) |
-| Espanhol      | Intermediário |
-
-<details title="Minha formação" align='left'>
-<br>
-<summary align='left'>📚 Minha formação</summary>
-
-Possuo técnico em informática e me graduei como bacharel em Ciências Biológicas pela Universidade Federal de Minas Gerais (UFMG).
-
-Durante o ensino médio, atuei como instrutor de informática para todas as idades, juntamente ao programa do governo federal Telecentros.BR.
 
 </details>
 

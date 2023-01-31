@@ -31,6 +31,28 @@
 
 Hi! Here's a little more about me. For this, feel free to click on each session available below!
 
+<details title="My academic background" align='left'>
+<br>
+<summary align='left'>📚 My academic background</summary>
+
+I have a computer technician from Escola Técnica Vital Brasil (2013) where I became familiar with notions of hardware, robotics, HTML/CSS, Pascal, Delphi, C, Java, SQL and VisualBasic. I've also become a self-taught x86 Assembly developer ever since. During high school with technical training, I worked as a computer instructor for all ages, with the federal government program Telecentros.BR (Brazil).
+
+Later I graduated with a bachelor's degree in Biological Sciences from the Universidade Federal de Minas Gerais (UFMG), with an emphasis on Biotechnology and Health, focusing on the areas of Bioinformatics, Biochemistry and Molecular Biology.
+
+</details>
+
+<details title="Languages" align='left'>
+<br>
+<summary align='left'>:sparkles: Languages</summary>
+
+| Language      | Proficiency     |
+|:-------------:|:---------------:|
+| Portuguese    | Fluent (native) |
+| English       | Advanced (C1)   |
+| Espanish      | Intermediary    |
+
+</details>
+
 <details title="My trajectory" align='left'>
 <br>
 <summary align='left'>:hourglass_flowing_sand: My trajectory</summary>
@@ -48,28 +70,6 @@ I'm a loyal open source user and all my projects have been released with some fr
 <summary align='left'>:computer: My experiences</summary>
 
 Today, I have experience in C, x86 Assembly, Java, Pascal, Basic, Visual Basic (.NET) and Python.
-
-</details>
-
-<details title="Languages" align='left'>
-<br>
-<summary align='left'>:sparkles: Languages</summary>
-
-| Language      | Proficiency     |
-|:-------------:|:---------------:|
-| Portuguese    | Fluent (native) |
-| English       | Advanced (C1)   |
-| Espanish      | Intermediary    |
-
-</details>
-
-<details title="My academic background" align='left'>
-<br>
-<summary align='left'>📚 My academic background</summary>
-
-I am a computer technician and graduated with a bachelor's degree in Biological Sciences from the Federal University of Minas Gerais (UFMG).
-
-During high school, I worked as a computer instructor for all ages, along with the federal government program Telecentros.BR.
 
 </details>
 
