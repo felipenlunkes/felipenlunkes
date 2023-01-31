@@ -73,6 +73,8 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 </details>
 
+</div>
+
 <!-- Vai funcionar como <!-- Vai funcionar como <hr> -->
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
@@ -83,11 +85,15 @@ During high school, I worked as a computer instructor for all ages, along with t
 
 </dev>
 
+<div align="justify">
+
 * :computer: x86 Assembly is my favorite language and I practice a lot in my free time.
 * :dna: I am a biologist with experience in molecular biology.
 * :orange_book: I'm very interested in the history of computing, especially the history of Unix and derivatives.
 * :dvd: I have a virtual collection of operating systems (installation media).
 * :night_with_stars: I am fascinated with Unix systems and have used at least once almost every system known to man. I really enjoy researching more about the history and organization and trying to implement the model in Hexagonix (my personal project).
+
+</div>
 
 <!-- Vai funcionar como <!-- Vai funcionar como <hr> -->
 
@@ -98,6 +104,8 @@ During high school, I worked as a computer instructor for all ages, along with t
 ## :nerd_face: My interests  
 
 </div>
+
+<div align="justify">
 
 * :bulb: I have notions of bioinformatics utilities.
 * :construction: I've been developing the [Hexagonix Operating System](https://github.com/hexagonix) in parallel as a hobby.
