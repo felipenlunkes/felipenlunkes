@@ -25,7 +25,7 @@
 <div align="center">
 
 <table align="right">
- <tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md.md">:brazil: Português</a></td></tr>
+ <tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md.md">:brazil: Versão em português</a></td></tr>
 </table>
 
 # Hi there <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/wave.gif" width="30px" height="30px" />
@@ -315,12 +315,12 @@ You can see a list of all my projects, sorted by category, [here](PROJECTS.md). 
 
 </div>
 
-<!-- Vai funcionar como <hr> -->
+<!--
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
-    
+
 ## :heavy_plus_sign: More
 
 </div>
@@ -330,3 +330,5 @@ You can see a list of all my projects, sorted by category, [here](PROJECTS.md). 
 * <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/Brasil.gif" width="25px" height="15px" /> [Versão em português](README.pt.md) (Portuguese version)
 
 </div>
+
+--> 

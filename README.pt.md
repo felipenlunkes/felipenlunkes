@@ -23,7 +23,11 @@
 ![A cool divisory inspired by github.com/wrongbyte](https://i.imgur.com/waxVImv.png)
 
 <div align="center">
-  
+
+<table align="right">
+ <tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md.md">:uk: English version </a></td></tr>
+</table>
+
 # Olá! <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/wave.gif" width="30px" height="30px" />
 
 ## :technologist: Sobre mim
@@ -322,8 +326,6 @@ Você pode ver uma lista com todos os meus projetos, separados por categoria, [a
 </div>
   
 <div align="justify">
-  
-* <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/UK.gif" width="25px" height="15px" /> [English version](README.md) (versão em inglês)
   
 * <img src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/aed78269-8ef2-4e2b-9f8a-a687fba40bfd.png" width="25px" height="25px" /> [Currículo Lattes](http://lattes.cnpq.br/2540365589952421)
   
