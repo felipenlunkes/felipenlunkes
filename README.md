@@ -37,8 +37,8 @@
 <div align="justify">
 
 <table align="center">
-<tr><td><a href="https://felipenlunkes.github.io/cv">:bulb: My resume </a></td></tr>
-<tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/ABOUT.en.md">😁 More about me </a></td></tr>
+<tr><td><a href="https://felipenlunkes.github.io/cv">:bulb: My resume </a></td>
+<tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/ABOUT.en.md">😁 More about me </a></td>
 <tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md">:heart: My projects </a></td></tr>
 </table>
 
