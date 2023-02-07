@@ -36,11 +36,11 @@
 
 <div align="justify">
 
-Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
-
 <table align="right">
  <tr><td><a href="https://felipenlunkes.github.io/cv">:bulb: My resume </a></td></tr>
 </table>
+
+Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
 
 > **I'm in career transition and looking for a first opportunity as a developer.**
 
