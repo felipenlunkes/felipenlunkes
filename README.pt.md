@@ -37,9 +37,11 @@
 <div align="justify">
 
 <table align="right">
-<tr><td><a href="https://felipenlunkes.github.io/cv">:bulb: Meu currículo </a></td></tr>
-<tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/ABOUT.pt.md">😁 Sobre mim </a></td></tr>
-<tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md">:heart: Meus projetos </a></td></tr>
+<tr>
+<td><a href="https://felipenlunkes.github.io/cv">:bulb: Meu currículo </a></td>
+<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/ABOUT.pt.md">😁 Sobre mim </a></td>
+<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md">:heart: Meus projetos </a></td>
+</tr>
 </table>
 
 Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro.

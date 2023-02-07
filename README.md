@@ -40,7 +40,8 @@
 <tr>
 <td><a href="https://felipenlunkes.github.io/cv">:bulb: My resume </a></td>
 <td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/ABOUT.en.md">😁 More about me </a></td>
-<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md">:heart: My projects </a></td></tr>
+<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md">:heart: My projects </a></td>
+</tr>
 </table>
 
 Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
