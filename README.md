@@ -25,7 +25,7 @@
 <div align="center">
 
 <table align="right">
- <tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md">:brazil: Versão em português</a></td></tr>
+<tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md">:brazil: Versão em português</a></td></tr>
 </table>
 
 # Hi there <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/wave.gif" width="30px" height="30px" />
@@ -37,7 +37,9 @@
 <div align="justify">
 
 <table align="right">
- <tr><td><a href="https://felipenlunkes.github.io/cv">:bulb: My resume </a></td></tr>
+<tr><td><a href="https://felipenlunkes.github.io/cv">:bulb: My resume </a></td></tr>
+<tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/ABOUT.en.md">:mag: More about me </a></td></tr>
+<tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md">:heart: My projects </a></td></tr>
 </table>
 
 Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
