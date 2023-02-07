@@ -1,0 +1,17 @@
+plugins:
+  - jekyll-relative-links
+  - jekyll-remote-theme
+markdown: GFM
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - ABOUT.en.md
+  - ABOUT.pt.md
+  - PROJECTS.md
+  - PROJECTS.pt.md
+  - README.md
+  - README.pt.md
+  - LICENSE
+title: [ ]
+description: [Home sweet home]
