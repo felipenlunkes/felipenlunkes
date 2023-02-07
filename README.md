@@ -51,7 +51,6 @@ Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
 * :abacus: Experience implementing projects in C, Python, Java, SQL and x86 Assembly.
 * :seedling: Practice in shell scripting and maintenance/administration of Linux and FreeBSD systems.
 * :books: Currently improving myself in C, Python, Java and JavaScript with the goal of becoming a backend developer and/or taking advantage of opportunities such as DevOps.
-* :mag: You can also see a list of all my projects [here](PROJECTS.md).
 
 </div>
 
