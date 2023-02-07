@@ -38,7 +38,7 @@
 
 <table align="right">
 <tr><td><a href="https://felipenlunkes.github.io/cv">:bulb: My resume </a></td></tr>
-<tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/ABOUT.en.md">:mag: More about me </a></td></tr>
+<tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/ABOUT.en.md">😁 More about me </a></td></tr>
 <tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md">:heart: My projects </a></td></tr>
 </table>
 
@@ -49,7 +49,7 @@ Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
 * :abacus: Experience implementing projects in C, Python, Java, SQL and x86 Assembly.
 * :seedling: Practice in shell scripting and maintenance/administration of Linux and FreeBSD systems.
 * :books: Currently improving myself in C, Python, Java and JavaScript with the goal of becoming a backend developer and/or taking advantage of opportunities such as DevOps.
-* :mag: Learn more about me by clicking [here](ABOUT.en.md). You can also see a list of all my projects [here](PROJECTS.md).
+* :mag: You can see a list of all my projects [here](PROJECTS.md).
 
 </div>
 

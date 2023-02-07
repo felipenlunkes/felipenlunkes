@@ -25,7 +25,7 @@
 <div align="center">
 
 <table align="right">
- <tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.md">:uk: English version </a></td></tr>
+<tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.md">:uk: English version </a></td></tr>
 </table>
 
 # Olá! <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/wave.gif" width="30px" height="30px" />
@@ -37,7 +37,9 @@
 <div align="justify">
 
 <table align="right">
- <tr><td><a href="https://felipenlunkes.github.io/cv">:bulb: Meu currículo </a></td></tr>
+<tr><td><a href="https://felipenlunkes.github.io/cv">:bulb: Meu currículo </a></td></tr>
+<tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/ABOUT.pt.md">😁 Sobre mim </a></td></tr>
+<tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md">:heart: Meus projetos </a></td></tr>
 </table>
 
 Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro.
@@ -47,7 +49,7 @@ Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasi
 * :abacus: Experiência em implementação de projetos em C, Python, Java, SQL e Assembly x86.
 * :seedling: Prática em shell script e manutenção/administração de sistemas Linux e FreeBSD.
 * :books: Atualmente me aprimorando em C, Python, Java e JavaScript com o objetivo de me tornar um desenvolvedor backend e/ou aproveitar oportunidades como DevOps.
-* :mag: Saiba mais sobre mim clicando [aqui](ABOUT.pt.md). Você também pode ver uma lista com todos os meus projetos [aqui](PROJECTS.pt.md) ou os projetos em destaque logo abaixo.
+* :mag: Você pode ver uma lista com todos os meus projetos [aqui](PROJECTS.pt.md).
 
 </div>
 
