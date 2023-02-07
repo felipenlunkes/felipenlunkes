@@ -321,7 +321,7 @@ Você pode ver uma lista com todos os meus projetos, separados por categoria, [a
 
 </div>
 
-<!-- Vai funcionar como <hr> -->
+<!-- 
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
@@ -334,5 +334,7 @@ Você pode ver uma lista com todos os meus projetos, separados por categoria, [a
 <div align="justify">
   
 * <img src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/aed78269-8ef2-4e2b-9f8a-a687fba40bfd.png" width="25px" height="25px" /> [Currículo Lattes](http://lattes.cnpq.br/2540365589952421)
-  
+
 </div>
+
+-->
