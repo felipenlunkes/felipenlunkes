@@ -107,7 +107,6 @@ Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasi
 </details>
 
 <details title="Sistemas Operacionais e plataformas" align='left'>
-<br>
 <summary align='left'>Sistemas Operacionais e plataformas</summary>
 
 ##### DOS (Disk Operating System) e Windows

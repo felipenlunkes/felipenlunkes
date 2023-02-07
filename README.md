@@ -107,7 +107,6 @@ Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
 </details>
 
 <details title="Operating Systems and platforms" align='left'>
-<br>
 <summary align='left'>Operating Systems and platforms</summary>
 
 ##### DOS (Disk Operating System) and Windows 
