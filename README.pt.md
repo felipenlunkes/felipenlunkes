@@ -40,7 +40,7 @@
  <tr><td><a href="https://felipenlunkes.github.io/cv">:bulb: Meu currículo </a></td></tr>
 </table>
 
-Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro. 
+Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro.
 
 > **Estou em transição de carreira e em busca de uma primeira oportunidade como desenvolvedor.**
 
