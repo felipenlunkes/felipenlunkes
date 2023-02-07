@@ -46,11 +46,11 @@
 
 Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
 
-> **I'm in career transition and looking for a first opportunity as a developer.**
-
 * :abacus: Experience implementing projects in C, Python, Java, SQL and x86 Assembly.
 * :seedling: Practice in shell scripting and maintenance/administration of Linux and FreeBSD systems.
 * :books: Currently improving myself in C, Python, Java and JavaScript with the goal of becoming a backend developer and/or taking advantage of opportunities such as DevOps.
+
+> **I'm in career transition and looking for a first opportunity as a developer.**
 
 </div>
 
