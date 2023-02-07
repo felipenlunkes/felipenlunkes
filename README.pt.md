@@ -25,7 +25,7 @@
 <div align="center">
 
 <table align="right">
- <tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.en.md">:uk: English version </a></td></tr>
+ <tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.md">:uk: English version </a></td></tr>
 </table>
 
 # Olá! <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/wave.gif" width="30px" height="30px" />
