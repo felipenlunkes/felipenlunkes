@@ -38,6 +38,10 @@
 
 Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro. 
 
+<table align="right">
+ <tr><td><a href="https://felipenlunkes.github.io/cv">:bulb: Meu currículo </a></td></tr>
+</table>
+
 > **Estou em transição de carreira e em busca de uma primeira oportunidade como desenvolvedor. [Meu currículo](https://felipenlunkes.github.io/cv).**
 
 * :abacus: Experiência em implementação de projetos em C, Python, Java, SQL e Assembly x86.
