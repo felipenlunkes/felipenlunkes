@@ -319,6 +319,9 @@ Você pode ver uma lista com todos os meus projetos, separados por categoria, [a
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
+![Core2Duo](https://img.shields.io/badge/Intel-Core_2_Duo-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![ChromeOSFlex]https://img.shields.io/badge/ChromeOS_Flex-23B92B27?style=for-the-badge&logo=GoogleChrome&logoColor=white
+  
 </div>
 
 <!-- 
