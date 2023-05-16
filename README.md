@@ -135,6 +135,7 @@ Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
 ![Pop](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![ChromeOS](https://img.shields.io/badge/ChromeOS-372213?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 </div>
 
