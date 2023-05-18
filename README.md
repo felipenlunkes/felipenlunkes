@@ -24,14 +24,6 @@
 
 <div align="center">
 
-<table align="right">
-<tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md">:brazil: Versão em português</a></td></tr>
-</table>
-
-# Hi there <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/wave.gif" width="30px" height="30px" />
-
-<div align="center">
-
 ## :warning: Career Transition
 
 </div>
@@ -45,6 +37,14 @@ Hello everybody! I'm in career transition and looking for a first opportunity as
 <!-- Vai funcionar como <hr> -->
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
+
+<div align="center">
+
+<table align="right">
+<tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md">:brazil: Versão em português</a></td></tr>
+</table>
+
+# Hi there <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/wave.gif" width="30px" height="30px" />
 
 ## :technologist: About me
 
