@@ -30,20 +30,6 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/wave.gif" width="30px" height="30px" />
 
-## :technologist: About me
-
-</div>
-
-<div align="justify">
-
-<table align="center">
-<tr>
-<td><a href="https://felipenlunkes.github.io/cv">:bulb: My resume </a></td>
-<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/ABOUT.en.md">😁 More about me </a></td>
-<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md">:heart: My projects </a></td>
-</tr>
-</table>
-
 <div align="center">
 
 ## :warning: Career Transition
@@ -59,6 +45,20 @@ Hello everybody! I'm in career transition and looking for a first opportunity as
 <!-- Vai funcionar como <hr> -->
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
+
+## :technologist: About me
+
+</div>
+
+<div align="justify">
+
+<table align="center">
+<tr>
+<td><a href="https://felipenlunkes.github.io/cv">:bulb: My resume </a></td>
+<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/ABOUT.en.md">😁 More about me </a></td>
+<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md">:heart: My projects </a></td>
+</tr>
+</table>
 
 > :warning: **I'm in career transition and looking for a first opportunity as a developer.**
 
