@@ -199,22 +199,6 @@ Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
 
 <div align="center">
 
-## :bulb: Projects
-
-</div>
-
-<div align="justify">
-
-You can see a list of all my projects, sorted by category, [here](PROJECTS.md). You will be able to see each project, technologies and frameworks used and a brief description of each one.
-
-</div>
-
-<!-- Vai funcionar como <hr> -->
-
-<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
-
-<div align="center">
-
 ## :chart_with_upwards_trend: GitHub Stats
 
 </div>
