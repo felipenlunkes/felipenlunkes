@@ -44,7 +44,7 @@
 </tr>
 </table>
 
-> :bangbang: **I'm in career transition and looking for a first opportunity as a developer.**
+> :warning: **I'm in career transition and looking for a first opportunity as a developer.**
 
 Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
 

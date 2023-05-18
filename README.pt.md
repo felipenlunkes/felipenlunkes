@@ -44,7 +44,7 @@
 </tr>
 </table>
 
-> :bangbang: **Estou em transição de carreira e em busca de uma primeira oportunidade como desenvolvedor.**
+> :warning: **Estou em transição de carreira e em busca de uma primeira oportunidade como desenvolvedor.**
 
 Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro.
 
