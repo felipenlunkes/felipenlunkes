@@ -44,6 +44,22 @@
 </tr>
 </table>
 
+<div align="center">
+
+## :warning: Career Transition
+
+</div>
+
+<div align="justify">
+
+Hello everybody! I'm in career transition and looking for a first opportunity as a developer. As you can see in my [projects](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md), I have experience in Java, C, Python, SQL and x86 Assembly. Below, a list of languages ​​and technologies that I master. Help this junior developer with a first opportunity! :heart:
+
+</div>
+
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
+
 > :warning: **I'm in career transition and looking for a first opportunity as a developer.**
 
 Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
@@ -76,22 +92,6 @@ Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/lunx#7702)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/felipeldev)
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/felipelunkes)
-
-</div>
-
-<!-- Vai funcionar como <hr> -->
-
-<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
-
-<div align="center">
-
-## :warning: Career Transition
-
-</div>
-
-<div align="justify">
-
-Hello everybody! I'm in career transition and looking for a first opportunity as a developer. As you can see in my [projects](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md), I have experience in Java, C, Python, SQL and x86 Assembly. Below, a list of languages ​​and technologies that I master. Help this junior developer with a first opportunity! :heart:
 
 </div>
 
