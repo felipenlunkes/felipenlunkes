@@ -85,6 +85,22 @@ Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
 
 <div align="center">
 
+## :warning: Career Transition
+
+</div>
+
+<div align="justify">
+
+Hello everybody! I'm in career transition and looking for a first opportunity as a developer. As you can see in my [projects](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md), I have experience in Java, C, Python, SQL and x86 Assembly. Below, a list of languages ​​and technologies that I master. Help this junior developer with a first opportunity! :heart:
+
+</div>
+
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
+
+<div align="center">
+
 ## :hammer_and_wrench: Skills
 
 </div>
