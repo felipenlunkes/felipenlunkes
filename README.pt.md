@@ -44,13 +44,13 @@
 </tr>
 </table>
 
+> **Estou em transição de carreira e em busca de uma primeira oportunidade como desenvolvedor.**
+
 Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro.
 
-* :abacus: Experiência em implementação de projetos em C, Python, Java, SQL e Assembly x86.
+* :abacus: Experiência em implementação de projetos em **C**, **Python**, **Java**, **SQL** e **Assembly x86**.
 * :seedling: Prática em shell script e manutenção/administração de sistemas Linux e FreeBSD.
 * :books: Atualmente me aprimorando em C, Python, Java e JavaScript com o objetivo de me tornar um desenvolvedor backend e/ou aproveitar oportunidades como DevOps.
-
-> **Estou em transição de carreira e em busca de uma primeira oportunidade como desenvolvedor.**
 
 </div>
 
