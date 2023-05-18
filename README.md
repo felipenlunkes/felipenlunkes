@@ -60,8 +60,6 @@ Hello everybody! I'm in career transition and looking for a first opportunity as
 </tr>
 </table>
 
-> :warning: **I'm in career transition and looking for a first opportunity as a developer.**
-
 Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
 
 * :abacus: Experience implementing projects in **C**, **Python**, **Java**, **SQL** and **x86 Assembly**.
