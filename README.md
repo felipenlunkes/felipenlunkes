@@ -24,7 +24,7 @@
 
 <div align="center">
 
-## :warning: Career Transition
+## :warning: Career transition - looking for a job
 
 </div>
 

@@ -24,7 +24,7 @@
 
 <div align="center">
 
-## :warning: Transição de carreira
+## :warning: Transição de carreira - procurando uma vaga
 
 </div>
 
