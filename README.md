@@ -296,11 +296,15 @@ Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
 ![windows-11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
+<!--
+
 ![AMD E1](https://img.shields.io/badge/AMD-E1-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Radeon 8210](https://img.shields.io/badge/AMD-Radeon_HD_8210-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+-->
 
 ![Core2Duo](https://img.shields.io/badge/Intel-Core_2_Duo-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![MacBook](https://img.shields.io/badge/Apple-MacBook_White_2008-330F63?style=for-the-badge&logo=Apple&logoColor=white)
