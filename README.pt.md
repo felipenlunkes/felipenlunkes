@@ -24,22 +24,6 @@
 
 <div align="center">
 
-## :warning: Transição de carreira - procurando uma vaga
-
-</div>
-
-<div align="justify">
-
-Olá a todos! Estou em transição de carreira e busco uma primeira oportunidade como desenvolvedor. Como você pode ver em meus [projetos](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.pt.md), tenho experiência em Java, C, Python, SQL e Assembly x86. Abaixo, uma lista de linguagens e tecnologias que domino. Ajude esse desenvolvedor júnior com uma primeira oportunidade! :heart:
-
-</div>
-
-<!-- Vai funcionar como <hr> -->
-
-<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
-
-<div align="center">
-
 <table align="right">
 <tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.md">:uk: English version </a></td></tr>
 </table>
