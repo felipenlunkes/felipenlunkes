@@ -251,29 +251,6 @@ Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasi
 
 </details>
 
-<details title="Alguns dos repositórios mantidos por mim e hospedados em outra conta" align='left'>
-<br>
-<summary align='left'>:sparkles: Alguns dos repositórios mantidos por mim e hospedados em outra conta</summary>
-
-<div align="justify">
-
-> Os repositórios abaixo foram criados e são mantidos por mim, hospedados em outras contas de projetos específicos ou de `organização` (como [Hexagonix](https://github.com/hexagonix), por exemplo):
-
-</div>
-
-<div align="center">
-
-[![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=dark)](https://github.com/hexagonix/Hexagon)
-[![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=dark)](https://github.com/hexagonix/Hboot)
-[![Unix-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps&theme=dark)](https://github.com/hexagonix/unix-apps)
-[![Andromeda-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps&theme=dark)](https://github.com/hexagonix/andromeda-apps)
-[![xfnt](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps&theme=dark)](https://github.com/hexagonix/xfnt)
-[![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=dark)](https://github.com/hexagonix/fasmx)
-
-</div>
-  
-</details>
-
   <!-- Aqui, as visitas ao meu perfil -->
 
 [![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=Visitas+ao+perfil&style=for-the-badge)](https://github.com/felipenlunkes)
