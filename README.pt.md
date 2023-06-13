@@ -44,7 +44,7 @@
 </tr>
 </table>
 
-Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor backend atuando na Orsegups Participações S/A.
+Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor backend.
 
 * :abacus: Experiência em implementação de projetos em **C**, **Python**, **Java**, **SQL** e **Assembly x86**.
 * :seedling: Prática em shell script e manutenção/administração de sistemas Linux e FreeBSD.
