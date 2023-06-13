@@ -44,7 +44,7 @@
 </tr>
 </table>
 
-Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
+Hi! My name is Felipe Lunkes (he/his) and I'm a backend developer working at Orsegups Participações S/A.
 
 * :abacus: Experience implementing projects in **C**, **Python**, **Java**, **SQL** and **x86 Assembly**.
 * :seedling: Practice in shell scripting and maintenance/administration of Linux and FreeBSD systems.
@@ -59,6 +59,12 @@ Hi! My name is Felipe (he/him) and I'm a Brazilian developer and biologist.
 <div align="center">
 
 ### <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/message.gif" width="30px" height="30px" /> Social and contact
+
+</div>
+
+<div align="justify">
+
+Feel free to contact me through any of the platforms below:
 
 </div>
 

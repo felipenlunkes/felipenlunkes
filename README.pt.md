@@ -44,7 +44,7 @@
 </tr>
 </table>
 
-Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasileiro.
+Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor backend atuando na Orsegups Participações S/A.
 
 * :abacus: Experiência em implementação de projetos em **C**, **Python**, **Java**, **SQL** e **Assembly x86**.
 * :seedling: Prática em shell script e manutenção/administração de sistemas Linux e FreeBSD.
@@ -59,6 +59,12 @@ Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor e biólogo brasi
 <div align="center">
 
 ### <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/message.gif" width="30px" height="30px" /> Redes sociais e contato
+
+</div>
+
+<div align="justify">
+
+Sinta-se a vontade para entrar em contato comigo por meio de alguma das plataformas abaixo:
 
 </div>
 
