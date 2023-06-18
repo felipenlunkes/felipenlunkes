@@ -112,6 +112,6 @@ Hoje, tenho experiência em C, x86 Assembly, Java, Pascal, Basic, Visual Basic (
 * :construction: Venho desenvolvendo de forma paralela o [Sistema Operacional Hexagonix](https://github.com/hexagonix) como hobby.
 * :mag: Me pergunte sobre design e implementação de sistemas operacionais, Assembly x86 e C.
 * :people_hugging: Procuro colaborar em projetos de código aberto e comerciais (backend e DevOps).
-* :sparkling_heart: Atualmente, também estou aprendendo mais e praticando Assembly x86 e C, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS e Lunix OS). Sim, esse é o meu hobby! No meu tempo livre, me procure e me achará fazendo isso. Assim, venho procurando ajuda com o desenvolvimento dos sistemas operacionais Hexagonix e Lunix OS no tempo livre.
+* :sparkling_heart: Atualmente, também estou aprendendo mais e praticando Assembly x86 e C, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS e Lunix OS).
 
 </div>
