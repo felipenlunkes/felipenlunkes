@@ -90,9 +90,9 @@ Hoje, tenho experiência em C, x86 Assembly, Java, Pascal, Basic, Visual Basic (
 
 * :computer: Assembly x86 é minha linguagem favorita e pratico muito no meu tempo livre.
 * :dna: Sou biólogo com ênfase em Biotecnologia e Saúde (UFMG) com experiência em Biologia Molecular.
-* :orange_book: Me interesso muito pela história da computação, principalmente a história do Unix e derivados.
+* :orange_book: Me interesso muito pela história da computação, principalmente a história do UNIX e derivados.
 * :dvd: Tenho uma coleção virtual de sistemas operacionais (mídias de instalação).
-* :night_with_stars: Sou fascinado com sistemas Unix e já usei pelo menos uma vez quase todos os que o homem conhece. Gosto muito de pesquisar mais sobre a história e organização e tentar implementar o modelo no Hexagonix (meu projeto pessoal).
+* :night_with_stars: Sou fascinado com sistemas Unix-like e já usei pelo menos uma vez quase todos os que o homem conhece. Gosto muito de pesquisar mais sobre a história e organização e tentar implementar o modelo no Hexagonix (meu projeto pessoal).
 
 </div>
 
@@ -112,6 +112,6 @@ Hoje, tenho experiência em C, x86 Assembly, Java, Pascal, Basic, Visual Basic (
 * :construction: Venho desenvolvendo de forma paralela o [Sistema Operacional Hexagonix](https://github.com/hexagonix) como hobby.
 * :mag: Me pergunte sobre design e implementação de sistemas operacionais, Assembly x86 e C.
 * :people_hugging: Procuro colaborar em projetos de código aberto e comerciais (backend e DevOps).
-* :sparkling_heart: Atualmente, também estou aprendendo mais e praticando Assembly x86 e C, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS e Lunix OS). Sim, esse é o meu hobby! No meu tempo livre, me procure e me achará fazendo isso! Assim, venho procurando ajuda com o desenvolvimento dos sistemas operacionais Hexagonix e Lunix OS no tempo livre.
+* :sparkling_heart: Atualmente, também estou aprendendo mais e praticando Assembly x86 e C, desenvolvimento baremetal e implementação de sistemas operacionais (Hexagonix OS e Lunix OS). Sim, esse é o meu hobby! No meu tempo livre, me procure e me achará fazendo isso. Assim, venho procurando ajuda com o desenvolvimento dos sistemas operacionais Hexagonix e Lunix OS no tempo livre.
 
 </div>

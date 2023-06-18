@@ -39,7 +39,7 @@
 <table align="center">
 <tr>
 <td><a href="https://felipenlunkes.github.io/cv">:bulb: Meu currículo </a></td>
-<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/ABOUT.pt.md">😁 Sobre mim </a></td>
+<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/ABOUT.pt.md">😁 Mais sobre mim </a></td>
 <td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.pt.md">:heart: Meus projetos </a></td>
 </tr>
 </table>
@@ -47,8 +47,9 @@
 Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor backend.
 
 * :abacus: Experiência em implementação de projetos em **C**, **Python**, **Java**, **SQL** e **Assembly x86**.
-* :seedling: Prática em shell script e manutenção/administração de sistemas Linux e FreeBSD.
+* :seedling: Prática em shell script e manutenção/administração de sistemas UNIX-like (Linux, FreeBSD e macOS).
 * :books: Atualmente me aprimorando em Python, Java e Rust.
+* :heart: Desenvolvendo o [Sistema Operacional Hexagonix](https://github.com/hexagonix) (Hexagonix OS) como hobby.
 
 </div>
 

@@ -89,9 +89,9 @@ Today, I have experience in C, x86 Assembly, Java, Pascal, Basic, Visual Basic (
 
 * :computer: x86 Assembly is my favorite language and I practice a lot in my free time.
 * :dna: I am a biologist with experience in molecular biology.
-* :orange_book: I'm very interested in the history of computing, especially the history of Unix and derivatives.
+* :orange_book: I'm very interested in the history of computing, especially the history of UNIX and derivatives.
 * :dvd: I have a virtual collection of operating systems (installation media).
-* :night_with_stars: I am fascinated with Unix systems and have used at least once almost every system known to man. I really enjoy researching more about the history and organization and trying to implement the model in Hexagonix (my personal project).
+* :night_with_stars: I am fascinated with Unix-like systems and have used at least once almost every system known to man. I really enjoy researching more about the history and organization and trying to implement the model in Hexagonix (my personal project).
 
 </div>
 
@@ -111,6 +111,6 @@ Today, I have experience in C, x86 Assembly, Java, Pascal, Basic, Visual Basic (
 * :construction: I've been developing the [Hexagonix Operating System](https://github.com/hexagonix) in parallel as a hobby.
 * :mag: Ask me about design and implementation of operating systems, x86 assembly and C.
 * :people_hugging: I'm looking to collaborate on open source and commercial projects (backend and DevOps).
-* :sparkling_heart: I'm also currently learning more and practicing x86 Assembly and C, baremetal development and operating system deployment (Hexagonix OS and Lunix OS). Yes, this is my hobby! In my free time, look for me and you will find me doing this! So I've been looking for help with the development of the Hexagonix and Lunix OS operating systems in my spare time.
+* :sparkling_heart: I'm also currently learning more and practicing x86 Assembly and C, baremetal development and operating system deployment (Hexagonix OS and Lunix OS). Yes, this is my hobby! In my free time, look for me and you will find me doing this. So I've been looking for help with the development of the Hexagonix and Lunix OS operating systems in my spare time.
 
 </div>
