@@ -211,17 +211,17 @@ Feel free to contact me through any of the platforms below:
 [![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=7&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats)
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true&PAT_1">
 </a>
 
 <!-- Vamos excluir repositórios que não são de minha autoria, como o TROPIX-->
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=10">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=10&PAT_1">
 </a>
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&count_private=true&include_all_commits=true">
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&count_private=true&include_all_commits=true&PAT_1">
 </a>
 
 <br>
@@ -235,15 +235,15 @@ Feel free to contact me through any of the platforms below:
 <div align="center">
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight&count_private=true">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight&count_private=true&PAT_1">
 </a>
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipenlunkes&theme=tokyonight&utcOffset=-3">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipenlunkes&theme=tokyonight&utcOffset=-3&PAT_1">
 </a>
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
-<img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=felipenlunkes&custom_title=Felipe%20Lunkes's%20GitHub%20Activity&theme=tokyonight&area=true&hide_border=true">
+<img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=felipenlunkes&custom_title=Felipe%20Lunkes's%20GitHub%20Activity&theme=tokyonight&area=true&hide_border=true&PAT_1">
 </a>
 
 <!-- Desativado por enquanto
