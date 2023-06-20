@@ -248,9 +248,9 @@ Feel free to contact me through any of the platforms below:
 <img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=felipenlunkes&custom_title=Felipe%20Lunkes's%20GitHub%20Activity&theme=tokyonight&area=true&hide_border=true&PAT_1">
 </a>
 
--->
-
 <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=felipenlunkes&count_private=true&hide_border=false&theme=tokyonight">
+
+-->
 
 </div>
 
