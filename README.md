@@ -297,8 +297,8 @@ Feel free to contact me through any of the platforms below:
 ![mx-110](https://img.shields.io/badge/NVIDIA-MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![windows-11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![intelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 <!--
 
