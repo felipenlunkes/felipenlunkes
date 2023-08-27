@@ -235,7 +235,7 @@ Feel free to contact me through any of the platforms below:
 <!-- [![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=7&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats) -->
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
-<img height="120em" src="https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=7&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true">
+<img height="80em" src="https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=7&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true">
 </a>
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
