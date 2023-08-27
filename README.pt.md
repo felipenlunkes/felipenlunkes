@@ -246,10 +246,6 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=10&custom_title=Linguagens%20mais%20usadas&locale=pt-BR&PAT_1">
 </a>
 
-<a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github&PAT_1">
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&count_private=true&include_all_commits=true&PAT_1">
-</a>
-
 <br>
 
 </div>
@@ -259,6 +255,10 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 <summary align='left'>:bar_chart: Estatísticas detalhadas</summary>
 
 <div align="center">
+
+<a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github&PAT_1">
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&count_private=true&include_all_commits=true&PAT_1">
+</a>
 
 <a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight&count_private=true&PAT_1">
