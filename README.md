@@ -313,11 +313,6 @@ Feel free to contact me through any of the platforms below:
 
 -->
 
-![Core2Duo](https://img.shields.io/badge/Intel-Core_2_Duo-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![MacBook](https://img.shields.io/badge/Apple-MacBook_White_2008-330F63?style=for-the-badge&logo=Apple&logoColor=white)
-![OSX](https://img.shields.io/badge/Apple-OS_X-000000?style=for-the-badge&logo=macOS&logoColor=white)
-![ChromeOSFlex](https://img.shields.io/badge/ChromeOS_Flex-372213?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-
 </div>
 
 <!--
