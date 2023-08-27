@@ -96,7 +96,7 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 <br>
 <summary align='left'>Linguagens de programação</summary>
 
-<div align="left">
+<div align="justify">
 
 ![assembly](https://img.shields.io/badge/Assembly-F57842?style=for-the-badge&logo=assembly&logoColor=white)
 ![c](https://img.shields.io/badge/C-F5b342?style=for-the-badge&logo=c&logoColor=white)
@@ -208,7 +208,7 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 <br>
 <summary align='left'>Ferramentas de design</summary>
 
-<div align="center">
+<div align="justify">
 
 ![canva](https://img.shields.io/badge/Canva-F28A22?style=for-the-badge&logo=canva&logoColor=white)
 ![creative_cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
