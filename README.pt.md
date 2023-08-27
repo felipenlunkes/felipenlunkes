@@ -268,6 +268,7 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipenlunkes&theme=tokyonight&utcOffset=-3&PAT_1">
 </a>
 
+<!-- Desativado por enquanto - aparentemente, os serviços não funcionam mais
 
 <a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github">
 <img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=felipenlunkes&custom_title=Atividade%20de%20Felipe%20Lunkes%20no%20GitHub&theme=tokyonight&area=true&hide_border=true&PAT_1">
@@ -275,6 +276,7 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 
 <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=felipenlunkes&count_private=true&hide_border=false&theme=tokyonight&PAT_1">
  
+-->
 
 </div>
 
