@@ -259,7 +259,7 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 <div align="center">
 
 <a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github&PAT_1">
-<img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&count_private=true&include_all_commits=true&PAT_1">
+<img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&show_margins=false&count_private=true&include_all_commits=true&PAT_1">
 </a>
 
 <a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github">
