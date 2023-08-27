@@ -244,9 +244,9 @@ Feel free to contact me through any of the platforms below:
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=10&PAT_1">
 </a>
 
-<br>
-
 </div>
+
+<br>
 
 <details title="Detailed statistics" align='left'>
 <br>
@@ -257,7 +257,7 @@ Feel free to contact me through any of the platforms below:
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&count_private=true&include_all_commits=true&PAT_1">
 </a>
-
+<br>
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight&count_private=true&PAT_1">
 </a>
