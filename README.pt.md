@@ -235,7 +235,7 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 <div align="center">
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
-<img height="90em" src="https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=7&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true">
+<img height="95em" src="https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=7&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true">
 </a>
 
 <a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github&PAT_1">
