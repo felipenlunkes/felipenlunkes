@@ -188,13 +188,13 @@ Feel free to contact me through any of the platforms below:
 ##### Git
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-8117EB?style=for-the-badge&logo=github&logoColor=white)
 ![bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-8117EB?style=for-the-badge&logo=github&logoColor=white)
 
 ##### Workflow
 
-![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ##### Virtualization
 
