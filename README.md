@@ -257,7 +257,7 @@ Feel free to contact me through any of the platforms below:
 <div align="center">
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
-<img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&show_margins=false&count_private=true&include_all_commits=true&PAT_1">
+<img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&show_margin=false&count_private=true&include_all_commits=true&PAT_1">
 </a>
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight&count_private=true&PAT_1">
