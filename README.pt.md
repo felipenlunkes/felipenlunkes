@@ -170,7 +170,7 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 
 ##### IDEs
 
-<div align="center">
+<div align="justify">
 
 ![android_studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![arduino_IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
