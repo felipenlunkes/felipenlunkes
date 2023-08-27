@@ -237,13 +237,13 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 [![Trophies](https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=1&column=7&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)](https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github)
 
 <a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github&PAT_1">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true&custom_title=Estatísticas%20de%20felipenlunkes&locale=pt-BR&PAT_1">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true&custom_title=Estatísticas%20de%20felipenlunkes&locale=pt-BR&PAT_1">
 </a>
 
 <!-- Vamos excluir repositórios que não são de minha autoria, como o TROPIX-->
 
 <a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=10&custom_title=Linguagens%20mais%20usadas&locale=pt-BR&PAT_1">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=10&custom_title=Linguagens%20mais%20usadas&locale=pt-BR&PAT_1">
 </a>
 
 <br>
