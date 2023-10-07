@@ -46,7 +46,7 @@
 
 Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor backend (atuando com Java).
 
-* :abacus: Experiência em implementação de projetos em **C**, **Python**, **Java**, **SQL** e **Assembly x86**.
+* :abacus: Experiência em implementação de projetos em **Assembly x86**, **Java**, **C** e **Python**.
 * :seedling: Prática em shell script e manutenção/administração de sistemas UNIX-like (Linux, FreeBSD e macOS).
 * :books: Atualmente me aprimorando em Python, Java e Rust.
 * :heart: Desenvolvendo o [Sistema Operacional Hexagonix](https://github.com/hexagonix) (Hexagonix OS) como hobby.

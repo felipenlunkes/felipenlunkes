@@ -46,7 +46,7 @@
 
 Hi! My name is Felipe Lunkes (he/his) and I'm a backend developer (working with Java).
 
-* :abacus: Experience implementing projects in **C**, **Python**, **Java**, **SQL** and **x86 Assembly**.
+* :abacus: Experience implementing projects in **x86 Assembly**, **Java**, **C** and **Python**.
 * :seedling: Practice in shell scripting and maintenance/administration of Linux and FreeBSD systems.
 * :books: Currently improving myself in Python, Java and Rust.
 * :heart: Developing the [Hexagonix Operating System](https://github.com/hexagonix) (Hexagonix OS) as a hobby.
