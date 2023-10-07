@@ -44,7 +44,7 @@
 </tr>
 </table>
 
-Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor backend (Java).
+Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor backend (atuando com Java).
 
 * :abacus: Experiência em implementação de projetos em **C**, **Python**, **Java**, **SQL** e **Assembly x86**.
 * :seedling: Prática em shell script e manutenção/administração de sistemas UNIX-like (Linux, FreeBSD e macOS).
