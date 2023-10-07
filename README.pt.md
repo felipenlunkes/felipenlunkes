@@ -51,6 +51,8 @@ Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor backend (Java).
 * :books: Atualmente me aprimorando em Python, Java e Rust.
 * :heart: Desenvolvendo o [Sistema Operacional Hexagonix](https://github.com/hexagonix) (Hexagonix OS) como hobby.
 
+> Aviso! Essa conta não é utilizada profissionalmente, apenas para projetos **pessoais** e **colaborativos**.
+
 </div>
 
 <!--
