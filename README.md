@@ -51,7 +51,7 @@ Hi! My name is Felipe Lunkes (he/his) and I'm a backend developer (working with 
 * :books: Currently improving myself in Python, Java and Rust.
 * :heart: Developing the [Hexagonix Operating System](https://github.com/hexagonix) (Hexagonix OS) as a hobby.
 
-> Warning! This account is not used professionally, only for **personal** and **collaborative** projects.
+> **Warning! This account is not used for professional purposes, only for personal and collaborative projects.**
 
 </div>
 
