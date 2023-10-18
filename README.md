@@ -17,7 +17,7 @@
 [![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Arduino-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
-
+[![](https://github.com/felipenlunkes/felipenlunkes/blob/main/img/wave.gif)](https://github.com/felipenlunkes)
 </div>
 
 ![A cool divisory inspired by github.com/wrongbyte](https://i.imgur.com/waxVImv.png)
