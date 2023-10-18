@@ -28,7 +28,7 @@
 <tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md">:brazil: Versão em português</a></td></tr>
 </table>
 
-# Hi there [<img src="https://github.com/felipenlunkes/felipenlunkes/blob/main/img/wave.gif" width="30px" height="30px" />]
+# Hi there [<img src="https://github.com/felipenlunkes/felipenlunkes/blob/main/img/wave.gif" width="30px" height="30px" />]()
 
 ## :technologist: About me
 
