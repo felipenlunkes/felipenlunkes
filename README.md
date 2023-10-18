@@ -28,7 +28,7 @@
 <tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md">:brazil: Versão em português</a></td></tr>
 </table>
 
-# [<img src="https://github.com/felipenlunkes/felipenlunkes/blob/main/img/wave.gif" width="30px" height="30px" />]() Hi there
+# [<img src="https://github.com/felipenlunkes/felipenlunkes/blob/main/img/wave.gif" width="30px" height="30px"/>]() Hi there
 
 ## :technologist: About me
 
@@ -61,7 +61,7 @@ Hi! My name is Felipe Lunkes (he/his) and I'm a backend developer (working with 
 
 <div align="center">
 
-### [<img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/message.gif" width="30px" height="30px" />]() Social and contact
+### [<img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/message.gif" width="30px" height="30px"/>]() Social and contact
 
 </div>
 
