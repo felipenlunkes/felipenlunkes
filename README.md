@@ -61,7 +61,7 @@ Hi! My name is Felipe Lunkes (he/his) and I'm a backend developer (working with 
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/message.gif" width="30px" height="30px" /> Social and contact
+### [<img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/message.gif" width="30px" height="30px" />]() Social and contact
 
 </div>
 
