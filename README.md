@@ -44,7 +44,7 @@
 </tr>
 </table>
 
-Hi! My name is Felipe Lunkes (he/his) and I'm a backend developer (working with Java).
+Hi! My name is Felipe Lunkes (he/him) and I'm a backend developer (working with Java).
 
 * :abacus: Experience implementing projects in **x86 Assembly**, **Java**, **C** and **Python**.
 * :seedling: Practice in shell scripting and maintenance/administration of Linux and FreeBSD systems.
