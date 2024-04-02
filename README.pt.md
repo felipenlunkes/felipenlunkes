@@ -56,7 +56,7 @@ Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor backend (atuando
 </div>
 
 <!--
-- 📫 How to reach me: [@felipeldev on Twitter](https://twitter.com/felipeldev), [@dev_lipe on Instagram](https://instagram.com/dev_lipe) or felipemiguel_nery@hotmail.com
+- 📫 How to reach me: [@fmlunx on Twitter](https://twitter.com/fmlunx), [@fmlunx on Instagram](https://instagram.com/fmlunx) or felipenldev@gmail.com
 -->
 
 <div align="center">
@@ -282,13 +282,13 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
  
 -->
 
+<!-- Aqui, as visitas ao meu perfil -->
+
+[![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=Visitas+ao+perfil&style=for-the-badge)](https://github.com/felipenlunkes)
+
 </div>
 
 </details>
-
-  <!-- Aqui, as visitas ao meu perfil -->
-
-[![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=Visitas+ao+perfil&style=for-the-badge)](https://github.com/felipenlunkes)
   
 <!-- Vai funcionar como <hr> -->
 
