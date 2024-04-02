@@ -24,10 +24,6 @@
 
 <div align="center">
 
-<table align="right">
-<tr><td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md">:brazil: Versão em português</a></td></tr>
-</table>
-
 # [<img src="https://github.com/felipenlunkes/felipenlunkes/blob/main/img/wave.gif" width="30px" height="30px"/>]() Hi there
 
 ## :technologist: About me
@@ -41,6 +37,7 @@
 <td><a href="https://felipenlunkes.github.io/cv">:bulb: My resume </a></td>
 <td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/ABOUT.en.md">😁 More about me </a></td>
 <td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md">:heart: My projects </a></td>
+<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md">:brazil: Versão em português</a></td>
 </tr>
 </table>
 
