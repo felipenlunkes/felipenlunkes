@@ -3,11 +3,7 @@
 
 <div align="center">
   
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
-[![](https://img.shields.io/badge/OS-FreeBSD-informational?style=flat&logo=freebsd&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
-[![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
-[![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
-[![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=assembly&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
+[![](https://img.shields.io/badge/Code-x86_Assembly-informational?style=flat&logo=assembly&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
@@ -17,6 +13,10 @@
 [![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
+[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
+[![](https://img.shields.io/badge/OS-FreeBSD-informational?style=flat&logo=freebsd&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
+[![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
+[![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Arduino-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 
 </div>
