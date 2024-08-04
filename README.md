@@ -199,6 +199,7 @@ Feel free to contact me through any of the platforms below:
 
 ##### Virtualization
 
+![docker](https://img.shields.io/badge/Docker-049CEC?style=for-the-badge&logo=docker&logoColor=white)
 ![qemu](https://img.shields.io/badge/Qemu-0A0A0A?style=for-the-badge&logo=qemu&logoColor=white)
 ![virtualbox](https://img.shields.io/badge/VirtualBox-118515?style=for-the-badge&logo=virtualbox&logoColor=white)
 
