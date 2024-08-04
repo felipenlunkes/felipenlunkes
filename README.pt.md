@@ -11,12 +11,12 @@
 [![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=assembly&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
-[![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
-[![](https://img.shields.io/badge/Code-VisualBasic-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
+[![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
+[![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
+[![](https://img.shields.io/badge/Code-VisualBasic-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
-[![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Arduino-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 
 </div>
