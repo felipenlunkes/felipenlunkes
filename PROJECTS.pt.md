@@ -32,6 +32,15 @@
 
 <div align="justify">
 
+<table align="center">
+<tr>
+<td><a href="https://cv.lunx.me/resume.pt">:bulb: Meu currículo </a></td>
+<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/ABOUT.pt.md">😁 Mais sobre mim </a></td>
+<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.pt.md">:heart: Meus projetos </a></td>
+<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.md">:uk: English version </a></td>
+</tr>
+</table>
+
 Meus projetos foram divididos em categorias. Aqui vai um sumário para facilitar a busca:
 
 * [Ferramentas e utilitários](#-ferramentas-e-utilitários)

@@ -32,6 +32,15 @@
 
 <div align="justify">
 
+<table align="center">
+<tr>
+<td><a href="https://cv.lunx.me">:bulb: My resume </a></td>
+<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/ABOUT.en.md">😁 More about me </a></td>
+<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.md">:heart: My projects </a></td>
+<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md">:brazil: Versão em português</a></td>
+</tr>
+</table>
+
 My projects have been divided into categories. A summary to facilitate the search:
 
 * [Tools and utilities](#-tools-and-utilities)
