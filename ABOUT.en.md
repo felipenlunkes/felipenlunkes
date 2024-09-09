@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/header.png "My Twitter account")](https://twitter.com/felipeldev/)
+[![Header](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/header.png "My Bluesky account")](https://bsky.app/profile/lunx.me)
 
 <div align="center">
 
