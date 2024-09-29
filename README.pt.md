@@ -38,8 +38,6 @@
 <table align="center">
 <tr>
 <td><a href="https://cv.lunx.me/resume.pt">:bulb: Meu currículo </a></td>
-<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/ABOUT.pt.md">😁 Mais sobre mim </a></td>
-<td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.pt.md">:heart: Meus projetos </a></td>
 <td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.md">:uk: English version </a></td>
 </tr>
 </table>
@@ -48,17 +46,13 @@ Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor backend pleno.
 
 * :abacus: Experiência em implementação de projetos em **Assembly x86**, **Java**, **C**, **Python** e **shell script**;
 * :seedling: Prática na administração de sistemas UNIX-like (Linux, FreeBSD e macOS).
-* :books: Atualmente, me aprimorando continuamente em **Java**, **Rust**, **Python**, **Assembly x86** e **JavaScript/TypeScript**;
+* :books: Atualmente, me aprimorando continuamente em **Java**, **Rust**, **Python**, **Assembly x86**, **JavaScript/TypeScript**, **HTML** e **CSS**;
 * :newspaper: Escrevendo sobre tecnologia e programação no [Agente x86](https://blog.lunx.me);
 * :heart: Desenvolvendo o [Sistema Operacional Hexagonix](https://github.com/hexagonix) (Hexagonix OS) como hobby.
 
 > **Essa conta não é utilizada para fins profissionais, apenas para projetos pessoais e colaborativos.**
 
 </div>
-
-<!--
-- 📫 How to reach me: [@fmlunx on Twitter](https://twitter.com/fmlunx), [@fmlunx on Instagram](https://instagram.com/fmlunx) or felipenldev@gmail.com
--->
 
 <div align="center">
 
