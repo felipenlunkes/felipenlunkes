@@ -38,6 +38,7 @@
 <table align="center">
 <tr>
 <td><a href="https://cv.lunx.me/resume.pt">:bulb: Meu currículo </a></td>
+<td><a href="https://cv.lunx.me">:palm_tree: Meu website </a></td>
 <td><a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.md">:uk: English version </a></td>
 </tr>
 </table>
