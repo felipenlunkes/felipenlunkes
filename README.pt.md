@@ -47,7 +47,7 @@ Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor backend pleno.
 
 * :abacus: Experiência em implementação de projetos em **Assembly x86**, **Java**, **C**, **Python** e **shell script**;
 * :seedling: Prática na administração de sistemas UNIX-like (Linux, FreeBSD e macOS).
-* :books: Atualmente, me aprimorando continuamente em **Java**, **Rust**, **Python**, **Assembly x86**, **C#**, **JavaScript/TypeScript**, **HTML** e **CSS**;
+* :books: Atualmente, me aprimorando continuamente em **Java**, **Rust**, **Python**, **C#**, **Assembly x86**, **JavaScript/TypeScript**, **HTML** e **CSS**;
 * :newspaper: Escrevendo sobre tecnologia e programação no [Agente x86](https://blog.lunx.me);
 * :heart: Desenvolvendo o [Sistema Operacional Hexagonix](https://github.com/hexagonix) (Hexagonix OS) como hobby.
 
@@ -245,7 +245,7 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 <!-- Vamos excluir repositórios que não são de minha autoria, como o TROPIX-->
 
 <a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=10&custom_title=Linguagens%20mais%20usadas&locale=pt-BR&PAT_1">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=12&custom_title=Linguagens%20mais%20usadas&locale=pt-BR&PAT_1">
 </a>
 
 <br>
