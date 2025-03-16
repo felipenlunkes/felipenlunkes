@@ -45,9 +45,9 @@
 
 Hi! My name is Felipe Lunkes (he/him) and I'm a backend developer.
 
-* :abacus: Experience implementing projects in **x86 Assembly**, **Java**, **C**, **Python** and **shell script**;
+* :abacus: Experience implementing projects in **Java**, **Python**, **x86 Assembly**, **C** and **shell script**;
 * :seedling: Practice in maintenance/administration of Linux and FreeBSD systems;
-* :books: Currently improving myself in **Java**, **Rust**, **Python**, **x86 Assembly**, **C#**, **JavaScript/TypeScript**, **HTML** and **CSS**;
+* :books: Currently improving myself in **Java**, **Rust**, **Python**, **C#**, **x86 Assembly**, **JavaScript/TypeScript**, **HTML** and **CSS**;
 * :newspaper: Writing about technology and programming on [Agente x86](https://blog.lunx.me) (in Portuguese);
 * :heart: Developing the [Hexagonix Operating System](https://github.com/hexagonix) (Hexagonix OS) as a hobby.
 
@@ -243,7 +243,7 @@ Feel free to contact me through any of the platforms below:
 <!-- Vamos excluir repositórios que não são de minha autoria, como o TROPIX-->
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=14&PAT_1">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=10&PAT_1">
 </a>
 
 </div>
