@@ -174,6 +174,9 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 ![arduino_IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![intelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![RustRover](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white)
+![RustRover](https://img.shields.io/badge/Rust_Rover-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![visualstudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
@@ -322,6 +325,7 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 ![mx-110](https://img.shields.io/badge/NVIDIA-MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![windows-11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![intelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![RustRover](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white)
 ![RustRover](https://img.shields.io/badge/Rust_Rover-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
