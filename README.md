@@ -295,9 +295,9 @@ Feel free to contact me through any of the platforms below:
 
 </div>
 
-### Desktop 
-
 <div align="center">
+
+### Desktop 
 
 ![ryzen-7](https://img.shields.io/badge/AMD-Ryzen_7-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![AMD-Radeon-Graphics](https://img.shields.io/badge/Radeon-Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
@@ -311,9 +311,9 @@ Feel free to contact me through any of the platforms below:
 
 </div>
 
-### Laptop
-
 <div align="center">
+
+### Laptop
 
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![mx-110](https://img.shields.io/badge/NVIDIA-MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
