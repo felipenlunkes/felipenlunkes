@@ -51,7 +51,7 @@ Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor backend pleno.
 * :newspaper: Escrevendo sobre tecnologia e programação no [Agente x86](https://blog.lunx.me);
 * :heart: Desenvolvendo o [Sistema Operacional Hexagonix](https://github.com/hexagonix) (Hexagonix OS) como hobby.
 
-> **Essa conta não é utilizada para fins profissionais, apenas para projetos pessoais e colaborativos.**
+> :warning: **Essa conta não é utilizada para fins profissionais, apenas para projetos pessoais e colaborativos.**
 
 </div>
 
