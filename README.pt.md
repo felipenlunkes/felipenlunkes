@@ -294,14 +294,16 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 
 <div align="center">
   
-## :desktop_computer: Meu setup de trabalho
+## :desktop_computer: Meu setup
 
 </div>
-  
+
+### Desktop 
+
 <div align="center">
 
 ![ryzen-7](https://img.shields.io/badge/AMD-Ryzen_7-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![AMD-radeon](https://img.shields.io/badge/Radeon-Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![AMD-Radeon-Graphics](https://img.shields.io/badge/Radeon-Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![intelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
@@ -309,6 +311,12 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 ![RustRover](https://img.shields.io/badge/Rust_Rover-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![vs-code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+### Laptop
+
+<div align="center">
 
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![mx-110](https://img.shields.io/badge/NVIDIA-MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -320,6 +328,8 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 ![vs-code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+</div>
+
 <!--
 
 ![AMD E1](https://img.shields.io/badge/AMD-E1-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
@@ -330,21 +340,19 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 
 -->
 
-</div>
-
-<!-- 
+<!--
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
 <div align="center">
-   
-## :heavy_plus_sign: Mais
+
+## :heavy_plus_sign: More
 
 </div>
-  
+
 <div align="justify">
-  
-* <img src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/aed78269-8ef2-4e2b-9f8a-a687fba40bfd.png" width="25px" height="25px" /> [Currículo Lattes](http://lattes.cnpq.br/2540365589952421)
+    
+* <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/Brasil.gif" width="25px" height="15px" /> [Versão em português](README.pt.md) (Portuguese version)
 
 </div>
 
