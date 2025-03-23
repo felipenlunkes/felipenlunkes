@@ -100,6 +100,7 @@ Feel free to contact me through any of the platforms below:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
 ![python](https://img.shields.io/badge/Python-8419D1?style=for-the-badge&logo=python&logoColor=white)
+![c#](https://img.shields.io/badge/C_Sharp-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![c](https://img.shields.io/badge/C-F5b342?style=for-the-badge&logo=c&logoColor=white)
 ![bash](https://img.shields.io/badge/Shell_Script-118515?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![visualbasic](https://img.shields.io/badge/VisualBasic-5334ED?style=for-the-badge&logo=.net&logoColor=white)
