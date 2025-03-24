@@ -51,7 +51,7 @@ Hi! My name is Felipe Lunkes (he/him) and I'm a backend developer.
 * :newspaper: Writing about technology and programming on [Agente x86](https://blog.lunx.me) (in Portuguese);
 * :heart: Developing the [Hexagonix Operating System](https://github.com/hexagonix) (Hexagonix OS) as a hobby.
 
-> :warning: **This account is not used for professional purposes, only for personal and collaborative projects.**
+> :warning: **This account is not used for professional purposes at this time, only for personal and collaborative projects.**
 
 </div>
 
