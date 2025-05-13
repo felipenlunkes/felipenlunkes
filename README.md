@@ -90,74 +90,11 @@ Feel free to contact me through any of the platforms below:
 
 </div>
 
-
 <div align="center">
 
-### Programming languages</summary>
-
-![Programming languages](https://skillicons.dev/icons?i=java,rust,cs,python,c,js,cmake,bash)
-
-### Frameworks
-
-![Frameworks](https://skillicons.dev/icons?i=bootstrap,spring)
-
-### Operating Systems and platforms
-
-![Operating Systems](https://skillicons.dev/icons?i=arch,arduino,bsd,debian,linux,plan9,windows)
-
-### Tools
-
-
-#### IDEs
-
-![IDEs](https://skillicons.dev/icons?i=androidstudio,clion,eclipse,idea,pycharm,rider,vscode,webstorm)
-
-#### Databases
-
-![Databases](https://skillicons.dev/icons?i=mysql)
-
-#### Terminal
-
-![gnu_bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![windows_terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-
-
-
-##### Git
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-8117EB?style=for-the-badge&logo=github&logoColor=white)
-
-##### Workflow
-
-![jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-
-##### Virtualization
-
-![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![qemu](https://img.shields.io/badge/Qemu-0A0A0A?style=for-the-badge&logo=qemu&logoColor=white)
-![virtualbox](https://img.shields.io/badge/VirtualBox-118515?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Skills and tools](https://skillicons.dev/icons?i=java,rust,cs,py,c,js,ts,html,css,dotnet,md,cmake,bash,bootstrap,nodejs,npm,spring,hibernate,arch,arduino,bsd,debian,linux,mint,ubuntu,plan9,windows,androidstudio,clion,eclipse,idea,pycharm,rider,vscode,webstorm,mysql,docker,kafka,redis,postman,aws,azure,gradle,git,github,bitbucket,jenkins,figma)
 
 </div>
-
-</details>
-
-<details title="Design tools" align='left'>
-<br>
-<summary align='left'>Design tools</summary>
-
-<div align="justify">
-
-![creative_cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![canva](https://img.shields.io/badge/Canva-F28A22?style=for-the-badge&logo=canva&logoColor=white)
-![gimp](https://img.shields.io/badge/Gimp-139176?style=for-the-badge&logo=gimp&logoColor=white)
-![inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
-
-</div>
-
-</details>
 
 <!-- Vai funcionar como <hr> -->
 
