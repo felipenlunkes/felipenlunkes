@@ -86,7 +86,7 @@ Feel free to contact me through any of the platforms below:
 
 <div align="center">
 
-## :hammer_and_wrench: Skills
+## :hammer_and_wrench: Skills and tools
 
 </div>
 

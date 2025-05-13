@@ -86,145 +86,15 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 
 <div align="center">
   
-## :hammer_and_wrench: Habilidades
+## :hammer_and_wrench: Habilidades e ferramentas
 
 </div>
-  
-<details title="Linguagens de programação" align='left'>
-<br>
-<summary align='left'>Linguagens de programação</summary>
-
-<div align="justify">
-
-![assembly](https://img.shields.io/badge/Assembly-F57842?style=for-the-badge&logo=assembly&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
-![python](https://img.shields.io/badge/Python-8419D1?style=for-the-badge&logo=python&logoColor=white)
-![c#](https://img.shields.io/badge/C_Sharp-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![c](https://img.shields.io/badge/C-F5b342?style=for-the-badge&logo=c&logoColor=white)
-![bash](https://img.shields.io/badge/Shell_Script-118515?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![visualbasic](https://img.shields.io/badge/VisualBasic-5334ED?style=for-the-badge&logo=.net&logoColor=white)
-![make](https://img.shields.io/badge/Make-0077B5?style=for-the-badge&logo=cmake&logoColor=white)
-![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-</div>
-
-</details>
-
-<details title="Sistemas Operacionais e plataformas" align='left'>
-<summary align='left'>Sistemas Operacionais e plataformas</summary>
-
-##### DOS (Disk Operating System) e Windows
-
-<div align="left">
-
-![MS-DOS](https://img.shields.io/badge/DOS-DE2218?style=for-the-badge&logo=dos&logoColor=white)
-![Windows-DOS](https://img.shields.io/badge/Windows_DOS-008080?style=for-the-badge&logo=windows-95&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-</div>
-
-##### Linux
-
-<div align="left">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Pop](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
-![Suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![ChromeOS](https://img.shields.io/badge/ChromeOS-372213?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-
-</div>
-
-##### BSD e Unix
-
-<div align="left">
-
-![FreeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
-![macOS](https://img.shields.io/badge/mac_os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Plan9](https://img.shields.io/badge/Plan_9-7719AA?style=for-the-badge&logoColor=white)
-
-##### Outros sistemas operacionais
-
-![ReactOS](https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white)
-
-##### Plataformas
-
-![Arduino](https://img.shields.io/badge/Arduino-E4405F?style=for-the-badge&logo=arduino&logoColor=white)
-
-</div>
-
-</details>
-
-<details title="Ferramentas" align='left'>
-<br>
-<summary align='left'>Ferramentas</summary>
 
 <div align="center">
 
-<div align="justify">
-
-##### IDEs
-
-![android_studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![arduino_IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![intelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-![RustRover](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white)
-![RustRover](https://img.shields.io/badge/Rust_Rover-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
-![visualstudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-##### Terminal
-
-![gnu_bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![windows_terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-
-##### Bancos de dados
-
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-##### Git
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-8117EB?style=for-the-badge&logo=github&logoColor=white)
-
-##### Workflow
-
-![jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)c
-![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-
-##### Virtualização
-
-![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![qemu](https://img.shields.io/badge/Qemu-0A0A0A?style=for-the-badge&logo=qemu&logoColor=white)
-![virtualbox](https://img.shields.io/badge/VirtualBox-118515?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Habilidades e ferramentas](https://skillicons.dev/icons?i=java,rust,cs,py,c,js,ts,html,css,dotnet,md,cmake,bash,bootstrap,nodejs,npm,spring,hibernate,arch,arduino,bsd,debian,linux,mint,ubuntu,plan9,windows,androidstudio,clion,eclipse,idea,pycharm,rider,vscode,webstorm,mysql,docker,kafka,redis,postman,aws,azure,gradle,git,github,bitbucket,jenkins,figma)
 
 </div>
-
-</details>
-
-<details title="Ferramentas de design" align='left'>
-<br>
-<summary align='left'>Ferramentas de design</summary>
-
-<div align="justify">
-
-![creative_cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![canva](https://img.shields.io/badge/Canva-F28A22?style=for-the-badge&logo=canva&logoColor=white)
-![gimp](https://img.shields.io/badge/Gimp-139176?style=for-the-badge&logo=gimp&logoColor=white)
-![inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
-
-</div>
-
-</details>
 
 <!-- Vai funcionar como <hr> -->
 
