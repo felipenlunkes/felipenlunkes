@@ -92,7 +92,7 @@ Feel free to contact me through any of the platforms below:
 
 <div align="center">
 
-![Skills and tools](https://skillicons.dev/icons?i=java,rust,cs,py,c,js,ts,html,css,dotnet,md,cmake,bash,bootstrap,nodejs,npm,spring,hibernate,arch,arduino,bsd,debian,linux,mint,ubuntu,plan9,windows,androidstudio,clion,eclipse,idea,pycharm,rider,vscode,webstorm,mysql,docker,kafka,redis,postman,aws,azure,gradle,git,github,bitbucket,jenkins,figma)
+![Skills and tools](https://skillicons.dev/icons?i=java,rust,cs,py,c,js,ts,html,css,dotnet,md,cmake,bash,bootstrap,nodejs,npm,spring,hibernate,arch,arduino,bsd,debian,linux,mint,ubuntu,plan9,windows,androidstudio,clion,eclipse,idea,pycharm,rider,vscode,webstorm,mysql,docker,kafka,redis,postman,aws,azure,gradle,git,github,bitbucket,jenkins,figma&perline=10)
 
 </div>
 
