@@ -95,7 +95,7 @@ Feel free to contact me through any of the platforms below:
 
 ### Programming languages</summary>
 
-[Programming languages](https://skillicons.dev/icons?i=java,rust,cs,python,c,js,cmake,bash")
+![Programming languages](https://skillicons.dev/icons?i=java,rust,cs,python,c,js,cmake,bash)
 
 <!--
 ![assembly](https://img.shields.io/badge/Assembly-F57842?style=for-the-badge&logo=assembly&logoColor=white)
@@ -120,7 +120,7 @@ Feel free to contact me through any of the platforms below:
 
 -->
 
-[Operating Systems](https://skillicons.dev/icons?i=arch,arduino,bsd,debian,linux,plan9,windows")
+![Operating Systems](https://skillicons.dev/icons?i=arch,arduino,bsd,debian,linux,plan9,windows")
 
 <!--
 ##### Linux
