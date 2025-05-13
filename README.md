@@ -90,12 +90,14 @@ Feel free to contact me through any of the platforms below:
 
 </div>
 
-<details title="Languages" align='left'>
-<br>
-<summary align='left'>Programming languages</summary>
 
-<div align="justify">
+<div align="center">
 
+### Programming languages</summary>
+
+[Programming languages](https://skillicons.dev/icons?i=java,rust,cs,python,c,js,cmake,bash")
+
+<!--
 ![assembly](https://img.shields.io/badge/Assembly-F57842?style=for-the-badge&logo=assembly&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
@@ -107,23 +109,20 @@ Feel free to contact me through any of the platforms below:
 ![make](https://img.shields.io/badge/Make-0077B5?style=for-the-badge&logo=cmake&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-</div>
+-->
 
-</details>
+### Operating Systems and platforms
 
-<details title="Operating Systems and platforms" align='left'>
-<summary align='left'>Operating Systems and platforms</summary>
-
-##### DOS (Disk Operating System) and Windows 
-
-<div align="left">
-
+<!--
 ![MS-DOS](https://img.shields.io/badge/DOS-DE2218?style=for-the-badge&logo=dos&logoColor=white)
 ![Windows-DOS](https://img.shields.io/badge/Windows_DOS-008080?style=for-the-badge&logo=windows-95&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-</div>
+-->
 
+[Operating Systems](https://skillicons.dev/icons?i=arch,arduino,bsd,debian,linux,plan9,windows")
+
+<!--
 ##### Linux
 
 <div align="left">
@@ -161,13 +160,11 @@ Feel free to contact me through any of the platforms below:
 
 </details>
 
-<details title="Tools" align='left'>
-<br>
-<summary align='left'>Tools</summary>
+-->
 
-<div align="justify">
+### Tools
 
-##### IDEs
+#### IDEs
 
 ![android_studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![arduino_IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
