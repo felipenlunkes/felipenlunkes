@@ -135,7 +135,7 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 ![ChromeOS](https://img.shields.io/badge/ChromeOS-372213?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac_os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Plan9](https://img.shields.io/badge/Plan_9-7719AA?style=for-the-badge&logoColor=white)
+![Plan9](https://img.shields.io/badge/Plan_9-7719AA?style=for-the-badge&logo=plan9&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-E4405F?style=for-the-badge&logo=arduino&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
