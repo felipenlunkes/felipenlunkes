@@ -145,7 +145,7 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 ![RustRover](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white)
 ![RustRover](https://img.shields.io/badge/Rust_Rover-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
 ![qemu](https://img.shields.io/badge/Qemu-0A0A0A?style=for-the-badge&logo=qemu&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-118515?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Adobre Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
