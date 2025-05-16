@@ -88,10 +88,6 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
   
 ## :hammer_and_wrench: Habilidades e ferramentas
 
-</div>
-
-<div align="center">
-
 ![x86 Assembly](https://img.shields.io/badge/Assembly-F57842?style=for-the-badge&logo=assembly&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
