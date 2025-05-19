@@ -105,6 +105,8 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 ![make](https://img.shields.io/badge/Make-0077B5?style=for-the-badge&logo=cmake&logoColor=white)
 ![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-FE5F50?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-A22846?style=for-the-badge&logo=.net&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
