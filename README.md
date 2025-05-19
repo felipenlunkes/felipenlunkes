@@ -106,7 +106,7 @@ Feel free to contact me through any of the platforms below:
 ![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-FE5F50?style=for-the-badge&logo=.net&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/ASP.NET_Core-A22846?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-A22846?style=for-the-badge&logo=.net&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
