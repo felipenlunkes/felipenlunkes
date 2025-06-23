@@ -92,7 +92,7 @@ Feel free to contact me through any of the platforms below:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-8419D1?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C#-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C_Sharp-512BD4?style=for-the-badge&logo=cs&logoColor=white)
 ![C](https://img.shields.io/badge/C-F5b342?style=for-the-badge&logo=c&logoColor=black)
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-5334ED?style=for-the-badge&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
