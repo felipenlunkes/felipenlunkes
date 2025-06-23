@@ -88,6 +88,8 @@ Feel free to contact me through any of the platforms below:
 
 ## :hammer_and_wrench: Skills and tools
 
+<div align="justify">
+    
 ![x86 Assembly](https://img.shields.io/badge/Assembly-F57842?style=for-the-badge&logo=assembly&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
@@ -155,7 +157,7 @@ Feel free to contact me through any of the platforms below:
 <!--
 ![Skills and tools](https://skillicons.dev/icons?i=java,rust,cs,py,c,js,ts,html,css,dotnet,md,cmake,bash,bootstrap,nodejs,npm,spring,hibernate,arch,arduino,bsd,debian,linux,mint,ubuntu,plan9,windows,androidstudio,clion,eclipse,idea,pycharm,rider,vscode,webstorm,mysql,docker,kafka,redis,postman,aws,azure,gradle,git,github,bitbucket,jenkins,figma)
 -->
-
+</div>
 </div>
 
 <!-- Vai funcionar como <hr> -->
