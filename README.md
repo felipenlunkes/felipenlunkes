@@ -6,6 +6,7 @@
 [![](https://img.shields.io/badge/Code-x86_Assembly-informational?style=flat&logo=assembly&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
+[![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Code-Shel_Script-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
@@ -196,9 +197,14 @@ Feel free to contact me through any of the platforms below:
 
 <div align="center">
 
+<!-- Desativado por enquanto - aparentemente, os serviços não funcionam mais
+
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
 <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&PAT_1">
 </a>
+
+-->
+
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight&count_private=true&PAT_1">
 </a>
