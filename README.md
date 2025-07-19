@@ -135,11 +135,7 @@ Feel free to contact me through any of the platforms below:
 ![RustRover](https://img.shields.io/badge/Rust_Rover-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
-![Adobre Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-F28A22?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Gimp](https://img.shields.io/badge/Gimp-139176?style=for-the-badge&logo=gimp&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 
 <!--
 ![Skills and tools](https://skillicons.dev/icons?i=java,rust,cs,py,c,js,ts,html,css,dotnet,md,cmake,bash,bootstrap,nodejs,npm,spring,hibernate,arch,arduino,bsd,debian,linux,mint,ubuntu,plan9,windows,androidstudio,clion,eclipse,idea,pycharm,rider,vscode,webstorm,mysql,docker,kafka,redis,postman,aws,azure,gradle,git,github,bitbucket,jenkins,figma)
