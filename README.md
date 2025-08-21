@@ -46,7 +46,7 @@
 
 Hi! My name is Felipe Lunkes (he/him) and I'm a backend developer.
 
-* :abacus: Experience implementing projects in **Java**, **Python**, **x86 Assembly**, **C** and **shell script**;
+* :abacus: Experience implementing projects in **Java**, **Rust**, **Python**, **x86 Assembly**, **C** and **shell script**;
 * :seedling: Practice in maintenance/administration of Linux and FreeBSD systems;
 * :books: Currently improving myself in **Java**, **Rust**, **Python**, **C#**, **x86 Assembly**, **JavaScript/TypeScript**, **HTML** and **CSS**;
 * :newspaper: Writing about technology and programming on [Agente x86](https://blog.lunx.me) (in Portuguese);
