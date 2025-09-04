@@ -1,6 +1,7 @@
 
 [![Header](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/header.png "My page")](https://lunx.me)
 
+<!--
 <div align="center">
 
 [![](https://img.shields.io/badge/Code-x86_Assembly-informational?style=flat&logo=assembly&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
@@ -23,6 +24,7 @@
 [![](https://img.shields.io/badge/Arduino-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 
 </div>
+-->
 
 ![A cool divisory inspired by github.com/wrongbyte](https://i.imgur.com/waxVImv.png)
 
