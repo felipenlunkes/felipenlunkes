@@ -1,6 +1,7 @@
 
 [![Cabeçalho](https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/header.pt.png "Minha página")](https://lunx.me)
 
+<!--
 <div align="center">
   
 [![](https://img.shields.io/badge/Code-x86_Assembly-informational?style=flat&logo=assembly&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
@@ -23,6 +24,7 @@
 [![](https://img.shields.io/badge/Arduino-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 
 </div>
+-->
 
 ![A cool divisory inspired by github.com/wrongbyte](https://i.imgur.com/waxVImv.png)
 
@@ -112,6 +114,7 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-#FF6600?style=for-the-badge&logo=rabiitmq&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
