@@ -45,14 +45,14 @@ Feel free to contact me through any of the platforms below:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipelunkes/)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/lunx.me)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@lunx8086)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://www.twitter.com/lunx8086/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/lunx8086)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lunx8086/)
-[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/lunx8086)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipenldev@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Contact_me-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/felipelunkes/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-Contact_me-informational?style=flat&logo=bluesky&logoColor=white&color=2bbc8a)](https://bsky.app/profile/lunx.me)
+[![Threads](https://img.shields.io/badge/Threads-Contact_me-informational?style=flat&logo=threads&logoColor=white&color=2bbc8a)](https://www.threads.net/@lunx8086)
+[![X](https://img.shields.io/badge/X-Contact_me-informational?style=flat&logo=x&logoColor=white&color=2bbc8a)](https://www.twitter.com/lunx8086/)
+[![Discord](https://img.shields.io/badge/Discord-Contact_me-informational?style=flat&logo=discord&logoColor=white&color=2bbc8a)](http://discordapp.com/users/lunx8086)
+[![Instagram](https://img.shields.io/badge/Instagram-Contact_me-informational?style=flat&logo=instagram&logoColor=white&color=2bbc8a)](https://www.instagram.com/lunx8086/)
+[![dev.to](https://img.shields.io/badge/dev.to-Contact_me-informational?style=flat&logo=dev.to&logoColor=white&color=2bbc8a)](https://dev.to/lunx8086)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_me-informational?style=flat&logo=gmail&logoColor=white&color=2bbc8a)](mailto:felipenldev@gmail.com)
 
 </div>
 
@@ -64,7 +64,7 @@ Feel free to contact me through any of the platforms below:
 
 ## :rocket: Skills
     
-[![](https://img.shields.io/badge/Code-x86_Assembly-informational?style=flat&logo=assembly&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
+[![](https://img.shields.io/badge/Code-x86_Assembly-informational?style=flat&logo=asssembly&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
