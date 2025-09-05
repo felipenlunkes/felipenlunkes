@@ -61,7 +61,7 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 
 <div align="center">
   
-## :rocker: Habilidades e ferramentas
+## :rocket: Habilidades e ferramentas
 
 [![](https://img.shields.io/badge/Code-x86_Assembly-informational?style=flat&logo=asssembly&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
 [![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)](https://github.com/felipenlunkes)
