@@ -197,6 +197,8 @@ Feel free to contact me through any of the platforms below:
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
+<!--
+
 <div align="center">
 
 ## :desktop_computer: My setup
@@ -236,30 +238,10 @@ Feel free to contact me through any of the platforms below:
 
 </div>
 
-<!--
-
 ![AMD E1](https://img.shields.io/badge/AMD-E1-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Radeon 8210](https://img.shields.io/badge/AMD-Radeon_HD_8210-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/freeBSD-DE2218?style=for-the-badge&logo=freebsd&logoColor=white)
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
--->
-
-<!--
-
-<img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
-
-<div align="center">
-
-## :heavy_plus_sign: More
-
-</div>
-
-<div align="justify">
-    
-* <img src="https://raw.githubusercontent.com/felipenlunkes/felipenlunkes/master/img/Brasil.gif" width="25px" height="15px" /> [Versão em português](README.pt.md) (Portuguese version)
-
-</div>
 
 -->
