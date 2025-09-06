@@ -143,7 +143,7 @@ Feel free to contact me through any of the platforms below:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true&PAT_1">
 </a>
 
-<!-- Vamos excluir repositórios que não são de minha autoria, como o TROPIX-->
+<!-- Vamos excluir repositórios que não são de minha autoria, como o TROPIX -->
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=12&PAT_1">
