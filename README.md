@@ -125,6 +125,8 @@ Feel free to contact me through any of the platforms below:
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
+<!--
+
 <div align="center">
 
 ## :chart_with_upwards_trend: GitHub Stats
@@ -143,8 +145,6 @@ Feel free to contact me through any of the platforms below:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true&PAT_1">
 </a>
 
-<!-- Vamos excluir repositórios que não são de minha autoria, como o TROPIX -->
-
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=12&PAT_1">
 </a>
@@ -159,14 +159,6 @@ Feel free to contact me through any of the platforms below:
 
 <div align="center">
 
-<!-- Desativado por enquanto - aparentemente, os serviços não funcionam mais
-
-<a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
-<img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&PAT_1">
-</a>
-
--->
-
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight&count_private=true&PAT_1">
 </a>
@@ -175,27 +167,15 @@ Feel free to contact me through any of the platforms below:
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipenlunkes&theme=tokyonight&utcOffset=-3&PAT_1">
 </a>
 
-<!-- Desativado por enquanto - aparentemente, os serviços não funcionam mais
-
-<a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
-<img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=felipenlunkes&custom_title=Felipe%20Lunkes's%20GitHub%20Activity&theme=tokyonight&area=true&hide_border=true&PAT_1">
-</a>
-
-<img height="180em" src="https://activity-graph.herokuapp.com/graph?username=felipenlunkes&count_private=true&hide_border=false&theme=tokyonight">
-
--->
-
-<!-- Aqui, as visitas ao meu perfil -->
-
 [![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=GitHub+profile+views&style=for-the-badge)](https://github.com/felipenlunkes)
     
 </div>
 
 </details>
 
-<!-- Vai funcionar como <hr> -->
-
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
+
+-->
 
 <!--
 

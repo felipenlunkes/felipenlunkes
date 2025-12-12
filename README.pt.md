@@ -124,6 +124,8 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
+<!--
+
 <div align="center">
   
 ## :chart_with_upwards_trend: Estatísticas do meu GitHub
@@ -142,8 +144,6 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true&custom_title=Estatísticas%20de%20felipenlunkes&locale=pt-BR&PAT_1">
 </a>
 
-<!-- Vamos excluir repositórios que não são de minha autoria, como o TROPIX -->
-
 <a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=12&custom_title=Linguagens%20mais%20usadas&locale=pt-BR&PAT_1">
 </a>
@@ -158,14 +158,6 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 
 <div align="center">
 
-<!-- Desativado por enquanto - aparentemente, os serviços não funcionam mais
-
-<a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github&PAT_1">
-<img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipenlunkes&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&PAT_1">
-</a>
-
--->
-
 <a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenlunkes&theme=tokyonight&count_private=true&PAT_1">
 </a>
@@ -174,27 +166,15 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipenlunkes&theme=tokyonight&utcOffset=-3&PAT_1">
 </a>
 
-<!-- Desativado por enquanto - aparentemente, os serviços não funcionam mais
-
-<a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github">
-<img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=felipenlunkes&custom_title=Atividade%20de%20Felipe%20Lunkes%20no%20GitHub&theme=tokyonight&area=true&hide_border=true&PAT_1">
-</a>
-
-<img height="180em" src="https://activity-graph.herokuapp.com/graph?username=felipenlunkes&count_private=true&hide_border=false&theme=tokyonight&PAT_1">
- 
--->
-
-<!-- Aqui, as visitas ao meu perfil -->
-
 [![](https://komarev.com/ghpvc/?username=felipenlunkes&color=F57842&label=Visitas+ao+perfil&style=for-the-badge)](https://github.com/felipenlunkes)
 
 </div>
 
 </details>
-  
-<!-- Vai funcionar como <hr> -->
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
+
+-->
 
 <!--
 
