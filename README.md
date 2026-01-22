@@ -125,8 +125,6 @@ Feel free to contact me through any of the platforms below:
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
-<!--
-
 <div align="center">
 
 ## :chart_with_upwards_trend: GitHub Stats
@@ -135,11 +133,15 @@ Feel free to contact me through any of the platforms below:
 
 <div align="center">
 
+<!--
+
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
 <img src="https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=2&column=5&margin-h=4&theme=darkhub&count_private=true&margin-w=2&no-frame=true">
 </a>
 
 <br>
+
+-->
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true&PAT_1">
@@ -174,8 +176,6 @@ Feel free to contact me through any of the platforms below:
 </details>
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
-
--->
 
 <!--
 
