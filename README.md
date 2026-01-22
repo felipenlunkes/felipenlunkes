@@ -156,8 +156,8 @@ Feel free to contact me through any of the platforms below:
 <br>
 
 <details title="Detailed statistics" align='left'>
-<br>
 <summary align='left'>:bar_chart: Detailed statistics</summary>
+<br>
 
 <div align="center">
 
