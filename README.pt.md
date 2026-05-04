@@ -123,8 +123,6 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
-<!--
-
 <div align="center">
   
 ## :chart_with_upwards_trend: Estatísticas do meu GitHub
@@ -139,13 +137,25 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 
 <br>
 
-<a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github&PAT_1">
+<a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
+<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipenlunkes&theme=tokyonight&custom_title=Estat%C3%ADsticas%20de%20felipenlunkes&locale=pt-BR">
+</a>
+
+<a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
+<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipenlunkes&theme=tokyonight">
+</a>
+
+<a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
+<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipenlunkes&theme=tokyonight">
+</a>
+
+<!-- <a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github&PAT_1">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true&custom_title=Estatísticas%20de%20felipenlunkes&locale=pt-BR&PAT_1">
 </a>
 
 <a href="https://github.com/felipenlunkes/felipenlunkes/blob/main/README.pt.md#chart_with_upwards_trend-estat%C3%ADsticas-do-meu-github">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=12&custom_title=Linguagens%20mais%20usadas&locale=pt-BR&PAT_1">
-</a>
+</a> -->
 
 <br>
 
@@ -182,7 +192,7 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
 ### Desktop 
 
 ![ryzen-7](https://img.shields.io/badge/AMD-Ryzen_7-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![AMD-Radeon-Graphics](https://img.shields.io/badge/Radeon-Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![AMD-Radeon-Graphics](https://img.shields.io/badge/RX_9070_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![intelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
