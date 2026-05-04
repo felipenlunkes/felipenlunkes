@@ -124,8 +124,6 @@ Feel free to contact me through any of the platforms below:
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
-<!--
-
 <div align="center">
 
 ## :chart_with_upwards_trend: GitHub Stats
@@ -141,12 +139,24 @@ Feel free to contact me through any of the platforms below:
 <br>
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipenlunkes&theme=tokyonight&custom_title=Estat%C3%ADsticas%20de%20felipenlunkes&locale=pt-BR">
+</a>
+
+<a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipenlunkes&theme=tokyonight">
+</a>
+
+<a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipenlunkes&theme=tokyonight">
+</a>
+
+<!-- <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipenlunkes&show_icons=true&theme=tokyonight&bg_color=0D1117&show_icons=true&hide_border=false&count_private=true&PAT_1">
 </a>
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenlunkes&theme=tokyonight&layout=compact&bg_color=0D1117&count_private=true&exclude_repo=TROPIX&langs_count=12&PAT_1">
-</a>
+</a> -->
 
 </div>
 
@@ -174,14 +184,14 @@ Feel free to contact me through any of the platforms below:
 
 <img src="https://i.imgur.com/waxVImv.png" width="100%" height="2px" />
 
-<div align="center">
+<!-- <div align="center">
 
 ## :desktop_computer: My setup
 
 ### Desktop 
 
 ![ryzen-7](https://img.shields.io/badge/AMD-Ryzen_7-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![AMD-Radeon-Graphics](https://img.shields.io/badge/Radeon-Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![AMD-Radeon-Graphics](https://img.shields.io/badge/Radeon-RX_9070_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![intelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
@@ -209,6 +219,4 @@ Feel free to contact me through any of the platforms below:
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-</div>
-
--->
+</div> -->
