@@ -139,15 +139,15 @@ Feel free to contact me through any of the platforms below:
 <br>
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipenlunkes&theme=tokyonight&custom_title=Estat%C3%ADsticas%20de%20felipenlunkes&locale=pt-BR">
+<img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipenlunkes&theme=tokyonight&custom_title=Estat%C3%ADsticas%20de%20felipenlunkes&locale=pt-BR">
 </a>
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipenlunkes&theme=tokyonight">
+<img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipenlunkes&theme=tokyonight">
 </a>
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipenlunkes&theme=tokyonight">
+<img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipenlunkes&theme=tokyonight">
 </a>
 
 <!-- <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
