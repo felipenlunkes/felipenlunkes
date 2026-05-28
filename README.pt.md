@@ -131,11 +131,11 @@ Sinta-se a vontade para entrar em contato comigo por meio de alguma das platafor
   
 <div align="center">
 
-<a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
+<!-- <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
 <img src="https://github-profile-trophy.vercel.app/?username=felipenlunkes&row=2&column=5&margin-h=4&theme=darkhub&count_private=true&margin-w=2&no-frame=true">
 </a>
 
-<br>
+<br> -->
 
 <a href="https://github.com/felipenlunkes#chart_with_upwards_trend-github-stats">
 <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipenlunkes&theme=tokyonight&custom_title=Estat%C3%ADsticas%20de%20felipenlunkes&locale=pt-BR">
