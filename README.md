@@ -19,7 +19,7 @@
 </tr>
 </table>
 
-Hi! My name is Felipe Lunkes (he/him) and I'm a backend developer.
+Hi! My name is Felipe Lunkes (he/him) and I'm a senior backend developer.
 
 * :abacus: Experience implementing projects in **Java**, **Rust**, **Python**, **x86 Assembly**, **C** and **shell script**;
 * :seedling: Practice in maintenance/administration of Linux and FreeBSD systems;
