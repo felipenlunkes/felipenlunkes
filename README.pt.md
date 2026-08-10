@@ -18,7 +18,7 @@
 </tr>
 </table>
 
-Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor backend pleno.
+Oi! Meu nome é Felipe Lunkes (ele/dele) e sou um desenvolvedor backend sênior.
 
 * :abacus: Experiência em implementação de projetos em **Java**, **Rust**, **Python**, **Assembly x86**, **C** e **shell script**;
 * :seedling: Prática na administração de sistemas UNIX-like (Linux, FreeBSD e macOS).
